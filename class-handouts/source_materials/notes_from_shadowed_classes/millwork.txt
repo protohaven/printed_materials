@@ -1,0 +1,145 @@
+# Millwork Q&A, Notes
+
+## Talking About the Stock
+
+Q: What is it about non-flat wood that’s dangerous?
+
+A: Table saw: wood can bind and kick back.
+
+A: For the planer, we’d end up “skip planing” - wood will rock as it moves through, and you won’t get a flat surface.
+
+A: Always go through the planer first.
+
+A: If the board is too wide for the jointer, we may have to resort to skip planing anyway.
+
+## Jointer
+
+Always check the hight of the output table - must be level with the top of the cutter head.
+ 
+Start with only a 16th of an inch. Taking off less material: smoother, easier cut.
+
+Plan for moving toward a dimension.
+
+“Bladeguard” or the “pork chop”
+
+Check for the squareness of the table to the fence.
+
+To adjust the angle of the fence, turn the fence release counter clockwise, adjust the fence, look for light under the rule of the square, check both both sides.
+
+Q: Do we have tools in the shop to check for angles other than 45 and 90?
+
+A: There’s a digital protractor by the desk.
+
+Q: Do we need to worry about which way the grain is going?
+
+A: 
+
+“Whenever we’re surfacing the grain is important.”
+
+“Don’t push down over the cutting head, you’ll take out a _snipe_, or a semi-circular cut in the surface.”
+
+# Planer
+
+Only a quarter turn.
+
+“Like pasta!”
+
+“If you’re taking light passes, you shouldn’t have to worry about tear-out as much.”
+
+# Router Table
+
+Router is mounted under the table, permanently plugged in to the control panel at the front of the router.
+
+Get the router kit and bits from the front desk.
+
+## Router
+
+(Router is as dangerous as the table saw - lot of room for error, and an upbeat moving really fast  coming out of the table.)
+
+The router is spinning on a vertical access.
+
+Router is upside down - everything right to left (from the top, router is spinning counter clockwise.)
+
+Router supports 1/4” and 1/2 bit shanks (two collets)
+
+## Bits
+
+(Router bit discussion - edge bits, rabbit bits, bearings work against the face.)
+
+Q: Can bits be sharpened?
+
+Hold bits below, or on the dark (non-sharp) part.
+
+When clamping a bit in the collet, don’t clap to the coating, only metal-on-metal
+
+Q: Will the router self-tighten when it’s running?
+
+This router uses two wrenches to tighten/untighten
+
+Set up wrenches so that you are pushing the wrecks together, not apart.
+
+To tighten, turn the top wrench cw, bottom wrench CCW
+
+TO loosen, turn the top wrench ccw, bottom wrench cw
+
+- Tighten the bit in place.
+
+(Monkey tight vs. gorilla tight)
+
+Router adjustment handle: There is a tongue and groove on the bottom that rotates into a locking position in the throat of the router table.
+
+Raise and lift with the handle at north/south?
+
+The hight adjustment handle:
+
+- Notch in the handle fits the jig 
+- Once the handle is in raise and lower as needed.
+
+All bits should be below the bottom of the board; bottom of the bit shouldn’t go above the bottom o the board (or: the bottom of the bit should never be proud of the table surface)
+
+Safety: Never have the material between the bit and the fence. (Turns the workpiece into a projectile).
+
+Use fence to support the workpiece - open for a bigger bit, closed for better support.
+
+Add the throat plate.
+
+Different sized throat plate depending on the size of the bit we’re using.
+
+Use the two-prong tool to tighten the place (CCW tightens, CW loosens)
+
+Unlock the micro adjustment, spin micro adjustment dial, lock micro adjust (Allen key in kit).
+
+“I see no more wood in the black part.”
+
+When you start at a corner, line the corner up just left of the center of the bit.
+
+Use pads
+
+Always move workpiece from right to left facing the router table.
+
+- Turn on vacuum
+- Adjust fence
+- Turn on router
+- Make a cut
+- Turn off router
+- turn off vacuum
+
+Might be tearout due to grain or speed.
+
+Moving too slowly may burn the surface.
+
+TODO: What the guidance for the depth of cut vs. size of bit?
+
+Body positioning: don’t put yourself in a position where you’re leaning over the router table.
+
+Workholding: use pads to keep the workpiece pressed firmly against the table. Also use side pressure to keep the workpiece against the bearing or fence as needed
+
+
+
+
+
+
+
+
+
+

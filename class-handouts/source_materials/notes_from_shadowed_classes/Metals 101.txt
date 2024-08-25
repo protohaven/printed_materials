@@ -1,0 +1,293 @@
+---
+title: Metal Work 101
+---
+
+Karen & Katie
+
+Jun 15, 2024
+
+11:30am
+
+#  Safety
+
+No long sleeves - securely above elbows
+
+No long hair, no flapping or dangling clothing
+
+NO GLOVES - no gloves near anything that rotates
+
+(Nothing that will pull you toward the spinning death ball)
+
+
+
+# Materials
+
+We have cooling cups by the grinders with water, but water does start the corrosion process
+
+# Metal Chop Saw
+
+Be careful with this one
+
+Don’t put wood shop pressure on this; the idea is to take light chips/shavings, not grind through.
+
+Don’t use this for 45° angles 
+
+Place the part so the blade catches it on the down or through swing, not on the upswing
+
+Only manipulate the saw unplugged
+
+Several chipped teeth in the row, need to change the blade
+
+We have a 14” blade, but the signage on the saw lists capacities for a 15” blade
+
+The blue arm: lift to ratchet it
+
+Clamp are has a swing for quick release
+
+Use of chop saw clamping block for cutting angle iron
+
+Use v-block for cutting rebar and other cylindrical/rounded workpieces
+
+Not bolted down - more reason to keep it unplugged when messing with it
+
+Make sure folks aren’t downrange (by the genders)
+
+The cut will feel different
+
+Run button is set up to 
+
+## Setting up the machine
+
+Check to make sure there are no chipped teeth.
+
+
+## Work Holding
+
+- Make sure the workplace is secure.
+- Make sure the workpiece doesn’t rack in the clamp.
+- Make sure the workpiece is down on the table.
+- Make sure the back clamp is set and clamped.
+- Make sure the front clamp is tight.
+
+Check both ends of the workpiece is secure.
+
+Bring the unpowered saw blade down on the workpiece to check the cut.
+
+## Operating the machine
+
++ Plug in the machine. \
+  _Do NOT out the electrical drop on the table of the table saw_
++ ONLY USE THE RIGHT HAND TO OPERATE THE SAW (keep body away from cut)
++ Go slowly!
++ Let the blade slow down before removing the the work piece
++ Do not let go of the handle until the blade comes to a complete stop?
+
+## Cleanup
+
+Use chip brushes and dust pans.
+
+# Bandsaw
+
+Materials, either steel or aluminum.
+
+Cut and weld the bandsaw blades with the blade station:
+
+- cut
+- weld
+- grind
+
+
+
+## Setting up
+
+Choose aluminum/steel speed with the level (make sure it clicks in - you may need to manually advance the wheel to get the gearing to seat - open the back door)
+
+Use the speed and pitch chart on the inside of the door
+
+(We have highlighted the metals we’re not allowed to use :) )
+
+Get the guard as low as possible to the workpiece - turn the guard screw, lower the guard, tighten the guard screw. The guard is heavy; be careful.
+
+Be careful that the blade is aligned with the guides (the guides haven’t moved)
+
+Turn on the light
+
+## Workholding
+
+Use the fence.
+
+Hold with both hands if you can
+
+## Running the machine
+
+Go slowly, consistently
+
+“Wait until you can count the teeth” - wait until the blade stops moving completely before taking attention off of it.
+
+## Cleaning Up
+
+Use the chip brush.
+
+Turn off the light.
+
+# Drill Press
+
+Workholding is critical; if the piece gets loose, it turns into a swing arm. (“Helicopter blade” - metal is very dangerous.)
+
+
+## Setting up
+
+Turn on the light
+
+Clear off table of tools
+
+Putting in the bit:
+
++ Close the chuck all the way
++ Open it just enough
++ Put in bit
++ Make sure the bit is true
+
+Keyless chuck; just tighten it up
+
+Adjust the speed if needed (up top - adjust the belts)
+
+Belt change procedure; undo thumbscrews, release tension lever, swap belts, engage tension lever, tighten thumbscrews
+
+## Workholding
+
+Set up the workpiece so the bit doesn’t hit the table (or his sacrificial wood, etc.)
+
+Use the t screws to clamp the case in place.
+
+Or use the t screw and clamps to anchor the work to the table
+
+Table raises and lowers, locks into place. - Adjust the table to make sure the bit will find a void/sacrificial piece
+
+## Using
+
+Turn on motor
+Apply pressure to run the bit through the workpiece
+Turn off motor
+
+## Cleaning up
+
+Chip brush
+Turn off light
+
+# Grinders
+
+(East to west)
+
+- wire brush (anything)
+- aluminum
+
+- heavy grit
+- light grit
+
+Do not walk away form the machine until it’s at a stop
+
+If the wire brush causes the workpiece to jitter, pull back, find a different angle, and try again (or push in less) 
+
+## Setting up
+
+Adjust guide and shield
+
+Check wheel for chips
+
+
+
+## Workholding
+
+Hold piece against guide
+
+DO NOT let piece dive between he guide and the wheel
+
+## Using
+
+Turn on Vac
+
+Move piece slowly and consistently against the wheel
+
+## Cleaning Up
+
+Turn off vac
+
+
+# Disk sander/grinder
+
+Always check the entire surface of the grinding surface for tears
+
+NO GLOVES
+
+DO NOT WEAR GLOVES USING THIS MACHINE
+
+NO GLOVES
+
+Do not walk away form the machine until it’s at a stop
+
+## Setting up
+
+- pull back shield, look for any voids in the grinding surface
+
+## Workholding
+
+Firmly grasp
+
+Don’t let it dive
+
+Use vice grips? No!
+
+Keep piece pressed against the table
+
+## Using
+
+Only use on the right (downward side) of the tool.
+
+Use brake (gently!)
+
+## Cleaning Up
+
+
+
+# Presses
+
+(Katie already has presses)
+
+(Check with Cord or Karen about presses)
+
+# In the forge area: Abrasive Chop Saw
+
+Use next to the open garage door/closed garage door (sparks on metal)
+
+Set up for 45° cuts (that’s what it’s for)
+
+Tightly attach workpiece in clamp
+
+Check where the blade hits the piece
+
+Thumb button holds the saw in the on position
+
+Tightening wrench in compartment at the side
+
+Makes the piece hot, can melt light work
+
+Mild steel - support type things - rebar, angle iron
+
+How do we change the wheel on this?
+
+Causes a lot of vibration - don’t keep stuff on the table
+
+## Setting Up
+
+Position the saw so that the back is to the garage doors (open or not)
+
+
+
+## Workholding
+
+
+## Using
+
+
+## Cleaning Up
