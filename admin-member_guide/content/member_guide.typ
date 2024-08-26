@@ -68,7 +68,7 @@ opportunity for others’ work and discovery.
 
 
 
-== #strong[Shop Rules]
+== Shop Rules
 <shop-rules>
 =====
 <section-4>
@@ -651,10 +651,10 @@ to:
 
   #link("https://www.protohaven.org/discord/")
 
-= Opportunities
-<opportunities>
+= Volunteer Opportunities
+<volunteer-opportunities>
 
-== #strong[Shop Tech]
+== Shop Tech
 <shop-tech>
 Our Shop Techs represent our primary maintenance and member support
 corps. This team is responsible for fulfilling maintenance requests,
@@ -665,8 +665,9 @@ assisting and greeting members, and opening and closing the shop.
 More information can be found at
 #link("https://www.protohaven.org/opportunities/").
 
-== #strong[Teaching Fellowship]
+== Teaching Fellowship
 <teaching-fellowship>
+
 Over the course of this 6 month program, Teaching Fellows
 collaboratively develop core Protohaven Classes. As a team, they play a
 key role in creating a rich, supportive learning environment that brings
@@ -677,7 +678,7 @@ value to students of all skill levels.
 More information can be found at:
 #link("https://www.protohaven.org/opportunities/").
 
-== #strong[Instructor Open Calls]
+== Instructor Open Calls
 <instructor-open-calls>
 Instructors are contracted to use their design and fabrication
 experience to inspire, mentor, and problem solve alongside students who
@@ -691,10 +692,11 @@ Open calls will be posted as needed here:
 
 = Shop Information
 <shop-information>
-== #strong[Address and Hours]
-<address-and-hours>
-=== Protohaven Address
+== Contact Information
+
+=== Street Address
 <protohaven-address>
+
 214 N. Trenton Ave \
 Wilkinsburg, PA \
 15221
@@ -704,347 +706,95 @@ residential address and is sometimes where packages are delivered by
 accident. #strong[Please note on your shipment that deliveries should be
 sent to a commercial/warehouse address.]
 
-=== Shop Hours
+=== Phone Number
+
+The Protohaven main desk can be reached by phone at: 412-731-4400
+
+=== Email Address
+
+Send email to Protohaven at: `hello@protohaven.org`
+
+== Shop Hours
 <shop-hours>
+
 For the safety and security of our community and members Protohaven
 Member Hours are only open to students (during scheduled class times),
 members and guests of members. Office hours are open to the public for
 tours while staff are available.
 
-#strong[Office Hours] \
-Monday - Friday: 10:00am - 4:00pm \
-Saturday/Sunday: CLOSED TO PUBLIC
+=== Office Hours 
 
-#strong[Member Hours] \
-Monday - Thursday: 10am - 10pm \
+Monday - Friday: 10:00am - 4:00pm 
+
+=== Member Hours 
+
+Monday - Thursday: 10am - 10pm
+
 Friday - Sunday: 10am - 10pm
 
-#strong[Scheduled Tours] \
-7 Days/Week \
-Saturday-Thursday 1pm and 6pm \
+=== Scheduled Tours 
+
+7 Days/Week 
+
+Saturday-Thursday 1pm and 6pm 
+
 Friday 1pm and 6:30pm
 
-#strong[New Member Orientation] \
-Hosted virtually on Tuesdays at 6pm
+==== New Member Orientations 
 
-#strong[Holidays (Shop Closed)] \
-New Year’s Eve \
-New Year’s Day \
-Martin Luther King Day \
-Easter \
-Memorial Day \
-Juneteenth \
-Independence Day \
-Labor Day \
-Thanksgiving/National Day of Mourning \
-Christmas Eve \
-Christmas
+New member onboarding is a scheduled, one-on-one meeting to help you get settled in the shop.
 
-== #strong[Floorplan]
+==== Holidays (Shop Closed) 
+
+- New Year’s Eve
+- New Year’s Day
+- Martin Luther King Day
+- Easter
+- Memorial Day
+- Juneteenth
+- Independence Day
+- Labor Day
+- Thanksgiving/National Day of Mourning
+- Christmas Eve
+- Christmas
+
+= Appendicies
+
+== Code of Conduct
+<code-of-conduct>
+
+
+== Shop Usage Agreement
+<shop-usage-agreement>
+
+== Floorplan
 <floorplan>
-==
 
-<image8>
-== #strong[Equipment List]
+
+
+== Equipment List
 <equipment-list>
-===
-#link("https://docs.google.com/spreadsheets/u/0/d/1BZMLeLULBbMSpcKpguhINTxkQSG5uAkS1a61Ee00oBI/edit")[See full equipment statuses here]
-<see-full-equipment-statuses-here>
-#align(center)[#table(
-  columns: 3,
-  align: (col, row) => (left,left,left,).at(col),
-  inset: 6pt,
-  [Shop Area], [Tool Name], [Make and Model],
-  [3D Studio],
-  [Prusa 3D Printer],
-  [Prusa i3 MK2 3D Filament Printer],
-  [3D Studio],
-  [Resin 3D Printer],
-  [Monoprice Mini Deluxe Resin 3D Printer],
-  [3D Studio],
-  [3D Scanner],
-  [EinScan SE],
-  [],
-  [],
-  [],
-  [Big CNC],
-  [CNC Plasma Cutter],
-  [CNC Router Parts PRO CNC Plasma Kit],
-  [Big CNC],
-  [CNC Router],
-  [CNC Router Parts PRO60120],
-  [Big CNC],
-  [Industrial Laser Cutter],
-  [Kern 4’ x 8’ 150W CO2],
-  [],
-  [],
-  [],
-  [Blacksmithing],
-  [Forge],
-  [NC Tools Whisper Momma Open-end Gas Forge],
-  [],
-  [],
-  [],
-  [CAD Hub],
-  [Computer Workstation],
-  [HP Z220],
-  [],
-  [],
-  [],
-  [Electronics],
-  [Bench Power Supply],
-  [GW Instek adjustable, 32V, 5A],
-  [Electronics],
-  [Function Generator],
-  [Rigol 2 channel],
-  [Electronics],
-  [Oscilloscope],
-  [Rigol digital 100MHz],
-  [Electronics],
-  [Reflow Oven],
-  [7” x 9” infrared],
-  [Electronics],
-  [Soldering Stations],
-  [2 Weller temperature controlled],
-  [Electronics],
-  [PCB Mill],
-  [Othermill],
-  [],
-  [],
-  [],
-  [Finishing],
-  [Powder Coating Booth],
-  [SpectraCoat ES-01],
-  [Finishing],
-  [Powder Coating Oven],
-  [Powder-X],
-  [Finishing],
-  [Sandblaster],
-  [SkatblastUSA 1536 Champion Abrasive Blasting Cabinet],
-  [Finishing],
-  [Spray Booth],
-  [Spray Booth],
-  [],
-  [],
-  [],
-  [Graphics],
-  [CNC Embroidery Machine],
-  [Brother PR650e Entrepreneur],
-  [Graphics],
-  [Cap Press],
-  [Hotronix Maxx Cap Press],
-  [Graphics],
-  [Heat Press],
-  [Hotronix Swinger Heat Press],
-  [Graphics],
-  [Large Format Printer],
-  [Canon imagePROGRAF iPF650],
-  [Graphics],
-  [Vinyl Cutter],
-  [US Cutter Laserpoint II],
-  [Graphics],
-  [Dye Sublimation Printer],
-  [Sawgrass SG1000],
-  [],
-  [],
-  [],
-  [Jewelry & Metalsmithing],
-  [Pickle],
-  [],
-  [Jewelry & Metalsmithing],
-  [Polishing Machine],
-  [],
-  [Jewelry & Metalsmithing],
-  [Rotary Tool],
-  [Eurotool Flexshaft],
-  [Jewelry & Metalsmithing],
-  [Soldering Torch],
-  [Natural Gas/ Oxygen],
-  [Jewelry & Metalsmithing],
-  [Tumbler],
-  [],
-  [Jewelry & Metalsmithing],
-  [Ultrasonic],
-  [],
-  [],
-  [],
-  [],
-  [Lasers],
-  [Laser 1],
-  [Rabbit Lasers QX-80-1290],
-  [Lasers],
-  [Laser 2],
-  [Rabbit Lasers QX-80-1290],
-  [Lasers],
-  [Laser 3],
-  [Trotec Speedy 300 C80],
-  [],
-  [],
-  [],
-  [Machine Shop],
-  [Clausing Mill],
-  [Clausing Kondia CNC Knee Mill],
-  [Machine Shop],
-  [Manual Metal Lathe],
-  [Jet GH-1440W-3, Geared Head Lathe],
-  [Machine Shop],
-  [Manual Mill],
-  [Jet JTM-4VS Turret Mill],
-  [Machine Shop],
-  [Surface Grinder],
-  [Abrasive Machine Tool Co 3B],
-  [Machine Shop],
-  [Tormach],
-  [Tormach PCNC 770],
-  [],
-  [],
-  [],
-  [Meeting Rooms],
-  [None],
-  [None],
-  [Meeting Rooms],
-  [None],
-  [None],
-  [Meeting Rooms],
-  [None],
-  [None],
-  [],
-  [],
-  [],
-  [Metal Shop],
-  [Aluminium Bench Grinder],
-  [Jet JBG-10A],
-  [Metal Shop],
-  [Arbor Press],
-  [Jet AP3-M],
-  [Metal Shop],
-  [Disc Grinder],
-  [Laguna 20” Disc Grinder Sander],
-  [Metal Shop],
-  [Metal Drill Press],
-  [Craftsman Drill Press 137.229200],
-  [Metal Shop],
-  [Shop Press],
-  [Central Machinery 20-Ton Shop Press],
-  [Metal Shop],
-  [Steel Bench Grinder],
-  [Jet JBG-10A],
-  [Metal Shop],
-  [Vertical Metal Bandsaw],
-  [Jet VBS-1610],
-  [Metal Shop],
-  [Electric Slip Roll],
-  [ESR 1300x1.5],
-  [Metal Shop],
-  [Hand Brake],
-  [Jet BP-1646H],
-  [Metal Shop],
-  [Hand Notcher],
-  [Jet HN 16-T],
-  [Metal Shop],
-  [Metal Shrinker/Stretcher],
-  [Central Machinery 68897],
-  [Metal Shop],
-  [Shear],
-  [Birmingham/CP Tools H-5214],
-  [Metal Shop],
-  [Turret Punch],
-  [Tin Knocker Hand Turret Punch TK-12],
-  [Metal Shop],
-  [Cold Saw],
-  [Jet J-FK350-2K],
-  [Metal Shop],
-  [Horizontal Bandsaw],
-  [Jet J-7040M, 10” x 16” Horizontal Mitering Bandsaw],
-  [Metal Shop],
-  [Ironworker],
-  [Edwards 55 ton hydraulic ironworker],
-  [Metal Shop],
-  [Air Compressor],
-  [Eaton/Polar Air Rotary Screw Compressor PRS0070003],
-  [],
-  [],
-  [],
-  [Plastics],
-  [Injection Molder],
-  [Morgan Press G-100T],
-  [Plastics],
-  [Strip Heater],
-  [Formec FLB500],
-  [Plastics],
-  [Vacuum Former],
-  [Formech 686],
-  [],
-  [],
-  [],
-  [Textiles],
-  [Consumer Sewing Machine],
-  [Janome DC3050],
-  [Textiles],
-  [Industrial Straight Stitch],
-  [Juki DDL 8700],
-  [Textiles],
-  [Industrial Walking Foot],
-  [Juki DNU-1541S],
-  [Textiles],
-  [Industrial Serger],
-  [Juki MO-6714S],
-  [],
-  [],
-  [],
-  [Welding],
-  [Manual Plasma Cutter],
-  [Lincoln Electric Tomahawk 625],
-  [Welding],
-  [MIG Welder],
-  [Lincoln Electric Power MIG 256],
-  [Welding],
-  [Oxy-Acetylene Torch],
-  [Underwriters Laboratory Welding Torch 8F41],
-  [Welding],
-  [TIG Welder],
-  [Lincoln Electric Precision TIG 225],
-  [],
-  [],
-  [],
-  [Wood Shop],
-  [Belt and Disc Sander],
-  [Jet JSG-6DC],
-  [Wood Shop],
-  [Downdraft Table],
-  [Grizzly H2936 Vacuum Sanding Table],
-  [Wood Shop],
-  [Miter Saw],
-  [Jet 12” Sliding Dual Bevel Compound Miter Saw],
-  [Wood Shop],
-  [Table Saw 1],
-  [SawStop ICS53230 5HP],
-  [Wood Shop],
-  [Table Saw 2],
-  [SawStop PCS31230 3HP],
-  [Wood Shop],
-  [Woodshop Drill Press],
-  [Jet Step Pulley Drill Press JDP-20MF],
-  [Wood Shop],
-  [Woodworking Bandsaw],
-  [JET 18” Woodworking Bandsaw JWBS-18QT-3],
-  [Wood Shop],
-  [Drum Sander],
-  [Jet 16-32 Plus],
-  [Wood Shop],
-  [Jointer],
-  [Laguna MJOIN 8020-0130],
-  [Wood Shop],
-  [Planer],
-  [Laguna 16” 4-Post Planer MPLAN1510-0120],
-  [Wood Shop],
-  [Resaw Bandsaw],
-  [Laguna LT14BX],
-  [Wood Shop],
-  [Main Dust Collector],
-  [Grizzly G0601 Cyclone Dust Collector],
-  [Wood Shop],
-  [Wood Lathe],
-  [Powermatic 4224B],
+
+The following equipment list is more or less complete as of the date of publication of this member's guide. For an updated list with status information, please see the following link:
+
+https://www.protohaven.org/equipment/
+
+#block[
+
+#set text(size: 9pt)
+
+#let tool_list = csv("./protohaven_tool_list.csv")
+
+#table(
+  columns: (auto, auto, auto),
+  stroke: none,
+  inset: 5pt,
+  align: horizon + left,
+  table.header(
+    [*Shop Area*], [*Tool Name*], [*Make and Model*],
+  ),
+  table.hline(),
+  ..tool_list.flatten(),
 )
 ]
+

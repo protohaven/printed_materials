@@ -159,7 +159,7 @@
         font: font.sans,
     )
 
-    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color-959069212.png"))
+    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
     
     
     v(1in)
