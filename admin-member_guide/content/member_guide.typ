@@ -9,12 +9,12 @@
 #show: doc => guide_document(
   title: "Member Guide",
   authors: ("Protohaven Board",),
-  draft: false,
-  date: datetime(
-    year: 2024,
-    month: 4,
-    day: 1,
-  ),
+  draft: true,
+  // date: datetime(
+  //   year: 2024,
+  //   month: 4,
+  //   day: 1,
+  // ),
   doc
 )
 
@@ -26,9 +26,14 @@
 Welcome to Protohaven!
 
 
-= Culture
+
+
+= Community
+
+== Culture
 <culture>
-== #strong[Community Guidelines]
+
+== Community Guidelines
 <community-guidelines>
 ===== #strong[#emph[1. Be Respectful]]
 <be-respectful>
@@ -60,10 +65,9 @@ not always sought, to seek consent before providing aid, and to provide
 opportunity for others’ work and discovery.
 
 
-= Community
 
-====
-<section-3>
+
+
 == #strong[Shop Rules]
 <shop-rules>
 =====
@@ -130,12 +134,12 @@ of. Storage can be purchased through the Shop Tech on duty.
 
 == TODO: AED/First Aid Kit/Fire Extinguishers
 
-== Covid
-
-== #strong[Covid Protocols]
+== Covid Protocols
 <covid-protocols>
-===== #strong[#emph[Before Coming]]
-<before-coming>
+
+=== Before Coming to Protohaven
+<covid-before-coming>
+
 Before coming to Protohaven, we ask everyone to verify that you:
 
 + Pass a self-screen for common Covid symptoms, meaning:
@@ -154,18 +158,20 @@ If someone has had symptoms or contact, we ask that they not return to
 the shop until they either receive a negative Covid test result, or wait
 10 days after their last symptoms or contact.
 
-===== #strong[#emph[While Here]]
-<while-here>
-While using the shop, we ask everyone to:
+=== While at Protohaven
+<covid-at-protohaven>
+
+While using the shop, we ask you to:
 
 - Wear a cloth facemask if you are not vaccinated \
-- Maintain 6 feet social distance from others, \
+- Maintain six feet social distance from others, \
 - Regularly wash their hands \
 - Carry a supplied cleaning kit and wipe down commonly-touched surfaces
   before and after use
 
-===== #strong[#emph[After Leaving]]
-<after-leaving>
+=== After Leaving
+<covid-after-leaving>
+
 If, after leaving the shop, a visitor develops common Covid symptoms, we
 ask that they get tested for Covid-19 and share the results with us.
 This allows us to take the appropriate cleaning, testing, and
@@ -173,8 +179,10 @@ notification measures if the test comes back positive.
 
 = Programs
 <programs>
-== #strong[Classes]
+
+== Classes
 <classes>
+
 Classes are the entry point to our community. They focus on teaching
 design, fabrication, and related skills. They dive into everything from
 basic skills and safety to immersive projects that teach students how to
@@ -189,8 +197,9 @@ Spring/Summer/Fall calendar. Class development and support are led by
 the Education Coordinator and Executive Director and taught by either
 staff, Teaching Fellows, or contract instructors.
 
-=== #link(<getting-cleared-on-tools>)[Getting Cleared on Tools]
+=== Getting Cleared on Tools
 <getting-cleared-on-tools>
+
 Most tools in the shop require clearance before independent use as a
 member. Each tool is different and most are expensive and/or delicate.
 You can find our full list of equipment and the clearance associated
@@ -236,6 +245,7 @@ member:]
 
 === Intensive Courses
 <intensive-courses>
+
 We’re incredibly excited to offer intensive, multi-session courses! This
 is the most in-depth, supportive pathway for anyone to grow confidence
 working independently, deepen their skills, and gain clearance on
@@ -350,9 +360,8 @@ guarantee that everything you need will be in stock at all times. Please
 come prepared. Anyone wanting to purchase consumables, must see the Shop
 Tech on duty.
 
-===
-<section-8>
-===
+=== Canceling Membership
+
 #link(<how-to-switch-or-cancel-membership>)[How to Switch or Cancel Membership]
 <how-to-switch-or-cancel-membership>
 You can cancel your membership at any time by navigating to
@@ -362,13 +371,10 @@ To switch or resume your membership follow the same steps and cancel
 your existing membership followed by purchasing your desired membership
 from the
 #link("https://www.protohaven.org/product/membership/")[Membership page.]
-\
 
-
-===
-<section-9>
 === Scheduling a Clearance
 <scheduling-a-clearance>
+
 Clearances are required before members can operate equipment
 independently at Protohaven. Learn more at
 #link(<getting-cleared-on-tools>)["Getting Cleared on Tools"] under the
@@ -384,12 +390,9 @@ As an important next step, you’ll need to study the public,
 shop-specific protocols by visiting the
 #link(<tool-tutorials>)[Tool Tutorial] before your clearance.
 
-
-
-===
-<section-10>
-=== #link(<tool-tutorials>)[Tool Tutorials]
+=== Tool Tutorials
 <tool-tutorials>
+
 #link("https://www.protohaven.org/tool-trainers/")[Tool Tutorials] are
 public guides to the basic safe, careful, and clean use of the equipment
 at Protohaven. They’re the basis for receiving clearance on equipment,
@@ -409,8 +412,9 @@ The #strong[Initial Setup], #strong[Basic Operation], and
 can use the equipment according to community expectations. \
 
 
-=== #link(<reserving-equipment>)[Reserving Equipment]
+=== Reserving Equipment
 <reserving-equipment>
+
 Members are required to reserve time slots for equipment and areas
 online using their Protohaven account. Reservations are for one and two
 hour blocks and can be reserved multiple times. You must be cleared in
@@ -451,24 +455,19 @@ having their membership revoked.
   include your order number in your cancellation request.
 ]
 
-===
-<section-11>
-===
-<section-12>
-=== #link("https://www.protohaven.org/maintenance/")[Maintenance]
+=== Maintenance
 <maintenance>
+
 Maintenance actions can only be made by the authorized maintenance crew.
-\
+
 All members are expected to report maintenance when it’s required. A
 subset of members then perform maintenance. Anyone can see the present
 state of equipment by
 #link("https://www.protohaven.org/tools/")[checking its status].
 Maintenance is prioritized based on high equipment usage.
 
-====
-<section-13>
-==== #strong[Requests]
-<requests>
+==== Maintenance Requests
+<maintenance-requests>
 Maintenance requests inform staff and techs of issues with equipment
 ranging from simple replacement parts to potential safety issues.
 Members are encouraged to use this system so that the Protohaven team
@@ -476,34 +475,31 @@ can respond quickly to shop needs, reducing equipment downtime and
 keeping you working effectively longer. Maintenance Requests can be
 found here: #link("https://www.protohaven.org/tools/")
 
-==== #strong[Actions]
-<actions>
+==== Maintenance Actions
+<maintenance-actions>
 Maintenance actions can only be made by authorized maintenance crew
 which includes staff, techs, instructors, fellows, and authorized
 members. Members can view and follow maintenance actions in real time by
 joining the Protohaven Discord Server
 
-====
-<section-14>
-==== #strong[Equipment Status]
+==== Equipment Status
 <equipment-status>
+
 You can also view the current status of all equipment and areas by
-reviewing our Master Equipment List. This list cataloges all equipment
+reviewing our Master Equipment List. This list catalogs all equipment
 and reports its most recent condition and last action taken on it.
 #link("https://www.protohaven.org/tools/")[View it here.]
 
-=== [Storage]
+=== Storage
 
 Protohaven provides both overnight and monthly storage options to ensure
 you can continue working on your projects without the hassle of
 transporting your work to and from home. You must see the Shop Tech on
 duty in order to purchase storage.
 
-====
-<section-15>
-====
-#link("https://www.protohaven.org/product/overnight-storage/")[#strong[Overnight storage]]
+==== Overnight storage
 <overnight-storage>
+
 - #strong[Project Carts] - Movable carts with bottom shelf, ideal for
   storing smaller projects and tools. #emph[All belongings must remain
   inside the perimeter of the cart.] \
@@ -514,11 +510,9 @@ duty in order to purchase storage.
   builds or pieces of personal equipment. #emph[Belongings must be on
   movable pallets or carts with wheels.]
 
-====
-<section-16>
-====
-#link("https://www.protohaven.org/product/monthly-storage/")[#strong[Monthly storage]]
+==== Monthly Storage
 <monthly-storage>
+
 - #strong[Locker] - Small lockers for storing tools, small projects, and
   personal belongings. Can be locked (lock not included). \
 - #strong[Board & Bar] - Great for longer lengths of wood or metal \
@@ -545,8 +539,9 @@ one month may be returned to the sender. If there are any extenuating
 circumstances that will prevent you from picking up your mail in a
 timely manner, please let us know.
 
-=== #link(<guest-policy>)[Guest Policy]
+=== Guest Policy
 <guest-policy>
+
 ===== #strong[#emph[Who]]
 <who>
 Protohaven members are welcome to bring guests during member hours.
@@ -629,9 +624,9 @@ Walk-ins welcome without appointment
 
 = Communications
 
-
-=== Discord
+== Discord
 <discord>
+
 Protohaven Members enjoy access to our Discord server to connect, share,
 and learn alongside fellow members. It is designed to be a peer-to-peer
 resource for all members.
@@ -656,31 +651,20 @@ to:
 
   #link("https://www.protohaven.org/discord/")
 
-
-
-=
-<section-19>
-=
-<section-20>
-= —
-<section-21>
 = Opportunities
 <opportunities>
+
 == #strong[Shop Tech]
 <shop-tech>
 Our Shop Techs represent our primary maintenance and member support
 corps. This team is responsible for fulfilling maintenance requests,
 assisting and greeting members, and opening and closing the shop.
 
-===
-<section-22>
 === How to Apply
 <how-to-apply>
 More information can be found at
 #link("https://www.protohaven.org/opportunities/").
 
-==
-<section-23>
 == #strong[Teaching Fellowship]
 <teaching-fellowship>
 Over the course of this 6 month program, Teaching Fellows
@@ -705,8 +689,6 @@ equipment.
 Open calls will be posted as needed here:
 #link("https://www.protohaven.org/opportunities/")
 
-=
-<section-24>
 = Shop Information
 <shop-information>
 == #strong[Address and Hours]

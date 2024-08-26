@@ -24,7 +24,7 @@
   text(color.warning, weight: "bold", content)
 }
 
-#let license_block() = [
+#let license_block() = {
   rect(
     width: 100%, 
     inset: 2em,
@@ -32,11 +32,11 @@
     grid(
       columns: (110pt, 1fr),
       gutter: 1em,
-      image("../images/by-nc-sa.svg"),
+      image("../common-graphics/licensing/by-nc-sa.svg"),
       [This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/]
     )
   )
-]
+}
 
 /*
  * TEXT STYLES
@@ -159,7 +159,7 @@
         font: font.sans,
     )
 
-    align(center, image("../images/Protohaven-Logo-Horizontal-Color-959069212.png"))
+    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color-959069212.png"))
     
     
     v(1in)
@@ -178,26 +178,14 @@
     // text(weight: "bold", size: 20pt, instructors.join(", ")),
     v(15em),
 
-
-
     // Clearances
     text(weight: "bold", size: 18pt, color.midgrey, smallcaps("Clearances")),
     v(1em),
     text(size: 14pt, clearances.sorted().join(linebreak())),
   )
     v(1fr)
-    
-    rect(
-      width: 100%, 
-      inset: 2em,
-      stroke: 2pt + color.lightgrey,  
-      grid(
-        columns: (110pt, 1fr),
-        gutter: 1em,
-        image("../images/by-nc-sa.svg"),
-        [This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/]
-      )
-    )
+  
+    license_block()
   
     pagebreak()
 
@@ -265,35 +253,29 @@
   
   set document(title: title, 
     author: authors,
-    keywords: ("protohaven", "class"),
+    keywords: ("protohaven", "guide"),
     date: date,
   )
-  
-  // Title page
   
   set text(
       font: font.sans,
   )
   
-  align(center, image("../common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
+  // Title page
+  
+  align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
  
   v(1in)
   
-  text(weight: "bold", size: 20pt, color.midgrey, smallcaps(title))
+  stack(dir: ttb,
+    text(weight: "bold", size: 32pt, title),
+    v(2em),
+    text(size: 24pt, date.display())
+  )
   
   v(1fr)
   
-  rect(
-    width: 100%, 
-    inset: 2em,
-    stroke: 2pt + color.lightgrey,  
-    grid(
-      columns: (110pt, 1fr),
-      gutter: 1em,
-      image("../common-graphics/licensing/by-nc-sa.svg"),
-      [This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/]
-    )
-  )
+  license_block()
   
   pagebreak()
   
@@ -381,7 +363,7 @@
         font: font.sans,
     )
 
-    align(center, image("../common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
+    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
     
     
     v(1in)
