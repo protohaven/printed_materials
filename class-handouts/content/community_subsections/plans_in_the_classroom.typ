@@ -1,1 +1,0 @@
-// something about how we're learning, and to be patient when things don't go right - the shop is a place of careful, safe experimentation, and learning how to deal with problems that crop up in the work.
