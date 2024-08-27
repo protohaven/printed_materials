@@ -26,8 +26,6 @@
 Welcome to Protohaven!
 
 
-
-
 = Community
 
 == Culture
@@ -70,10 +68,10 @@ opportunity for others’ work and discovery.
 
 == Shop Rules
 <shop-rules>
-=====
-<section-4>
+
 ===== #strong[#emph[1. Be Safe]]
 <be-safe>
+
 #strong[Get Safety Clearances:] Most tools in the shop require an
 Equipment Clearance Class or Test before use. Do not use this equipment
 before obtaining the necessary clearance. These clearances are the bare
@@ -144,8 +142,8 @@ Before coming to Protohaven, we ask everyone to verify that you:
 
 + Pass a self-screen for common Covid symptoms, meaning:
 
-  - No fever \
-  - No cough or shortness of breath \
+  - No fever 
+  - No cough or shortness of breath 
   - No change in sense of taste or smell, and
 
 + Have not had close contact with someone who has tested positive for
@@ -163,9 +161,9 @@ the shop until they either receive a negative Covid test result, or wait
 
 While using the shop, we ask you to:
 
-- Wear a cloth facemask if you are not vaccinated \
-- Maintain six feet social distance from others, \
-- Regularly wash their hands \
+- Wear a face mask (N95 if possible) if you are not vaccinated 
+- Maintain six feet social distance from others 
+- Regularly wash their hands 
 - Carry a supplied cleaning kit and wipe down commonly-touched surfaces
   before and after use
 
@@ -192,10 +190,7 @@ maintenance crew. They range from introductory public talks and
 workshops to in-depth multi-week courses. Not all classes provide
 clearances. Be sure to read course descriptions carefully.
 
-Beginning Fall 2021, they will be primarily organized by a trimester
-Spring/Summer/Fall calendar. Class development and support are led by
-the Education Coordinator and Executive Director and taught by either
-staff, Teaching Fellows, or contract instructors.
+Class development and support are led by the Education Coordinator and Executive Director and taught by either staff, Teaching Fellows, or contract instructors.
 
 === Getting Cleared on Tools
 <getting-cleared-on-tools>
@@ -203,11 +198,12 @@ staff, Teaching Fellows, or contract instructors.
 Most tools in the shop require clearance before independent use as a
 member. Each tool is different and most are expensive and/or delicate.
 You can find our full list of equipment and the clearance associated
-with each tool at
-#link("https://www.protohaven.org/equipment/")[protohaven.org/equipment].
+with each tool at:
+
+https://www.protohaven.org/equipment/
 
 Each new member receives a free clearance (or \$45 off a 101 Class) when
-they join and complete the
+they join and complete the 
 #link("https://protohaven.app.neoncrm.com/np/clients/protohaven/eventList.jsp")[New Member Orientation].
 
 #strong[There are two pathways to get cleared to use equipment as a
@@ -763,6 +759,9 @@ New member onboarding is a scheduled, one-on-one meeting to help you get settled
 == Code of Conduct
 <code-of-conduct>
 
+#set heading(offset:2)
+#include "/common-policy/content/code_of_conduct.typ"
+#set heading(offset:0)
 
 == Shop Usage Agreement
 <shop-usage-agreement>
