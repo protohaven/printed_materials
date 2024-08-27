@@ -28,152 +28,31 @@ Welcome to Protohaven!
 
 = Community
 
-== Culture
-<culture>
+#set heading(offset:1)
 
-== Community Guidelines
-<community-guidelines>
-===== #strong[#emph[1. Be Respectful]]
-<be-respectful>
-Our students, members, and partners bring with them a rich variety of
-experiences, perspectives, and aspirations. What brings us together is a
-shared interest in the process of making things. To create a welcoming,
-supportive environment, we ask each individual to treat one another with
-care and openness to diversity of race, gender, orientation, age,
-identity, and ability.
+#include "/common-policy/content/core_values.typ"
+#include "/common-policy/content/shop_rules.typ"
 
-Actions that bully, degrade, or threaten any individual or group are not
-welcome in our community.
+#set heading(offset:0)
 
-===== #strong[#emph[2. Take Responsibility]]
-<take-responsibility>
-Protohaven is built around shared resources - space, tools, knowledge,
-and the community itself. To preserve these communal assets, each
-individual is asked to take responsibility for their own actions and to
-be mindful of how they impact those around them. We are each accountable
-for ourselves, and don’t expect others to bear the costs of our actions.
+== Health
 
-===== #strong[#emph[3. Help Out]]
-<help-out>
-Protohaven is a public charity and is made possible only by people
-giving more than they take. In this spirit, we ask each individual to
-find opportunities to help each other, the organization, and our broader
-community. We also ask each individual to recognize that assistance is
-not always sought, to seek consent before providing aid, and to provide
-opportunity for others’ work and discovery.
+#set heading(offset:2)
 
+#include "/common-policy/content/personal_protective_equipment.typ"
+#include "/common-policy/content/emergency_equipment.typ"
+#include "/common-policy/content/covid_protocols.typ"
 
+#set heading(offset:0)
 
+== Safety
 
+#set heading(offset:2)
 
-== Shop Rules
-<shop-rules>
+#include "/common-policy/content/tool_status_tags.typ"
+#include "/common-policy/content/filing_a_tool_report.typ"
 
-===== #strong[#emph[1. Be Safe]]
-<be-safe>
-
-#strong[Get Safety Clearances:] Most tools in the shop require an
-Equipment Clearance Class or Test before use. Do not use this equipment
-before obtaining the necessary clearance. These clearances are the bare
-minimum requirements to use the equipment and are not a substitute for
-consulting manufacturers’ safety guidelines, asking for help, or
-following general safety principles.
-
-#strong[Wear Protective Equipment:] Closed-toed shoes and safety glasses
-are required and hearing protection is recommended in the Workshop area
-of the space. Wear a respirator when sanding or spraying. Use dust
-collection, fume extractors, and ventilation fans where provided. No
-gloves, loose clothing, or dangling hair or jewelry around tools that
-spin. Additional PPE (Personal Protective Equipment) may be required for
-specific areas and tools.
-
-#strong[Watch and Reset Equipment:] Never leave a piece of machinery
-operating unattended. If you’ve changed equipment settings or setup
-during use, return them to their original states before leaving the
-tool.
-
-===== #strong[#emph[2. Take Care of the Tools and Equipment]]
-<take-care-of-the-tools-and-equipment>
-Get Clearances: Each tool and piece of equipment is different and most
-are expensive and/or delicate. Safety Clearances and Classes provide
-machine-specific care details so you can effectively use a tool or piece
-of equipment without damaging it.
-
-Do Not Alter or Use Beyond Limits: Tools at the shop are set up to serve
-a large number of people and projects. Do not permanently alter them for
-a particular use. If you temporarily change settings or setup, return
-them to their original state before leaving the tool. Only use tools
-within their specified parameters.
-
-Notify When Maintenance Is Needed: We can only fix what we know about.
-Please use the status tag at each machine and online reporting system to
-indicate when repair is needed.
-
-===== #strong[#emph[3. Keep the Shop Clean]]
-<keep-the-shop-clean>
-Clean Up After Yourself: Making things creates garbage and debris. You
-are responsible to clean it up. Your work area should look better when
-you leave than when you started.
-
-Return Tools to Their Original Locations: Large equipment should not be
-moved for use. Smaller tools or carts should be returned to their
-original location when you are finished.
-
-Pay for Overnight or Monthly Storage: Unless you have paid overnight or
-monthly storage (of which there are many options), everything you bring
-in with you must leave when you leave for the day. If you pay for
-storage, you may only store items in the area designated for you.
-Anything left outside of your paid storage may be removed and disposed
-of. Storage can be purchased through the Shop Tech on duty.
-
-= Health and Safety
-
-== TODO: PPE
-
-== TODO: AED/First Aid Kit/Fire Extinguishers
-
-== Covid Protocols
-<covid-protocols>
-
-=== Before Coming to Protohaven
-<covid-before-coming>
-
-Before coming to Protohaven, we ask everyone to verify that you:
-
-+ Pass a self-screen for common Covid symptoms, meaning:
-
-  - No fever 
-  - No cough or shortness of breath 
-  - No change in sense of taste or smell, and
-
-+ Have not had close contact with someone who has tested positive for
-  Covid in the last 10 days
-
-+ Use the online calendar to schedule a time to visit the shop, so we
-  have a record of all visitors
-
-If someone has had symptoms or contact, we ask that they not return to
-the shop until they either receive a negative Covid test result, or wait
-10 days after their last symptoms or contact.
-
-=== While at Protohaven
-<covid-at-protohaven>
-
-While using the shop, we ask you to:
-
-- Wear a face mask (N95 if possible) if you are not vaccinated 
-- Maintain six feet social distance from others 
-- Regularly wash their hands 
-- Carry a supplied cleaning kit and wipe down commonly-touched surfaces
-  before and after use
-
-=== After Leaving
-<covid-after-leaving>
-
-If, after leaving the shop, a visitor develops common Covid symptoms, we
-ask that they get tested for Covid-19 and share the results with us.
-This allows us to take the appropriate cleaning, testing, and
-notification measures if the test comes back positive.
+#set heading(offset:0)
 
 = Programs
 <programs>
@@ -275,78 +154,98 @@ Each new member also receives a free Basic Clearance (or \$45 off a
 class) when they join for the first time and complete the New Member
 Orientation.
 
-=== Age Requirements
+== Age Requirements
 <age-requirements>
+
 Minors using the shop outside of scheduled classes must be members and
 accompanied by a parent or guardian who is also a member. \
 #strong[Workshop access] is limited only to those 16+ years of age. \
 #strong[Studio access] is limited only to those of 12+ years of age.
 
-=== Affordability
+== Affordability
 <affordability>
+
 At Protohaven we are dedicated to being an accessible and equitable
 makerspace. Low income rates are available for those who require
 financial assistance to become members through our Access to Making
 Program (AMP).
-#link("https://protohaven.app.neoncrm.com/forms/protohaven-amp")[You can apply for an income based rate on our website].
 
-=== Membership Types (Note: Rates will be changing as of 4/1/23)
-<membership-types-note-rates-will-be-changing-as-of-4123>
-#align(center)[#table(
-  columns: 4,
-  align: (col, row) => (left,auto,auto,center,).at(col),
-  inset: 6pt,
-  [], [Weekend], [General], [Pro (currently unavailable)],
+You can apply for an income based rate on our website:
+
+// FIXME the following URL is broken? -pgm
+
+https://protohaven.app.neoncrm.com/forms/protohaven-amp
+
+== Membership Types
+
+Protohaven offers three membership types: general, weekend, and weeknight:
+
+#table(
+  stroke: none,
+  columns: (auto, auto, auto, auto),
+  inset: 10pt,
+  // align: horizon + left,
+  align: (col, row) => (left + top,center + top,center + top,center + top).at(col),
+  [], [*General*], [*Weekend*], [*Weeknight*],
+  table.hline(start: 1),
   [Pricing],
-  [\$65.00/mo],
   [\$115.00/mo],
-  [\$265.00/mo],
-  [Access to Workshop and Studio],
-  [✅],
-  [✅],
-  [✅],
-  [First Clearance Free (or \$45 toward a class)],
-  [✅],
-  [✅],
-  [✅],
-  [Weekend hours#strong[Sa/Su: 10am - 10pm]],
-  [✅],
-  [✅],
-  [✅],
-  [Weekday hours#strong[M-Th: 10am - 10pmFri: 10am - 10pm]],
-  [],
-  [✅],
-  [✅],
-  [24/7 Access],
-  [],
-  [],
-  [✅],
+  [\$65.00/mo],
+  [\$65.00/mo],
+  [Hours],
+  [10am–10pm],
+  [Sa-Su: 10am–10pm],
+  [M-F: 5pm–10pm],
+  [First Clearance Free\
+  (or \$45 toward a class)],
+  [✓],
+  [✓],
+  [✓],
 )
-]
 
-==== #strong[General]
-<general>
-Access during all of our public hours, Monday – Thursday 10am – 10pm and
-Friday – Sunday 10am – 10pm. Our most popular option for enthusiasts who
-want to be able to use the shop anytime during our public hours.
-#link("https://protohaven.app.neoncrm.com/forms/individual-membership")[Sign-up for a General Membership].
 
-==== #strong[Weekend]
-<weekend>
-Access every Saturday and Sunday 10am – 10pm. An affordable option for
-those just getting into making, or who need only occasional access and
-can come in on the weekends.
-#link("https://protohaven.app.neoncrm.com/forms/individual-membership")[Sign-up for a Weekend Membership].
 
-==== #strong[Pro\*]
-<pro>
-24/7 access. Pittsburgh’s only co-working space that includes a full
-design studio and fabrication workshop. For professionals or dedicated
-makers who want to start early and stay late. Requires additional
-training, and buddy-system for off-hour use of Workshop.
 
-=== Materials & Consumables
+=== General Membership
+<general-membership>
+
+General members have access to the shop during all of our public hours. This is our most popular option for enthusiasts who want the flexibility to use the shop anytime it's open to the public.
+
+=== Weekend Membership
+<weekend-membership>
+
+Weekend members have access to the shop every Saturday and Sunday from 10am – 10pm. Weekend membership is an affordable option for those just getting into making, or who need only occasional access and can come in on the weekends.
+
+=== Weeknight Membership
+<weeknight-membership>
+
+Weekend members have access to the shop every Monday through Friday from 5pm – 10pm. Weekend membership is an affordable option for those just getting into making, or who need only occasional access and can work in the evenings.
+
+== Managing Your Protohaven Account
+
+=== Sign Up for a Protohaven Membership
+
+Sign up for a Protohaven membership with the following link:
+
+https://www.protohaven.org/membership/
+
+=== Cancel Your Protohaven Membership
+
+You can cancel your membership at any time by going to your Protohaven account page:
+
+https://www.protohaven.org/my-account/
+
+...and navigating to:
+
+#emph[My Account \> My Subscription \> Cancel]
+
+To switch or resume your membership, cancel your existing membership (as above), and then sign up for your desired membership from the membership page:
+
+https://www.protohaven.org/product/membership/
+
+== Materials & Consumables
 <materials-consumables>
+
 It is the responsibility of the maker to provide their own materials and
 consumables in the workshop this includes the materials you are using to
 construct your work, but also certain consumables that are required for
@@ -356,19 +255,7 @@ guarantee that everything you need will be in stock at all times. Please
 come prepared. Anyone wanting to purchase consumables, must see the Shop
 Tech on duty.
 
-=== Canceling Membership
-
-#link(<how-to-switch-or-cancel-membership>)[How to Switch or Cancel Membership]
-<how-to-switch-or-cancel-membership>
-You can cancel your membership at any time by navigating to
-#link("https://www.protohaven.org/my-account/")[#strong[My Account \> My Subscription \> Cancel.]]
-
-To switch or resume your membership follow the same steps and cancel
-your existing membership followed by purchasing your desired membership
-from the
-#link("https://www.protohaven.org/product/membership/")[Membership page.]
-
-=== Scheduling a Clearance
+== Scheduling a Clearance
 <scheduling-a-clearance>
 
 Clearances are required before members can operate equipment
@@ -386,7 +273,7 @@ As an important next step, you’ll need to study the public,
 shop-specific protocols by visiting the
 #link(<tool-tutorials>)[Tool Tutorial] before your clearance.
 
-=== Tool Tutorials
+== Tool Tutorials
 <tool-tutorials>
 
 #link("https://www.protohaven.org/tool-trainers/")[Tool Tutorials] are
@@ -408,7 +295,7 @@ The #strong[Initial Setup], #strong[Basic Operation], and
 can use the equipment according to community expectations. \
 
 
-=== Reserving Equipment
+== Reserving Equipment
 <reserving-equipment>
 
 Members are required to reserve time slots for equipment and areas
@@ -451,7 +338,7 @@ having their membership revoked.
   include your order number in your cancellation request.
 ]
 
-=== Maintenance
+== Maintenance
 <maintenance>
 
 Maintenance actions can only be made by the authorized maintenance crew.
@@ -462,7 +349,7 @@ state of equipment by
 #link("https://www.protohaven.org/tools/")[checking its status].
 Maintenance is prioritized based on high equipment usage.
 
-==== Maintenance Requests
+=== Maintenance Requests
 <maintenance-requests>
 Maintenance requests inform staff and techs of issues with equipment
 ranging from simple replacement parts to potential safety issues.
@@ -471,14 +358,14 @@ can respond quickly to shop needs, reducing equipment downtime and
 keeping you working effectively longer. Maintenance Requests can be
 found here: #link("https://www.protohaven.org/tools/")
 
-==== Maintenance Actions
+=== Maintenance Actions
 <maintenance-actions>
 Maintenance actions can only be made by authorized maintenance crew
 which includes staff, techs, instructors, fellows, and authorized
 members. Members can view and follow maintenance actions in real time by
 joining the Protohaven Discord Server
 
-==== Equipment Status
+=== Equipment Status
 <equipment-status>
 
 You can also view the current status of all equipment and areas by
@@ -486,14 +373,14 @@ reviewing our Master Equipment List. This list catalogs all equipment
 and reports its most recent condition and last action taken on it.
 #link("https://www.protohaven.org/tools/")[View it here.]
 
-=== Storage
+== Storage
 
 Protohaven provides both overnight and monthly storage options to ensure
 you can continue working on your projects without the hassle of
 transporting your work to and from home. You must see the Shop Tech on
 duty in order to purchase storage.
 
-==== Overnight storage
+=== Overnight storage
 <overnight-storage>
 
 - #strong[Project Carts] - Movable carts with bottom shelf, ideal for
@@ -506,7 +393,7 @@ duty in order to purchase storage.
   builds or pieces of personal equipment. #emph[Belongings must be on
   movable pallets or carts with wheels.]
 
-==== Monthly Storage
+=== Monthly Storage
 <monthly-storage>
 
 - #strong[Locker] - Small lockers for storing tools, small projects, and
@@ -523,7 +410,7 @@ duty in order to purchase storage.
   builds or pieces of personal equipment. #emph[Belongings must be on
   movable pallets or carts with wheels.]
 
-=== Receiving Mail and Freight
+== Receiving Mail and Freight
 
 As a member you can have your mail and supply orders sent directly to
 Protohaven at no additional cost. Additionally, our loading docks can
@@ -535,38 +422,41 @@ one month may be returned to the sender. If there are any extenuating
 circumstances that will prevent you from picking up your mail in a
 timely manner, please let us know.
 
-=== Guest Policy
+== Guest Policy
 <guest-policy>
 
-===== #strong[#emph[Who]]
+==== Who
 <who>
+
 Protohaven members are welcome to bring guests during member hours.
 Members are responsible for ensuring that their guests abide by all
 shop, community and COVID-19 guidelines during their visit. They will
 also need to complete the following upon entering the building.
 
-===== #strong[#emph[When]]
+==== When
 <when>
+
 Guests are welcome during all member access hours. See the
 #link(<shop-hours>)[shop hours] section for details.
 
-===== #strong[#emph[How]]
+==== How
 <how>
-Guests are NOT cleared Protohaven members and should not be assisting or
-independently operating equipment in any way. Guests may consult, view
-work in progress and socialize with their host. Guests must join as
-members, complete orientation, and receive clearances BEFORE working or
-assisting in the shop (this includes the use of tools provided by the
-member). #strong[Any member who has a guest that is using tools and
-equipment at Protohaven without first becoming a member and receiving
-the proper clearances, will risk having their membership revoked.]
 
-=== Emergency Policy
+Guests are _not_ cleared Protohaven members and should not be assisting or
+independently operating equipment in any way. Guests may consult, view
+work in progress and socialize with their host. 
+
+Guests must join as members, complete orientation, and receive clearances _before_ working or assisting in the shop (this includes the use of tools provided by the
+member). 
+
+*Protohaven members will risk having their membership revoked if they admit a guest that is using tools and equipment at Protohaven without the guest first becoming a member and receiving the proper clearances.*
+
+== Emergency Policy
 <emergency-policy>
-=====
-<section-17>
-===== #strong[#emph[Fire]]
+
+=== Fire
 <fire>
+
 In the event of a small fire, extinguishers are present throughout the
 building:
 
@@ -585,8 +475,9 @@ after you have safely removed yourself from danger. After emergency
 services have been contacted notify the appropriate Protohaven staff
 member or and fill out an incident report.
 
-===== #strong[#emph[Medical/Injury]]
+=== Medical/Injury
 <medicalinjury>
+
 For minor injuries there are first aid kits in the kitchen located next
 to the shop doors, in the forge, and in the woodshop area next to the
 door leading to the studio. Please report any low supplies to a staff
@@ -605,10 +496,9 @@ member for further instruction.
 In the event of an injury, an incident report will need to be filed with
 the Shop Tech on duty.
 
-=====
-<section-18>
-===== #strong[#emph[Mental Health/Crisis De Escalation]]
+==== Mental Health/Crisis De-Escalation
 <mental-healthcrisis-de-escalation>
+
 In the event of a mental health crisis it is important that those
 affected feel safe and that they have resources at their disposal. Our
 neighbors at Resolve Crisis Services (333 N. Braddock Ave.) have around
@@ -652,12 +542,14 @@ to:
 
 == Shop Tech
 <shop-tech>
+
 Our Shop Techs represent our primary maintenance and member support
 corps. This team is responsible for fulfilling maintenance requests,
 assisting and greeting members, and opening and closing the shop.
 
 === How to Apply
 <how-to-apply>
+
 More information can be found at
 #link("https://www.protohaven.org/opportunities/").
 
@@ -671,11 +563,13 @@ value to students of all skill levels.
 
 === How to Apply
 <how-to-apply-1>
+
 More information can be found at:
 #link("https://www.protohaven.org/opportunities/").
 
 == Instructor Open Calls
 <instructor-open-calls>
+
 Instructors are contracted to use their design and fabrication
 experience to inspire, mentor, and problem solve alongside students who
 are discovering their skills and gaining a deeper understanding of shop
@@ -683,6 +577,7 @@ equipment.
 
 === How to Apply
 <how-to-apply-2>
+
 Open calls will be posted as needed here:
 #link("https://www.protohaven.org/opportunities/")
 
@@ -690,12 +585,19 @@ Open calls will be posted as needed here:
 <shop-information>
 == Contact Information
 
+=== Shop Location 
+
+#image("/common-graphics/maps/map-protohaven_location.svg")
+
 === Street Address
 <protohaven-address>
 
 214 N. Trenton Ave \
 Wilkinsburg, PA \
 15221
+
+
+
 
 #strong[Note:] 214 S. Trenton is on the other side of Penn Ave and is a
 residential address and is sometimes where packages are delivered by
@@ -769,7 +671,7 @@ New member onboarding is a scheduled, one-on-one meeting to help you get settled
 == Floorplan
 <floorplan>
 
-
+#image("/common-graphics/maps/floorplan-full.svg", width: 100%)
 
 == Equipment List
 <equipment-list>
