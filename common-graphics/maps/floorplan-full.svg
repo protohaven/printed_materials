@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1372.4 1065.9"
+   style="enable-background:new 0 0 1372.4 1065.9;"
+   xml:space="preserve"
+   id="svg124"
+   sodipodi:docname="protohaven-floorplan-pgm.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs124" /><sodipodi:namedview
+   id="namedview124"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.91402463"
+   inkscape:cx="737.9451"
+   inkscape:cy="735.20995"
+   inkscape:window-width="1400"
+   inkscape:window-height="799"
+   inkscape:window-x="0"
+   inkscape:window-y="37"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg124" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;stroke:#D62659;stroke-miterlimit:10;}
+	.st2{display:inline;fill:none;}
+	.st3{display:inline;fill:#D62659;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:22px;}
+	.st6{display:inline;}
+	.st7{fill:none;}
+	.st8{fill:#D62659;}
+	.st9{display:inline;fill:none;stroke:#D62659;stroke-miterlimit:10;}
+	.st10{display:inline;opacity:0.51;fill:#FFFFFF;stroke:#D62659;stroke-miterlimit:10;}
+	.st11{display:inline;opacity:0.51;fill:#D62659;}
+	.st12{display:inline;opacity:0.51;}
+	.st13{display:inline;opacity:0.51;fill:none;stroke:#D62659;stroke-miterlimit:10;}
+	.st14{opacity:0.5;}
+	.st15{fill:#9C1F61;}
+	.st16{fill:#7ED3F1;}
+	.st17{fill:#8DC63F;}
+	.st18{fill:#F99C1C;}
+	.st19{fill:#91CE9D;}
+	.st20{fill:#A7A9AC;}
+	.st21{fill:#ED2024;}
+	.st22{fill:#4788C8;}
+	.st23{fill:#F280A3;}
+	.st24{fill:#E55E8F;}
+	.st25{fill:#B6DBF4;}
+	.st26{fill:#E5C926;}
+	.st27{fill:#BBA130;}
+	.st28{fill:#A5A4A4;}
+	.st29{fill:#878787;}
+	.st30{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st34{font-size:10px;}
+</style>
+<g
+   id="original_image"
+   class="st0">
+	
+		<image
+   style="display:inline;overflow:visible"
+   width="980"
+   height="707"
+   xlink:href="9FEFC9DEA5ECCBBD.jpg"
+   transform="matrix(1.2859,0,0,1.2859,22.2425,55.1233)"
+   id="image1">
+	</image>
+	<line
+   class="st1"
+   x1="1239.5"
+   y1="854.59998"
+   x2="1239.5"
+   y2="134.60001"
+   id="line1" />
+	<rect
+   x="1252.7"
+   y="359.20001"
+   class="st2"
+   width="52.400002"
+   height="54.799999"
+   id="rect1" />
+	<text
+   transform="translate(1252.7371,374.9294)"
+   class="st3 st4 st5"
+   id="text1">10”</text>
+	<g
+   class="st6"
+   id="g2">
+		<rect
+   x="568.5"
+   y="956.29999"
+   class="st7"
+   width="71.800003"
+   height="43.900002"
+   id="rect2" />
+		<text
+   transform="translate(568.527,972.0934)"
+   class="st8 st4 st5"
+   id="text2">12.7”</text>
+	</g>
+	<line
+   class="st9"
+   x1="258.29999"
+   y1="934.29999"
+   x2="1172.7"
+   y2="934.29999"
+   id="line2" />
+</g>
+<g
+   id="orig_light"
+   class="st0">
+	
+		<image
+   style="display:inline;overflow:visible;opacity:0.51"
+   width="980"
+   height="707"
+   xlink:href="9FEFC9DEA5ECCBBF.jpg"
+   transform="matrix(1.2859,0,0,1.2859,22.5701,55.1233)"
+   id="image2">
+	</image>
+	<line
+   class="st10"
+   x1="1239.9"
+   y1="854.59998"
+   x2="1239.9"
+   y2="134.60001"
+   id="line3" />
+	<rect
+   x="1253.1"
+   y="359.20001"
+   class="st2"
+   width="52.400002"
+   height="54.799999"
+   id="rect3" />
+	<text
+   transform="translate(1253.0646,374.9294)"
+   class="st11 st4 st5"
+   id="text3">10”</text>
+	<g
+   class="st12"
+   id="g4">
+		<rect
+   x="568.90002"
+   y="956.29999"
+   class="st7"
+   width="71.800003"
+   height="43.900002"
+   id="rect4" />
+		<text
+   transform="translate(568.8546,972.0934)"
+   class="st8 st4 st5"
+   id="text4">12.7”</text>
+	</g>
+	<line
+   class="st13"
+   x1="258.60001"
+   y1="934.29999"
+   x2="1173"
+   y2="934.29999"
+   id="line4" />
+	<rect
+   x="57.700001"
+   y="21.4"
+   class="st2"
+   width="257"
+   height="80.300003"
+   id="rect5" />
+	<text
+   transform="translate(57.6836,37.1194)"
+   class="st6"
+   id="text7"><tspan
+     x="0"
+     y="0"
+     class="st4 st5"
+     id="tspan5">SCALE</tspan><tspan
+     x="0"
+     y="26.4"
+     class="st4 st5"
+     id="tspan6">1’ = 0.1”</tspan><tspan
+     x="0"
+     y="52.799999"
+     class="st4 st5"
+     id="tspan7">1/120</tspan></text>
+</g>
+<g
+   id="areas"
+   class="st14"
+   style="display:inline">
+	<rect
+   x="330.20001"
+   y="718.59998"
+   class="st15"
+   width="133.5"
+   height="132.3"
+   id="rect7" />
+	<rect
+   x="674.20001"
+   y="612.90002"
+   class="st16"
+   width="75.5"
+   height="32.5"
+   id="rect8" />
+	<g
+   id="g19">
+		<rect
+   x="526.40002"
+   y="137.60001"
+   class="st17"
+   width="29.200001"
+   height="133.8"
+   id="rect9" />
+		<rect
+   x="526.40002"
+   y="271.39999"
+   class="st17"
+   width="22"
+   height="108.1"
+   id="rect10" />
+		<rect
+   x="526.40002"
+   y="454.20001"
+   class="st17"
+   width="22"
+   height="142.2"
+   id="rect11" />
+		<rect
+   x="508.20001"
+   y="668.40002"
+   class="st17"
+   width="19.799999"
+   height="112.1"
+   id="rect12" />
+		<rect
+   x="466.20001"
+   y="182.5"
+   class="st17"
+   width="18.1"
+   height="69.300003"
+   id="rect13" />
+		<rect
+   x="463.79999"
+   y="279.79999"
+   class="st17"
+   width="21.799999"
+   height="97.300003"
+   id="rect14" />
+		<rect
+   x="463.70001"
+   y="467.20001"
+   class="st17"
+   width="22"
+   height="121.6"
+   id="rect15" />
+		<rect
+   x="290.70001"
+   y="447.29999"
+   class="st17"
+   width="74.400002"
+   height="19.4"
+   id="rect16" />
+		<rect
+   x="437.20001"
+   y="447.29999"
+   class="st17"
+   width="25.299999"
+   height="19.4"
+   id="rect17" />
+		<rect
+   x="674.59998"
+   y="732.09998"
+   class="st17"
+   width="19.799999"
+   height="55.799999"
+   id="rect18" />
+		<rect
+   x="725.40002"
+   y="731.79999"
+   class="st17"
+   width="19.799999"
+   height="55.799999"
+   id="rect19" />
+	</g>
+	<rect
+   x="83.5"
+   y="353.70001"
+   width="83"
+   height="136.60001"
+   id="rect20" />
+	<rect
+   x="767.79999"
+   y="596.40002"
+   class="st18"
+   width="115.8"
+   height="88.400002"
+   id="rect21" />
+	<rect
+   x="883"
+   y="596.40002"
+   class="st19"
+   width="134.2"
+   height="88.400002"
+   id="rect22" />
+	<rect
+   x="1049.5"
+   y="596.40002"
+   class="st20"
+   width="119.3"
+   height="163.60001"
+   id="rect23" />
+	<rect
+   x="954.79999"
+   y="760"
+   class="st21"
+   width="216.39999"
+   height="90.900002"
+   id="rect24" />
+	<rect
+   x="730.09998"
+   y="760.09998"
+   class="st22"
+   width="131.3"
+   height="90.800003"
+   id="rect25" />
+	<rect
+   x="548.40002"
+   y="493.89999"
+   class="st23"
+   width="70.599998"
+   height="102.6"
+   id="rect26" />
+	<rect
+   x="619.09998"
+   y="493.89999"
+   class="st24"
+   width="65.599998"
+   height="102.6"
+   id="rect27" />
+	<rect
+   x="684.59998"
+   y="493.89999"
+   class="st23"
+   width="118"
+   height="102.6"
+   id="rect28" />
+	<rect
+   x="802.59998"
+   y="493.89999"
+   class="st25"
+   width="185"
+   height="102.6"
+   id="rect29" />
+	<rect
+   x="987.59998"
+   y="414"
+   class="st26"
+   width="182.5"
+   height="182.5"
+   id="rect30" />
+	<rect
+   x="987.59998"
+   y="242"
+   class="st27"
+   width="182.5"
+   height="172"
+   id="rect31" />
+	<rect
+   x="987.59998"
+   y="137.60001"
+   class="st26"
+   width="183.89999"
+   height="104.4"
+   id="rect32" />
+	<rect
+   x="849.29999"
+   y="139.3"
+   class="st28"
+   width="138.3"
+   height="231.8"
+   id="rect33" />
+	<rect
+   x="672.20001"
+   y="137.60001"
+   class="st29"
+   width="177.10001"
+   height="233.5"
+   id="rect34" />
+	<rect
+   x="555.59998"
+   y="137.60001"
+   class="st28"
+   width="116.6"
+   height="233.5"
+   id="rect35" />
+</g>
+<g
+   id="window">
+	<line
+   class="st30"
+   x1="490.7"
+   y1="137.6"
+   x2="518.9"
+   y2="137.6"
+   id="line35" />
+	<line
+   class="st30"
+   x1="692.5"
+   y1="137.6"
+   x2="720.7"
+   y2="137.6"
+   id="line36" />
+	<line
+   class="st30"
+   x1="894.1"
+   y1="137.6"
+   x2="922.3"
+   y2="137.6"
+   id="line37" />
+	<line
+   class="st30"
+   x1="894.2"
+   y1="850.8"
+   x2="922.4"
+   y2="850.8"
+   id="line38" />
+	<line
+   class="st30"
+   x1="1052.7"
+   y1="850.8"
+   x2="1080.9"
+   y2="850.8"
+   id="line39" />
+	<line
+   class="st30"
+   x1="1171.5"
+   y1="674.2"
+   x2="1171.5"
+   y2="702.3"
+   id="line40" />
+	<line
+   class="st30"
+   x1="1171.5"
+   y1="300.1"
+   x2="1171.5"
+   y2="328.2"
+   id="line41" />
+</g>
+<g
+   id="doors">
+	<path
+   class="st31"
+   d="M528,612c-7.8,0-15.7,0-23.5,0c0.1,2.5,0.7,6.8,3.2,11.1c5.9,9.8,17.1,10.9,18.6,11.1c-1.4,0-10.1,0.4-16.2,8   c-4.7,5.8-5.1,12.2-5.1,14.2c7.7,0,15.4,0,23,0"
+   id="path41" />
+	<path
+   class="st31"
+   d="M721.3,787.5c0-7.8,0-15.7,0-23.5c-2.6,0.1-6.9,0.7-11.3,3.2c-10,5.9-11.1,17.1-11.3,18.6"
+   id="path42" />
+	<path
+   class="st31"
+   d="M721.3,850.8c0,7.8,0,15.7,0,23.5c-2.6-0.1-6.9-0.7-11.3-3.2c-10-5.9-11.1-17.1-11.3-18.6"
+   id="path43" />
+	<path
+   class="st31"
+   d="M457.8,676.4c0-7.8,0-15.7,0-23.5c-2.6,0.1-6.9,0.7-11.3,3.2c-10,5.9-11.1,17.1-11.3,18.6"
+   id="path44" />
+	<path
+   class="st31"
+   d="M457.8,592.4c0,7.8,0,15.7,0,23.5c-2.6-0.1-6.9-0.7-11.3-3.2c-10-5.9-11.1-17.1-11.3-18.6"
+   id="path45" />
+	<path
+   class="st31"
+   d="M328.7,800.1c7.8,0,15.7,0,23.5,0c-0.1,2.6-0.7,6.9-3.2,11.3c-5.9,10-17.1,11.1-18.6,11.3"
+   id="path46" />
+	<path
+   class="st31"
+   d="M393.4,466.5c0,7.8,0,15.7,0,23.5c-2.6-0.1-6.9-0.7-11.3-3.2c-10-5.9-11.1-17.1-11.3-18.6"
+   id="path47" />
+	<path
+   class="st31"
+   d="M410.9,466.5c0,7.8,0,15.7,0,23.5c2.6-0.1,6.9-0.7,11.3-3.2c10-5.9,11.1-17.1,11.3-18.6"
+   id="path48" />
+	<path
+   class="st31"
+   d="M367.3,377.1c0-7.8,0-15.7,0-23.5c2.6,0.1,6.9,0.7,11.3,3.2c10,5.9,11.1,17.1,11.3,18.6"
+   id="path49" />
+	<path
+   class="st31"
+   d="M357.8,377.1c0-7.8,0-15.7,0-23.5c-2.6,0.1-6.9,0.7-11.3,3.2c-10,5.9-11.1,17.1-11.3,18.6"
+   id="path50" />
+	<path
+   class="st31"
+   d="M258.9,491.3c0,7.8,0,15.7,0,23.5c-2.6-0.1-6.9-0.7-11.3-3.2c-10-5.9-11.1-17.1-11.3-18.6"
+   id="path51" />
+	<path
+   class="st31"
+   d="M280.5,137.5c0-7.8,0-15.7,0-23.5c2.6,0.1,6.9,0.7,11.3,3.2c10,5.9,11.1,17.1,11.3,18.6"
+   id="path52" />
+	<path
+   class="st31"
+   d="M463.8,274.7c-7.8,0-15.7,0-23.5,0c0.1-2.7,0.7-7.2,3.2-11.8c5.9-10.4,17.1-11.6,18.6-11.8"
+   id="path53" />
+	<path
+   class="st31"
+   d="M356.9,182.3c0,0,0,15.2,0,23c-2.6-0.1-6.9-0.7-11.3-3.2c-10-5.9-11.1-17.1-11.3-18.6"
+   id="path54" />
+	<path
+   class="st31"
+   d="M1044.8,596.4c0-7.8,0-15.7,0-23.5c-2.6,0.1-6.9,0.7-11.3,3.2c-10,5.9-11.1,17.1-11.3,18.6"
+   id="path55" />
+	<path
+   class="st31"
+   d="M1123.8,137.5c0-7.8,0-15.7,0-23.5c2.6,0.1,6.9,0.7,11.3,3.2c10,5.9,11.1,17.1,11.3,18.6"
+   id="path56" />
+	<rect
+   x="165.3"
+   y="429.3"
+   class="st31"
+   width="59.3"
+   height="60"
+   id="rect56" />
+	<rect
+   x="92.9"
+   y="429.3"
+   class="st31"
+   width="59.3"
+   height="60"
+   id="rect57" />
+</g>
+<g
+   id="wall_internal">
+	<line
+   class="st32"
+   x1="336.2"
+   y1="377.1"
+   x2="263.3"
+   y2="377.1"
+   id="line57" />
+	<line
+   class="st32"
+   x1="368.4"
+   y1="377.1"
+   x2="357"
+   y2="377.1"
+   id="line58" />
+	<polyline
+   class="st32"
+   points="463.8,274 463.8,377.1 389.5,377.1  "
+   id="polyline58" />
+	<polyline
+   class="st32"
+   points="356.8,182.5 463.8,182.5 463.8,182.8 463.8,251.8  "
+   id="polyline59" />
+	<line
+   class="st32"
+   x1="335.4"
+   y1="182.5"
+   x2="262.5"
+   y2="182.5"
+   id="line59" />
+	<line
+   class="st32"
+   x1="463.8"
+   y1="279.4"
+   x2="263.3"
+   y2="279.4"
+   id="line60" />
+	<line
+   class="st32"
+   x1="362.7"
+   y1="377.1"
+   x2="362.7"
+   y2="182.5"
+   id="line61" />
+	<line
+   class="st32"
+   x1="1171.5"
+   y1="596.4"
+   x2="1044.8"
+   y2="596.4"
+   id="line62" />
+	<polyline
+   class="st32"
+   points="730.1,850.8 730.1,787.4 720.8,787.4  "
+   id="polyline62" />
+	<polyline
+   class="st32"
+   points="528,655.7 528,787.4 699.2,787.4  "
+   id="polyline63" />
+	<polyline
+   class="st32"
+   points="528,612.9 528,596.4 528.2,596.4 1023.9,596.4  "
+   id="polyline64" />
+	<line
+   class="st32"
+   x1="330.2"
+   y1="800.1"
+   x2="330.2"
+   y2="718.6"
+   id="line64" />
+	<line
+   class="st32"
+   x1="402.5"
+   y1="546.2"
+   x2="402.5"
+   y2="467.2"
+   id="line65" />
+	<polyline
+   class="st32"
+   points="263.3,718.6 463.7,718.6 463.7,652.4  "
+   id="polyline65" />
+	<line
+   class="st32"
+   x1="262"
+   y1="546.2"
+   x2="462.4"
+   y2="546.2"
+   id="line66" />
+	<polyline
+   class="st32"
+   points="432.9,466.7 463.7,466.7 463.7,616.4  "
+   id="polyline66" />
+	<line
+   class="st32"
+   x1="392.6"
+   y1="466.7"
+   x2="411.7"
+   y2="466.7"
+   id="line67" />
+	<line
+   class="st32"
+   x1="372"
+   y1="466.7"
+   x2="263.3"
+   y2="466.7"
+   id="line68" />
+	<line
+   class="st32"
+   x1="330.2"
+   y1="850.8"
+   x2="330.2"
+   y2="821.7"
+   id="line69" />
+	<line
+   class="st32"
+   x1="290.7"
+   y1="466.7"
+   x2="290.7"
+   y2="443.7"
+   id="line70" />
+	<line
+   class="st32"
+   x1="290.7"
+   y1="377.1"
+   x2="290.7"
+   y2="400.7"
+   id="line71" />
+	<line
+   class="st32"
+   x1="263.3"
+   y1="634.1"
+   x2="427.4"
+   y2="634.1"
+   id="line72" />
+	<line
+   class="st32"
+   x1="456.8"
+   y1="675.8"
+   x2="464.7"
+   y2="675.8"
+   id="line73" />
+	<line
+   class="st32"
+   x1="456.8"
+   y1="592.4"
+   x2="464.7"
+   y2="592.4"
+   id="line74" />
+	<polyline
+   class="st32"
+   points="436.1,592.4 427.4,592.4 427.4,675.8 427.5,675.8 436.2,675.8  "
+   id="polyline74" />
+</g>
+<g
+   id="wall_external">
+	<polyline
+   class="st33"
+   points="280.4,137.3 263.3,137.3 263.3,377.1  "
+   id="polyline75" />
+	<polyline
+   class="st33"
+   points="93.9,490.3 83.5,490.3 83.5,353.7 263.3,353.7  "
+   id="polyline76" />
+	<line
+   class="st33"
+   x1="166.6"
+   y1="490.3"
+   x2="151.2"
+   y2="490.3"
+   id="line76" />
+	<line
+   class="st33"
+   x1="239"
+   y1="490.3"
+   x2="223.7"
+   y2="490.3"
+   id="line77" />
+	<polyline
+   class="st33"
+   points="263.3,464.3 263.3,850.8 698.4,850.8  "
+   id="polyline77" />
+	<line
+   class="st33"
+   x1="721.1"
+   y1="850.8"
+   x2="894.3"
+   y2="850.8"
+   id="line78" />
+	<line
+   class="st33"
+   x1="1052.7"
+   y1="850.8"
+   x2="922.5"
+   y2="850.8"
+   id="line79" />
+	<polyline
+   class="st33"
+   points="1171.3,702.6 1171.3,850.8 1081.1,850.8  "
+   id="polyline79" />
+	<line
+   class="st33"
+   x1="1171.5"
+   y1="674.2"
+   x2="1171.5"
+   y2="328.2"
+   id="line80" />
+	<polyline
+   class="st33"
+   points="1145.1,137.5 1171.5,137.5 1171.5,300.1  "
+   id="polyline80" />
+	<line
+   class="st33"
+   x1="1124.6"
+   y1="137.5"
+   x2="922.7"
+   y2="137.5"
+   id="line81" />
+	<line
+   class="st33"
+   x1="894.1"
+   y1="137.6"
+   x2="720.7"
+   y2="137.6"
+   id="line82" />
+	<line
+   class="st33"
+   x1="692.5"
+   y1="137.6"
+   x2="518.9"
+   y2="137.6"
+   id="line83" />
+	<line
+   class="st33"
+   x1="490.7"
+   y1="137.6"
+   x2="303.1"
+   y2="137.6"
+   id="line84" />
+</g>
+<g
+   id="labels">
+	<rect
+   x="310.9"
+   y="575.6"
+   class="st7"
+   width="116.5"
+   height="18.6"
+   id="rect84" />
+	<text
+   transform="matrix(1 0 0 1 345.7915 582.8089)"
+   class="st4 st34"
+   id="text84">Restroom</text>
+	<rect
+   x="310.9"
+   y="677.7"
+   class="st7"
+   width="116.5"
+   height="18.6"
+   id="rect85" />
+	<text
+   transform="matrix(1 0 0 1 345.7915 684.8553)"
+   class="st4 st34"
+   id="text85">Restroom</text>
+	<text
+   transform="matrix(1 0 0 1 580.7239 704.843)"
+   class="st4 st34"
+   id="text86">Kitchen</text>
+	<rect
+   x="374.6"
+   y="499.1"
+   class="st7"
+   width="116.5"
+   height="60.9"
+   id="rect86" />
+	<text
+   transform="matrix(1 0 0 1 412.8487 506.2686)"
+   id="text87"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan86">Amber’s </tspan><tspan
+     x="5.8"
+     y="12"
+     class="st4 st34"
+     id="tspan87">Office</tspan></text>
+	<rect
+   x="273"
+   y="501.7"
+   class="st7"
+   width="116.5"
+   height="18.6"
+   id="rect87" />
+	<text
+   transform="matrix(1 0 0 1 305.3805 508.8807)"
+   class="st4 st34"
+   id="text88">Classroom</text>
+	<rect
+   x="173.1"
+   y="411.4"
+   class="st7"
+   width="116.5"
+   height="18.6"
+   id="rect88" />
+	<text
+   transform="matrix(1 0 0 1 198.2987 418.5217)"
+   class="st4 st34"
+   id="text89">Loading Dock</text>
+	<text
+   transform="matrix(1 0 0 1 90.1695 421.2805)"
+   class="st4 st34"
+   id="text90">Blacksmithing</text>
+	<text
+   transform="matrix(1 0 0 1 370.7129 326.7439)"
+   class="st4 st34"
+   id="text91">Conference Room</text>
+	<text
+   transform="matrix(1 0 0 1 288.2383 323.7678)"
+   class="st4 st34"
+   id="text92">Staff Office</text>
+	<text
+   transform="matrix(1 0 0 1 371.7697 230.5227)"
+   id="text93"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan92">Classes &amp; Events </tspan><tspan
+     x="8.9"
+     y="12"
+     class="st4 st34"
+     id="tspan93">Storage Room</tspan></text>
+	<text
+   transform="matrix(1 0 0 1 286.5537 228.6536)"
+   id="text95"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan94">Maintinence </tspan><tspan
+     x="11.7"
+     y="12"
+     class="st4 st34"
+     id="tspan95">Storage</tspan></text>
+	<rect
+   x="279"
+   y="776.8"
+   class="st7"
+   width="37.8"
+   height="33.9"
+   id="rect95" />
+	<text
+   transform="matrix(1 0 0 1 284.0289 783.9485)"
+   id="text97"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan96">Utility</tspan><tspan
+     x="-1.4"
+     y="12"
+     class="st4 st34"
+     id="tspan97">Closet</tspan></text>
+	<text
+   transform="matrix(1 0 0 1 381.3308 787.4504)"
+   class="st4 st34"
+   id="text98">Jewelry</text>
+	<text
+   transform="matrix(1 0 0 1 674.462 906.869)"
+   class="st4 st34"
+   id="text99">Front Entrance</text>
+	<text
+   transform="matrix(1 0 0 1 685.6455 631.0028)"
+   class="st4 st34"
+   id="text100">Front Desk</text>
+	<text
+   transform="matrix(1 0 0 1 799.6468 643.1692)"
+   class="st4 st34"
+   id="text101">3D Printing</text>
+	<text
+   transform="matrix(1 0 0 1 923.3493 645.2688)"
+   class="st4 st34"
+   id="text102">Electronics</text>
+	<text
+   transform="matrix(1 0 0 1 1089.5233 668.3886)"
+   class="st4 st34"
+   id="text103">Textiles</text>
+	<text
+   transform="matrix(1 0 0 1 1030.4937 805.5745)"
+   class="st4 st34"
+   id="text104">Laser Cutting</text>
+	<text
+   transform="matrix(1 0 0 1 871.7998 804.8186)"
+   class="st4 st34"
+   id="text105">Computer Hub</text>
+	<text
+   transform="matrix(1 0 0 1 775.6087 806.7883)"
+   class="st4 st34"
+   id="text106">Graphics</text>
+	<text
+   transform="matrix(1 0 0 1 1062.4111 505.8157)"
+   id="text107"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan106">General </tspan><tspan
+     x="-13"
+     y="12"
+     class="st4 st34"
+     id="tspan107">Woodworking</tspan></text>
+	<text
+   transform="matrix(1 0 0 1 1050.6045 326.8738)"
+   id="text109"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan108">Millwork and </tspan><tspan
+     x="13.9"
+     y="12"
+     class="st4 st34"
+     id="tspan109">Joinery</tspan></text>
+	<text
+   transform="matrix(1 0 0 1 892.665 200.3919)"
+   class="st4 st34"
+   id="text110">Big Laser</text>
+	<text
+   transform="matrix(1 0 0 1 806.1795 316.1405)"
+   class="st4 st34"
+   id="text111">Metal Fabrication</text>
+	<text
+   transform="matrix(1 0 0 1 784.0897 205.8318)"
+   class="st4 st34"
+   id="text112">CNC Plasma</text>
+	<text
+   transform="matrix(1 0 0 1 689.6233 195.5325)"
+   id="text113"><tspan
+     x="0"
+     y="0"
+     class="st4 st34"
+     id="tspan112">Welding and </tspan><tspan
+     x="-5"
+     y="12"
+     class="st4 st34"
+     id="tspan113">Manual Plasma</tspan></text>
+	<text
+   transform="matrix(1 0 0 1 1009.6826 197.2039)"
+   class="st4 st34"
+   id="text114">CNC Router</text>
+	<text
+   transform="matrix(1 0 0 1 574.0859 265.6008)"
+   class="st4 st34"
+   id="text115">Metal Machining</text>
+	<rect
+   x="862.5"
+   y="544.3"
+   class="st7"
+   width="65.2"
+   height="20.3"
+   id="rect115" />
+	<text
+   transform="matrix(1 0 0 1 876.1961 551.4672)"
+   class="st4 st34"
+   id="text116">Plastics</text>
+	<rect
+   x="644.2"
+   y="544.3"
+   class="st7"
+   width="65.2"
+   height="20.3"
+   id="rect116" />
+	<text
+   transform="matrix(1 0 0 1 654.5891 551.4672)"
+   class="st4 st34"
+   id="text117">Finishing</text>
+	<rect
+   x="533.4"
+   y="492.7"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect117" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 540.5545 543.9377)"
+   class="st4 st34"
+   id="text118">Storage</text>
+	<rect
+   x="470.8"
+   y="492.7"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect118" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 477.9716 543.9387)"
+   class="st4 st34"
+   id="text119">Storage</text>
+	<rect
+   x="469.9"
+   y="295.8"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect119" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 477.0771 347.0256)"
+   class="st4 st34"
+   id="text120">Storage</text>
+	<rect
+   x="533.4"
+   y="235.1"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect120" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 540.5099 286.3196)"
+   class="st4 st34"
+   id="text121">Storage</text>
+	<rect
+   x="470.8"
+   y="184.1"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect121" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 477.9716 235.3089)"
+   class="st4 st34"
+   id="text122">Storage</text>
+	<rect
+   x="514.2"
+   y="696.3"
+   class="st7"
+   width="20.3"
+   height="65.2"
+   id="rect122" />
+	<text
+   transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 521.3428 747.552)"
+   class="st4 st34"
+   id="text123">Storage</text>
+	<text
+   transform="matrix(1 0 0 1 312.6066 459.325)"
+   class="st4 st34"
+   id="text124">Storage</text>
+</g>
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="fire_suppression"><g
+     id="g125"
+     transform="matrix(0.6756863,0,0,0.6756863,271.13356,51.326245)"><circle
+       style="fill:#ffffff;stroke:#000000"
+       id="path124"
+       cx="395.31927"
+       cy="906.6814"
+       r="10.830666" /><text
+       xml:space="preserve"
+       style="font-size:103.358px;font-family:Handmade;-inkscape-font-specification:'Handmade, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.21122"
+       x="372.79642"
+       y="967.49347"
+       id="text125"
+       transform="scale(1.059421,0.94391183)"><tspan
+         sodipodi:role="line"
+         id="tspan124"
+         x="372.79642"
+         y="967.49347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3796px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:1.21122">F</tspan></text></g><g
+     id="g126"
+     transform="matrix(0.6756863,0,0,0.6756863,0.75373807,-156.77725)"><circle
+       style="fill:#ffffff;stroke:#000000"
+       id="circle125"
+       cx="395.31927"
+       cy="906.6814"
+       r="10.830666" /><text
+       xml:space="preserve"
+       style="font-size:103.358px;font-family:Handmade;-inkscape-font-specification:'Handmade, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.21122"
+       x="372.79642"
+       y="967.49347"
+       id="text126"
+       transform="scale(1.059421,0.94391183)"><tspan
+         sodipodi:role="line"
+         id="tspan125"
+         x="372.79642"
+         y="967.49347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3796px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:1.21122">F</tspan></text></g><g
+     id="g127"
+     transform="matrix(0.6756863,0,0,0.6756863,43.68959,-463.13035)"><circle
+       style="fill:#ffffff;stroke:#000000"
+       id="circle126"
+       cx="395.31927"
+       cy="906.6814"
+       r="10.830666" /><text
+       xml:space="preserve"
+       style="font-size:103.358px;font-family:Handmade;-inkscape-font-specification:'Handmade, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.21122"
+       x="372.79642"
+       y="967.49347"
+       id="text127"
+       transform="scale(1.059421,0.94391183)"><tspan
+         sodipodi:role="line"
+         id="tspan126"
+         x="372.79642"
+         y="967.49347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3796px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:1.21122">F</tspan></text></g><g
+     id="g128"
+     transform="matrix(0.6756863,0,0,0.6756863,892.34958,-452.68649)"><circle
+       style="fill:#ffffff;stroke:#000000"
+       id="circle127"
+       cx="395.31927"
+       cy="906.6814"
+       r="10.830666" /><text
+       xml:space="preserve"
+       style="font-size:103.358px;font-family:Handmade;-inkscape-font-specification:'Handmade, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:1.21122"
+       x="372.79642"
+       y="967.49347"
+       id="text128"
+       transform="scale(1.059421,0.94391183)"><tspan
+         sodipodi:role="line"
+         id="tspan127"
+         x="372.79642"
+         y="967.49347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3796px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke:none;stroke-width:1.21122">F</tspan></text></g></g></svg>
