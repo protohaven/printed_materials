@@ -8,6 +8,7 @@ _These rules and policies are subject to change.
 Changes will become effective immediately upon a successful vote of adoption by the Board of Directors._
 
 = Core Values
+
 Protohaven supports a maker space that values:
 
 *Inclusion:* We strive to create an environment where all feel welcome and are treated with dignity and respect.
