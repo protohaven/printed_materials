@@ -2,6 +2,7 @@
 
 
 #let color = (
+  tablegrey: rgb(95%,95%,95%),
   lightgrey: rgb(65%,65%,65%),
   midgrey: rgb(50%,50%,50%),
   darkgrey: rgb(38%,38%,38%),
