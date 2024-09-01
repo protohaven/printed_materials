@@ -7,7 +7,7 @@
   title: "Basic Operation",
   category: "Laser",
   number: "101",
-  clearances: ("Rabbit Lasers",),
+  clearances: ("Rabbit Large Format Lasers",),
   instructors: ("Someone",),
   authors: ("Paul Mazaitis <paul@mazaitis>",),
   draft: true,
