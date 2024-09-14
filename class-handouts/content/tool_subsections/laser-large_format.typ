@@ -90,7 +90,60 @@ The following materials are prohibited for use in the laser cutter:
 
 == Parts of the Laser Cutter
 
-=== 
+=== Front Quarter View
+
+#figure(
+  image("./images/large_format_laser-front_quarter-annotated.png"),
+  caption: [Annotated front-quarter view of the large format laser.],
+)
+
+=== Control Panel
+
+#figure(
+  image("./images/large_format_laser-control_panel-default.jpeg", width: 70%),
+  caption: [The control panel for the large format laser in the default view.],
+)
+<large_format_laser-control_panel>
+
+=== On/Off Switch
+
+Turn the Key to the right (clockwise) to power on the laser.
+
+Turn the ley to the left (counter-clockwise) to pwoer fof the laser.
+
+=== Emergency Stop Switch
+
+Press the emergency stop switch to power off the laser.
+
+To re-enable the laser, pull up on the emergency stop button while twisting clockwise.
+
+=== Lid
+
+The lid must be closed for the laser to fire.
+
+Always close the lid gently to avoid damaging the laser tube.
+
+Check to make sure that nothing is in the way (pieces of paper, material scraps, etc.) that may keep the lid open and interrupt the laser.
+
+=== Lens Carriage
+
+The lens carriage moves the laser over the workpiece during a cut.
+
+=== Bed
+
+The bed supports the workpiece. The bed can be raised and lowered to adjust the focus of the laser.
+
+=== Control Panel
+
+Use the control panel to adjust the bed and lens carriage, set the origin, and other functions.
+
+Many functions can also be used through LightBurn.
+
+=== Spray Bottle
+
+
+=== Magnets
+
 
 == Basic Operation
 
