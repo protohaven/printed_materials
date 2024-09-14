@@ -7,11 +7,11 @@ The vertical meal band saw can remove large amounts of material from a workpiece
 
 == Notes
 
-// === Safety
-
 === Use
 
 In general, use of the vertical metal bandsaw is limited to cutting either mild steel or aluminum. A comprehensive chart of permitted materials is inside the upper cabinet.
+  
+A good rule of thumb is to only cut material that is at least as thick as the height of three teeth on the saw blade.  The will reduce the chances of a tooth catching the top edge of the workpiece too deeply. There are better methods for cutting thin materials (see the SHeetmetal classes for more).
   
 // === Consumables
 
@@ -28,7 +28,9 @@ This tool can be used to cut:
 
 This tool must not be used to cut:
 
-
+- Ordinary tool steel
+- High speed steel
+- Stainless steel
   
 == Parts of the Vertical Metal Band Saw
 
@@ -98,8 +100,6 @@ Turn on the work lamp for better illumination during a cut.
 === Setting Up
 
 + Plug in the vertical metal band saw.
-+ Set the speed lever as appropriate for the workpiece material.\
-  _Make sure that the gearing is fully engaged in the new setting: you may need to manually advance the drive wheel to make sure the gears properly mesh._
 + Loosen the guard screw to free the blade guard.\
   _Be careful: the guard is heavy, and may drop unexpectedly._  
 + Set the blade guard to just above the height of the workpiece.
@@ -107,6 +107,14 @@ Turn on the work lamp for better illumination during a cut.
 + Check the blade alignment with the guides. \
   _The blade guides should be just barely supporting the blade, and still turn freely. Make sure that the blade guides are clear of the teeth._
 + Turn on the work light.
+
+=== Setting the Speed
+
++ Set the speed range shift lever to _high_ or _low_ as appropriate for the workpiece material.\
+_Make sure that the gearing is fully engaged in the new setting: you may need to manually advance the drive wheel to make sure the gears properly mesh._
++ Set the speed crank to a speed appropriate for the material you are cutting.
+
+// Include materials chart here
 
 === Workholding
 

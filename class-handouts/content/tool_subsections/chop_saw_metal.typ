@@ -28,6 +28,8 @@ Do not make cuts that produce waste pieces smaller than 8mm (5/16") in length. T
 
 Don’t use the metal chop saw for 45° angle cuts. Use this saw for cuts close to or at 90°.
 
+When making a cut, only let the blade approach the workpiece from the back or from the top. Do not let the workpiece touch the back part of the blade where the teeth are traveling upward: the teeth may pull the workpiece up and out of the vise.
+
 The metal chop saw is not bolted down. // - more reason to keep it unplugged when messing with it
 
 Unplug the saw while setting up a workpiece or performing any maintenance.
