@@ -16,18 +16,18 @@
 #let pro_materials = csv("/reference/large_format_laser/laser_materials-prohibited.csv").map(l => l.slice(0,-1))
 #let table_header = pro_materials.remove(0)
 
-#align(center,
-table(
-  columns: (auto, auto),
+#table(
+  columns: (auto, 1fr),
   stroke: none,
+  align: left,
   inset: (
     x: 48pt,
-    y: 15pt,
+    y: 16pt,
   ),
   fill: (_, y) => if calc.odd(y) { color.tablegrey },
   table.header(..table_header.map(h => strong(h))),
   table.hline(),
   ..pro_materials.flatten()
 )
-)
+
 ]
