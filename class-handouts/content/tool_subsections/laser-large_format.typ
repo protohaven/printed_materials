@@ -52,7 +52,7 @@ The following materials are prohibited for use in the laser cutter:
 
 #set text(size: 9pt)
 
-#let pro_materials = csv("/reference/large_format_laser/laser_materials-prohibited.csv").map(l => l.slice(0,-1))
+#let pro_materials = csv("/reference/large_format_laser/prohibited_materials.csv").map(l => l.slice(0,-1))
 #let table_header = pro_materials.remove(0)
 
 #table(
@@ -73,7 +73,8 @@ The following materials are prohibited for use in the laser cutter:
 
 #set text(size: 9pt)
 
-#let app_materials = csv("/reference/large_format_laser/laser_materials-approved.csv").map(l => l.slice(0,-2))
+#let app_materials = csv("/reference/large_format_laser/rabbit_approved_materials.csv").map(l => ((l.at(0),) + (l.at(1),) + (l.at(5),) + (l.at(8),)))
+
 #let table_header = app_materials.remove(0)
 
 #table(
@@ -107,9 +108,9 @@ The following materials are prohibited for use in the laser cutter:
 
 === On/Off Switch
 
-Turn the Key to the right (clockwise) to power on the laser.
+Turn the key to the right (clockwise) to power on the laser.
 
-Turn the ley to the left (counter-clockwise) to pwoer fof the laser.
+Turn the key to the left (counter-clockwise) to power off the laser.
 
 === Emergency Stop Switch
 
@@ -141,9 +142,11 @@ Many functions can also be used through LightBurn.
 
 === Spray Bottle
 
+A spray bottle filled with water is kep on the right side of the cabinet. Use the spray bottle to quickly douse small material fires.
 
 === Magnets
 
+A collection of magnets are kept on the left side of the  cabinet. Use these magnets to anchor the workpiece to the bed.
 
 == Basic Operation
 
@@ -184,14 +187,19 @@ Use a focus block on the workpiece to set the height of the lens and bring it in
 
 + Press the *Z/U* button to change to bed height control.\
   _The screen will display a menu with *Z move* highlighted in blue._
-+ Press the *←* (right arrow) and *→* (left arrow) buttons to align the height of the lens carriage to the focus gauge.\
++ Press the *←* (right arrow) and *→* (left arrow) buttons to align the focus gauge to the second ring of the lens carriage.\
  _The right arrow lowers the bed, and the left arrow raises the bed._
-+ Press the *Esc* button to return to the main menu.
++ Press the *Esc* button to return to the main screen.
+
+#figure(
+  image("./images/rabbit-focus_block.jpeg", width:60%),
+  caption: [Lens carriage aligned with the focus gauge (40mm).],
+)
 
 === Set the Origin
 <set-the-origin>
 
-+ Position the laser head over the workpiece at the location you want the cut or etch to start. \
++ Position the laser head over the workpiece at the location you want to set as a boundry for your art. \
   _Use the directional buttons to move the laser head across the bed._
 - #h(0.48em)_Optional:_ Press the *Pulse* button to verify the exact location.
 2. Press the *Origin* button to set the origin point for the job.
@@ -201,24 +209,54 @@ Use a focus block on the workpiece to set the height of the lens and bring it in
 
 _These steps detail loading a single vector art file into LightBurn, and using that file to run a job with the laser. LightBurn is capable of much more: with LightBurn, we can load, manipulate, and compose multiple images into one job. For more about LightBurn, please see @software-lightburn. _
 
-(Load art into light burn)
-(Set the reference origin in lightburn)
+==== Import the Art
 
++ Open LightBurn on the computer connected to the large format laser.
++ Click *File > Import*.
++ Select the art file to import.
 
-//  RASTER VS. VECTOR Rastered data is an image that is made of pixels. Much like an inkjet printer, the laser will scan the artwork on a scale from black to white. The laser will vary the number of dots it fires depending on the tone of each pixel.
-// 
-// Common file formats like .jpeg, .gif, and .png are all raster data.
-// 
-// Vectored data is made of paths that form lines and shapes. They contain mathematical data that allows the laser to trace the path like following coordinates on a map. This allows the laser to cut or score a line as well as etch a filled shape.
-// 
-// Common file formats like .ai, .dxf, and .svg are all vector data. 
+The art will be automatically placed on the LightBurn canvas. You may need to zoom and/or pan the view to see all of the art.
+
+==== (Optional) Manipulate the Art
+
+LightBurn is a capable image editor, and has many features that a specific to preparing artwork for the laser. 
+
+Work that is commonly done in LightBurn prior to cutting or etching:
+
+- Duplicating the art to cut multiple copies.
+- Putting portions of the art into layers, for different cuts and/or ordering the cuts.
+
+==== Set the Reference Origin
+
+Set the reference origin in LightBurn with the Job Origin tool:
+
+#figure(
+  image("./images/lightburn-ss-job_origin.png", height: 1in),
+  caption: [The Job Origin tool, currently set with the origin at the upper left.],
+)
+
+==== Set the Speed and Power
+
+In the *Cuts/Layers* panel, each layer will have a listed speed and power in the *Spd/Pwr* column.
+
+These settings must be adjusted for the material (wood, acrylic, natural leather) and purpose (cutting or etching). To adjust the speed and power settings:
+
++ Click on the value in this column to bring up the *Cut Settings Editor* dialog box.
+  #figure(
+    image("./images/lightburn-ss-cut_settings-top_half.png", width:60%),
+    caption: [The top half of the Cut Settings Editor dialog box.],
+  )
++ Use this dialog box to adjust the *Speed* and *Max Power* settings for the cut.
++ Click *OK*.
+
+See @rabbit-speed-and-power-settings for good starting speed and power values for materials.
 
 
 === Run the Job on the Laser
 <run-the-job-on-the-laser>
 
 + Check the footprint of your job.\
-  _In LightBurn, press the MUMBLE button to command the laser to trace out the box boundary of the job, or the MUMBLE button to trace out the exact boundary of the job. The laser will trace out the area of the job. Make sure that the traced path does not leave the media, or run over any of the magnets._
+  _In LightBurn, press the Rectangular *Frame* button to command the laser to trace out the box boundary of the job, or the Circular *Frame* button to trace out the exact boundary of the job. The laser will trace out the area of the job. Make sure that the traced path does not leave the media, or run over any of the hold-down magnets._
 + Press the start button.
 + Monitor the machine until the job is complete.\
   _While the job is running, remain nearby the laser to make sure nothing goes wrong._
@@ -237,14 +275,39 @@ If the single-stream scrap bins become full, alert a shop tech.
 
 == Reference
 
-=== Sources for Materials
-<sources-for-materials>
+=== Speed and Power Settings For Common Materials
+<rabbit-speed-and-power-settings>
 
 #block[
 
 #set text(size: 8pt)
 
-#let app_materials = csv("/reference/large_format_laser/laser_materials-approved.csv").map(l => if l.at(5) != "" { ((l.at(0),) + (l.at(5),))} else {}).filter(l => l != none)
+#let app_materials = csv("/reference/large_format_laser/rabbit_approved_materials.csv").map(l => if l.at(6) != "" { ((l.at(0),) + (l.at(2),) + (l.at(3),) + (l.at(4),) + (l.at(6),) + (l.at(7),) )} else {}).filter(l => l != none)
+
+#let table_header = app_materials.remove(0)
+
+#table(
+  columns: (15em, auto, auto, auto, auto, auto),
+  align: (col, row) => (left+top,center+top,center+top,center+top,center+top,center+top).at(col),
+  stroke: none,
+  inset: 5pt,
+  fill: (_, y) => if calc.odd(y) { color.tablegrey },
+  table.header(..table_header.map(h => strong(h))),
+  table.hline(),
+  ..app_materials.flatten()
+)
+]
+
+=== Sources for Materials
+<sources-for-materials>
+
+A small selection of acrylic and plywood is available for purchase at the Protohaven shop.
+
+#block[
+
+#set text(size: 8pt)
+
+#let app_materials = csv("/reference/large_format_laser/rabbit_approved_materials.csv").map(l => if l.at(-1) != "" { ((l.at(0),) + (l.at(-1),))} else {}).filter(l => l != none)
 
 #let table_header = app_materials.remove(0)
 

@@ -7,7 +7,7 @@
   title: "Basic Operation",
   category: "Laser",
   number: "101",
-  clearances: ("Rabbit Large Format Lasers",),
+  clearances: ("Rabbit Large Format Laser",),
   instructors: ("Someone",),
   authors: ("Paul Mazaitis <paul@mazaitis>",),
   draft: true,
@@ -19,7 +19,7 @@
 
 = Welcome
 
-Welcome to the Introduction to Lathe class at Protohaven!
+Welcome to the Laser Basic Operation class at Protohaven!
 
 #set heading(offset:1)
 
@@ -62,6 +62,7 @@ If you feel unsure of something, feel free to ask!
 
 #set heading(offset:1)
 
+#include "software_subsections/inkscape.typ"
 #include "software_subsections/lightburn.typ"
 
 #set heading(offset:0)

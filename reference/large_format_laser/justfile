@@ -1,0 +1,16 @@
+# 
+
+rabbit_approved_url := 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS1J8O8jIrm9hXmf_O8zePdo-o_92Z5D3DJFuSl2kGuJn6scrU19nyp6kzqr8R4nApiXknYUwpyy5vn/pub?gid=536471011&single=true&output=csv'
+
+prohibited_url := 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS1J8O8jIrm9hXmf_O8zePdo-o_92Z5D3DJFuSl2kGuJn6scrU19nyp6kzqr8R4nApiXknYUwpyy5vn/pub?gid=665801385&single=true&output=csv'
+
+default: refresh_rabbit refresh_prohibited
+    
+
+refresh_rabbit:
+    @echo 'Refresh rabbit approved materials list.'
+    curl -L "{{rabbit_approved_url}}" > ./rabbit_approved_materials.csv
+    
+refresh_prohibited:
+    @echo 'Refresh prohibited materials list.'
+    curl -L "{{prohibited_url}}" > ./prohibited_materials.csv
