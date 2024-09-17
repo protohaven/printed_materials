@@ -147,12 +147,12 @@
   // Poster Heading
   
   grid(
-    columns: (0.8in, 1fr),
+    columns: (0.32in, 1fr),
     gutter: 0.2in,
     image("/common-graphics/branding/logo-protohaven-p.svg"),
-    align(bottom,text(size: 24pt, baseline: -2pt, category))
+    align(bottom,text(size: 32pt, baseline: -2pt, category))
   )
-  align(center,text(weight: "bold", size: 32pt, title))
+  align(center,text(weight: "bold", size: 48pt, title))
   
   // The rest of the content
 
