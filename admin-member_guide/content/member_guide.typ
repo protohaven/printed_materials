@@ -690,6 +690,7 @@ https://www.protohaven.org/equipment/
   columns: (auto, auto, auto),
   stroke: none,
   inset: 5pt,
+  fill: (_, y) => if calc.odd(y) { color.tablegrey },
   align: horizon + left,
   table.header(
     [*Shop Area*], [*Tool Name*], [*Make and Model*],

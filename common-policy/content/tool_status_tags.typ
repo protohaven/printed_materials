@@ -17,7 +17,9 @@ image("./images/tool_status_tag-caution.png")
 image("./images/tool_status_tag-stop.png")
 )
 
-Some tools in the shop are explicitly green tagged to let you know they are working. Other tools in the shop are not explicitly green tagged when they are working to reduce sign fatigue. If you are in doubt about the status of a tool with no visible tag, check the Protohaven website for the tool status page:
+Some tools in the shop are explicitly green tagged to let you know they are working. Other tools in the shop are not explicitly green tagged when they are working to reduce sign fatigue. 
+
+If you are in doubt about the status of a tool with no visible tag, check the tool status by following the link in the QR code attached to the tool, or check the Protohaven website for the tool status page:
 
 https://www.protohaven.org/equipment/
 
