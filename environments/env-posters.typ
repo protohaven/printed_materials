@@ -80,7 +80,7 @@
     content
 }
 
-#let poster(
+#let large_poster(
   title: "Poster Title",
   category: "Shop Area",
   authors: ("Someone","Someone Else"),
@@ -109,10 +109,50 @@
   grid(
     columns: (8in, 1fr),
     gutter: 0.5in,
-    image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"),
+    image("/common-graphics/branding/logo-protohaven-p.svg"),
     align(bottom,text(size: 72pt, baseline: -6pt, category))
   )
   align(center,text(weight: "bold", size: 144pt, title))
+  
+  // The rest of the content
+
+  wrapper(doc)
+  
+}
+
+#let small_poster(
+  title: "Poster Title",
+  category: "Shop Area",
+  authors: ("Someone","Someone Else"),
+  date: datetime.today(),
+  wrapper: apply-text-styles,
+  doc,
+) = {
+  set page(
+    margin: (top: 0.5in, left: 0.5in, bottom: 0.5in, right: 0.5in),
+    width: 8.5in,
+    height: 11in,
+  )
+  
+  set document(title: title, 
+    author: authors,
+    keywords: ("protohaven", "poster"),
+    date: date,
+  )
+  
+  set text(
+      font: font.sans,
+  )
+  
+  // Poster Heading
+  
+  grid(
+    columns: (0.8in, 1fr),
+    gutter: 0.2in,
+    image("/common-graphics/branding/logo-protohaven-p.svg"),
+    align(bottom,text(size: 24pt, baseline: -2pt, category))
+  )
+  align(center,text(weight: "bold", size: 32pt, title))
   
   // The rest of the content
 

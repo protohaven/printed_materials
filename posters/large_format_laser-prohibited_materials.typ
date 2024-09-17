@@ -1,6 +1,6 @@
 #import "/environments/env-posters.typ": *
 
-#show: doc => poster(
+#show: doc => large_poster(
   title: "Prohibited Materials",
   category: "Large Format Laser",
   authors: ("Paul Mazaitis <paul@mazaitis>",),
