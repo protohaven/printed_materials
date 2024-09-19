@@ -12,4 +12,4 @@
   doc
 )
 
-#include "/common-policy/content/code_of_conduct.typ"
+#include "/common-policy/code_of_conduct.typ"

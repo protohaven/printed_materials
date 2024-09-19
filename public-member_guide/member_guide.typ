@@ -30,8 +30,8 @@ Welcome to Protohaven!
 
 #set heading(offset:1)
 
-#include "/common-policy/content/core_values.typ"
-#include "/common-policy/content/shop_rules.typ"
+#include "/common-policy/core_values.typ"
+#include "/common-policy/shop_rules.typ"
 
 #set heading(offset:0)
 
@@ -39,9 +39,9 @@ Welcome to Protohaven!
 
 #set heading(offset:2)
 
-#include "/common-policy/content/personal_protective_equipment.typ"
-#include "/common-policy/content/emergency_equipment.typ"
-#include "/common-policy/content/covid_protocols.typ"
+#include "/common-policy/personal_protective_equipment.typ"
+#include "/common-policy/emergency_equipment.typ"
+#include "/common-policy/covid_protocols.typ"
 
 #set heading(offset:0)
 
@@ -49,8 +49,8 @@ Welcome to Protohaven!
 
 #set heading(offset:2)
 
-#include "/common-policy/content/tool_status_tags.typ"
-#include "/common-policy/content/filing_a_tool_report.typ"
+#include "/common-policy/tool_status_tags.typ"
+#include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 
@@ -662,7 +662,7 @@ New member onboarding is a scheduled, one-on-one meeting to help you get settled
 <code-of-conduct>
 
 #set heading(offset:2)
-#include "/common-policy/content/code_of_conduct.typ"
+#include "/common-policy/code_of_conduct.typ"
 #set heading(offset:0)
 
 == Shop Usage Agreement
