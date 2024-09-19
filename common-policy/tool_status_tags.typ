@@ -1,5 +1,5 @@
 
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 = Tool Status Tags
 

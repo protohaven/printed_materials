@@ -1,5 +1,5 @@
 
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
@@ -23,9 +23,9 @@ Welcome to the Laser Basic Operation class at Protohaven!
 
 #set heading(offset:1)
 
-#include "/common-policy/content/shop_rules.typ"
-#include "/common-policy/content/tool_status_tags.typ"
-#include "/common-policy/content/filing_a_tool_report.typ"
+#include "/common-policy/shop_rules.typ"
+#include "/common-policy/tool_status_tags.typ"
+#include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 
@@ -53,7 +53,7 @@ If you feel unsure of something, feel free to ask!
 #set heading(offset:1)
 
 // #include "tool_subsections/TOOLNAME.typ"
- #include "tool_subsections/laser-large_format.typ"
+ #include "/common-tools/laser-large_format.typ"
 
 
 #set heading(offset:0)
@@ -62,15 +62,15 @@ If you feel unsure of something, feel free to ask!
 
 #set heading(offset:1)
 
-#include "software_subsections/inkscape.typ"
-#include "software_subsections/lightburn.typ"
+#include "/common-software/inkscape.typ"
+#include "/common-software/lightburn.typ"
 
 #set heading(offset:0)
 = Concepts
 
 #set heading(offset:1)
 
-#include "concept_subsections/image_types.typ"
+#include "/common-concepts/image_types.typ"
 
 #set heading(offset:0)
 
