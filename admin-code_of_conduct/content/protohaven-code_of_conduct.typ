@@ -1,4 +1,4 @@
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #show: doc => policy_document(
   title: "Code of Conduct",

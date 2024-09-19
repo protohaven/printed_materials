@@ -1,5 +1,5 @@
 
-#import "../../environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #set enum(full: true, numbering: (..n) => {
   let format = if n.pos().len() > 1 {"a."} else {"1."}
@@ -684,7 +684,7 @@ https://www.protohaven.org/equipment/
 
 #set text(size: 9pt)
 
-#let tool_list = csv("./protohaven_tool_list.csv")
+#let tool_list = csv("/data-reference/general/protohaven_tool_list.csv")
 
 #table(
   columns: (auto, auto, auto),

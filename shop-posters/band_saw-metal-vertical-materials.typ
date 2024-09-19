@@ -1,4 +1,4 @@
-#import "/environments/env-posters.typ": *
+#import "/meta-environments/env-posters.typ": *
 
 #show: doc => small_poster(
   title: "Approved Materials",
@@ -13,7 +13,7 @@
   
   #set text(size: 14pt)
   
-  #let app_materials = csv("/reference/band_saw-metal-vertical/band_saw-metal-vertical-materials.csv")
+  #let app_materials = csv("/data-reference/band_saw-metal-vertical/band_saw-metal-vertical-materials.csv")
   
   // We have to do a custom table header for this one
   
