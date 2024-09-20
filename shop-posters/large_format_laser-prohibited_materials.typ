@@ -13,7 +13,7 @@
 
 #set text(size: 32pt)
 
-#let pro_materials = csv("/data-reference/large_format_laser/laser_materials-prohibited.csv").map(l => l.slice(0,-1))
+#let pro_materials = csv("/data-reference/large_format_laser/prohibited_materials.csv").map(l => l.slice(0,-1))
 #let table_header = pro_materials.remove(0)
 
 #table(
