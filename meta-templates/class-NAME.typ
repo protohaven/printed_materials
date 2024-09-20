@@ -1,5 +1,5 @@
 
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
@@ -51,7 +51,7 @@ If you feel unsure of something, feel free to ask!
 
 #set heading(offset:1)
 
-// #include "tool_subsections/TOOLNAME.typ"
+// #include "/common-tools/TOOLNAME.typ"
 
 #set heading(offset:0)
 

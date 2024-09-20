@@ -1,9 +1,9 @@
 
-#import "./environment/env-protohaven-class_handouts.typ": *
+#import "./environment/env-templates.typ": *
 
 #show: doc => class_handout(
   title: "Freeform Cutting Boards",
-  category: "Woodw",
+  category: "Wood",
   number: "110",
   clearances: ("Dust Collection",),
   instructors: ("Sarah Nielsen",),

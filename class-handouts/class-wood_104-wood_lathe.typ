@@ -1,5 +1,5 @@
 
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
@@ -68,9 +68,9 @@ TODO: what other glossary terms are needed here (that are not covered in the too
 
 #set heading(offset:1)
 
-#include "tool_subsections/woodshop_dust_collection.typ"
+#include "/common-tools/woodshop_dust_collection.typ"
 
-#include "tool_subsections/lathe_wood.typ"
+#include "/common-tools/lathe_wood.typ"
 
 #set heading(offset:0)
 

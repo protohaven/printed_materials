@@ -1,5 +1,5 @@
 
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
@@ -31,9 +31,9 @@ Welcome to the Introduction to Metalworking class at Protohaven!
 
 #set heading(offset:1)
 
-#include "/common-policy/content/shop_rules.typ"
-#include "/common-policy/content/tool_status_tags.typ"
-#include "/common-policy/content/filing_a_tool_report.typ"
+#include "/common-policy/shop_rules.typ"
+#include "/common-policy/tool_status_tags.typ"
+#include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 
@@ -68,12 +68,12 @@ If you feel unsure of something, feel free to ask!
 
 #set heading(offset:1)
 
-#include "tool_subsections/chop_saw_metal.typ"
-#include "tool_subsections/drill_press_metal.typ"
-#include "tool_subsections/band_saw_metal_vertical.typ"
-#include "tool_subsections/metal_grinder_dust_collection.typ"
-#include "tool_subsections/bench_grinders.typ"
-#include "tool_subsections/disk_grinder.typ"
+#include "/common-tools/chop_saw_metal.typ"
+#include "/common-tools/drill_press_metal.typ"
+#include "/common-tools/band_saw_metal_vertical.typ"
+#include "/common-tools/metal_grinder_dust_collection.typ"
+#include "/common-tools/bench_grinders.typ"
+#include "/common-tools/disk_grinder.typ"
 
 #set heading(offset:0)
 

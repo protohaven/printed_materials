@@ -1,5 +1,5 @@
 
-#import "./environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environment/env-protohaven-class_handouts.typ": *
 
 #show: doc => class_handout(
   title: "Basic Equipment Clearance",
@@ -21,9 +21,9 @@ Welcome to the Woodshop Basic Equipment Clearance class at Protohaven!
 
 #set heading(offset:1)
 
-#include "community_subsections/shop_rules.typ"
-#include "community_subsections/tool_status_tags.typ"
-#include "community_subsections/filing_a_tool_report.typ"
+#include "/common-policy/shop_rules.typ"
+#include "/common-policy/tool_status_tags.typ"
+#include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 
@@ -49,9 +49,9 @@ If you feel unsure of something, feel free to ask!
 
 #set heading(offset:1)
 
-// #include "tool_subsections/TOOLNAME.typ"
+// #include "/common-tools/TOOLNAME.typ"
 
-#include "tool_subsections/table_saw.typ"
+#include "/common-tools/table_saw.typ"
 
 #set heading(offset:0)
 

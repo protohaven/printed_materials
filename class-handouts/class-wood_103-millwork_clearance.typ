@@ -1,4 +1,4 @@
-#import "/environments/env-templates.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
@@ -102,17 +102,17 @@ After taking this class, you should be comfortable with:
 
 #set heading(offset:1)
 
-#include "tool_subsections/woodshop_dust_collection.typ"
+#include "/common-tools/woodshop_dust_collection.typ"
 
-#include "tool_subsections/jointer.typ"
+#include "/common-tools/jointer.typ"
 
-#include "tool_subsections/resaw_band_saw.typ"
+#include "/common-tools/resaw_band_saw.typ"
 
-#include "tool_subsections/planer.typ"
+#include "/common-tools/planer.typ"
 
-#include "tool_subsections/drum_sander.typ"
+#include "/common-tools/drum_sander.typ"
 
-#include "tool_subsections/router_table.typ"
+#include "/common-tools/router_table.typ"
 
 #set heading(offset:0)
 
