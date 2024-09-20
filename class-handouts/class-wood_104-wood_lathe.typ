@@ -23,9 +23,9 @@ Welcome to the Introduction to Lathe class at Protohaven!
 
 #set heading(offset:1)
 
-#include "/common-policy/content/shop_rules.typ"
-#include "/common-policy/content/tool_status_tags.typ"
-#include "/common-policy/content/filing_a_tool_report.typ"
+#include "/common-policy/shop_rules.typ"
+#include "/common-policy/tool_status_tags.typ"
+#include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 

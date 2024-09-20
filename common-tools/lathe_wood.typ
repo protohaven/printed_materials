@@ -1,5 +1,5 @@
 
-#import "../environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/env-features.typ": *
 
 = Wood Lathe
 
