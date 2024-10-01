@@ -48,7 +48,10 @@ Do not work in the metal shop wearing anything that could end up pulling you int
 - Loose clothing
 - Gloves
 
+Do wear:
 
+- safety glasses
+- hearing protection (especially when grinding)
 
 If you feel unsure of something, feel free to ask!
 
