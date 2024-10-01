@@ -181,9 +181,9 @@ A table of appropriate speeds follows:
 + Turn on the saw.
 + Using the fence or with a firm grip, bring the workpiece up to the blade.
 + Push the workpiece gently into the blade with constant pressure.\
-  _Go slowly. A gentle, consistent pressure with yield a better cut, and protect the workpiece and the tool._ 
+  _Go slowly. A gentle, consistent pressure will yield a better cut, and protect the workpiece and the tool._ 
 + Adjust pressure during the cut as needed.\
-  _If the workpiece becomes thicker over the course of the cut, increase pressure._
+  _Excessive pressure should not be used. Notify staff if the blade is not cutting properly._
 + Use gentle pressure at the end of the cut. 
 + Turn off the saw.
 
