@@ -83,7 +83,7 @@ Always re-tighten and screws under the table before making a cut.
 
 Use the upper blade guide lock knob to release or lock the upper blade guide during setup.
 
-Use caution when releasing the blade guide: it is very heavy, and may cause injury if not properly supported when released.
+Use caution when releasing the blade guide: it is very heavy, and may cause injury or damage to the machine if not properly supported when released.
 
 === Upper Blade Guide
 
@@ -105,14 +105,69 @@ Turn on the work lamp for better illumination during a cut.
 + Set the blade guard to just above the height of the workpiece.
 + Tighten the guard screw to lock the blade guard in place.
 + Check the blade alignment with the guides. \
-  _The blade guides should be just barely supporting the blade, and still turn freely. Make sure that the blade guides are clear of the teeth._
+  _The blade guides should be close to but not touching the blade, and should still turn freely. 
+// There should be .02" between blade and guides.
+  Make sure that the blade guides sit behind the teeth._
 + Turn on the work light.
 
 === Setting the Speed
 
-+ Set the speed range shift lever to _high_ or _low_ as appropriate for the workpiece material.\
-_Make sure that the gearing is fully engaged in the new setting: you may need to manually advance the drive wheel to make sure the gears properly mesh._
-+ Set the speed crank to a speed appropriate for the material you are cutting.
+First, *set the speed range shift lever to _high_ or _low_* as appropriate for the workpiece material.\
+
+Make sure that the gearing is fully engaged in the new setting: you may need to manually advance the drive wheel to make sure the gears properly mesh.
+
+The drive wheel is found in the bottom cabinet door to the right of the lever. Fully engaging the drive wheel can be difficult, make sure the gears are properly meshed before cutting. Gears that are not fully meshed will cause blade slippage.
+
+Second, *set the speed crank to an appropriate speed* for the material you are cutting.
+
+A table of appropriate speeds follows:
+
+#block[
+  
+  #set text(size: 11pt)
+  
+  #let app_materials = csv("/data-reference/band_saw-metal-vertical/band_saw-metal-vertical-materials.csv")
+  
+  // We have to do a custom table header for this one
+  
+  #let _ = app_materials.remove(0)
+  #let _ = app_materials.remove(0)
+  
+  #let table_header = (
+    table.cell(
+      colspan:6,
+      align: center,
+      inset: 18pt,
+      text(weight: "bold", size: 11pt,[Blade Speed (M/m)]),
+    ),
+    table.cell(
+      rowspan: 2,
+      [*Material*],
+    ),
+    table.cell(
+      colspan: 5,
+      align: center,
+      [#h(3em)*Thickness (in)*]
+    ),
+    [*\< 1/4*],[*1/4 – 1*],[*1 – 3*],[*3 – 6*],[*6 \<*]
+  )
+  
+  #table(
+    columns: (auto, 1fr, 1fr, 1fr, 1fr, 1fr),
+    stroke: none,
+    align: (col, row) => (left+top,right+top,right+top,right+top,right+top,right+top).at(col),
+    inset: (
+      x: 5pt,
+      y: 7pt,
+    ),
+    fill: (_, y) => if calc.odd(y) and y > 2 { color.tablegrey },
+    table.header(..table_header),
+    table.hline(),
+    ..app_materials.flatten()
+  )
+
+  
+]
 
 // Include materials chart here
 
