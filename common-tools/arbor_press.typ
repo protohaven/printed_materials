@@ -17,9 +17,13 @@ Keep fingers free of the crushing area.
 
 Parts compressed off axis may fly sideways out of the press.
 
-Material that shatters under compression will fling debris out fo the press at high speed.
+Material that shatters under compression will fling debris out of the press at high speed.
 
 === Care
+
+Do not use extension bars on the pulling handle to generate more force in the press.
+
+(Keep press lubricated?)
 
 === Use
 
@@ -37,10 +41,18 @@ Material that shatters under compression will fling debris out fo the press at h
 
 === Setting Up
 
+
+
 === Workholding
+
+
 
 === USE
 
+
+
 === Cleaning Up
+
+
 
 === SPECIAL TOPICS
