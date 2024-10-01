@@ -126,7 +126,7 @@
         font: font.sans,
     )
 
-    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
+    align(center, image("/common-graphics/branding/logo-protohaven-color.svg"))
     
     
     v(1in)
