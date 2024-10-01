@@ -1,9 +1,14 @@
 // This is the glossary pool definition file.
 
 #let glossary-pool = (
-    Beryllium: (
+    // Beryllium: (
+    //     description: [
+    //         Element number 4 in the Periodic Table of Elements.
+    //     ]
+    // ),
+    "Miter Cut": (
         description: [
-            Element number 4 in the Periodic Table of Elements.
+            A precisely angled cut across a face.
         ]
     ),
   )
