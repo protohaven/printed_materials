@@ -1,7 +1,7 @@
 
-#import "../environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/env-templates.typ": *
 
-= TOOL
+= Arbor Press
 
 (Overview paragraph(s))
 
@@ -9,13 +9,25 @@
 
 === Safety
 
+Always wear safety goggles.
+
+Keep fingers free of the crushing area.
+
 === Common Hazards
+
+Parts compressed off axis may fly sideways out of the press.
+
+Material that shatters under compression will fling debris out fo the press at high speed.
 
 === Care
 
 === Use
 
 === Consumables
+
+=== Tooling
+
+=== Materials
 
 == Parts of the TOOL
 
@@ -30,3 +42,5 @@
 === USE
 
 === Cleaning Up
+
+=== SPECIAL TOPICS
