@@ -1,5 +1,5 @@
 
-#import "../environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/env-templates.typ": *
 
 = TOOL
 
@@ -17,6 +17,10 @@
 
 === Consumables
 
+=== Tooling
+
+=== Materials
+
 == Parts of the TOOL
 
 === 
@@ -30,3 +34,5 @@
 === USE
 
 === Cleaning Up
+
+=== SPECIAL TOPICS
