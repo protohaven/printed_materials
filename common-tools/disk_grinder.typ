@@ -3,7 +3,7 @@
 
 = Disk Grinder
 
-The disk grinder can quickly remove material from a metal workpiece.
+The disk grinder can quickly remove material from a metal workpiece. It uses a flat surface and so can grind workpieces to precise angles that are not possible on the bench grinders.
 
 == Notes
 
@@ -19,7 +19,7 @@ Do not leave the disk grinder unattended while the wheel is turning. Wait for th
 
 === Use
 
-The disk grinder can remove a lot of material very quickly: use caution to make sure you do not grind off more material than required for your part.
+The disk grinder can remove a lot of material very quickly: use caution to make sure you do not grind off more material than required from your part.
 
 == Parts of the Disk Grinder
 
@@ -32,31 +32,35 @@ The disk grinder can remove a lot of material very quickly: use caution to make 
 
 === On/Off Switch
 
-Use the green button to turn on the disk grinder. The grinder may take a moment to spin up to full speed.
+Use the green button to turn on the disk grinder. The grinder will take a moment to spin up to full speed.
 
-Use the red button to turn off the disk grinder. The abrasive disk will continue moving at speed for some time after power is turned off.
+Use the red button to turn off the disk grinder. The abrasive disk will continue moving at speed for up to an hour after power is turned off.
 
 === Brake
 
-The brake will slow the abrasive disk.
+The brake will slow the abrasive disk. Stepping on the brake will also power off the machine.
 
-When the machine is powered off, gently depress the brake to grandually lower the speed of the abrasive disk. 
+Gently depress the brake to gradually lower the speed of the abrasive disk. It should take 30 seconds to stop the disk.
 
-=== Fence
-
-Use the fence to support a work piece while grinding. THe fence can be set at a specific angle to grind an angel in the workpiece.
+Stepping to hard on the brake bends the brake linkage, damaging the machine.
 
 === Grinding Disk
 
-The grinding disk is a large, very heavy disk covered with 80 grit (?) abrasive paper.
+The grinding disk is a large, very heavy disk covered with 80 grit abrasive paper.
+
+Only use the right side of the disk that pulls the workpiece towards the table.
+
+=== Miter Gauge
+
+Use the miter gauge to support a work piece while grinding. THe fence can be set at a specific angle to grind an angle in the workpiece.
 
 === Shield
 
-The shield protects the top of the grinding disk.
+The shield protects the top of the grinding disk from accidental contact and contains debris.
 
 === Table
 
-The table is used to support the workpiece while grinding. 
+The table is used to support the workpiece while grinding. The table can be tilted up to 45°.
 
 == Basic Operation
 
@@ -64,9 +68,11 @@ The table is used to support the workpiece while grinding.
 
 Rotate the disk by hand to check for any places where the abrasive disk has worn or torn away.
 
-If you find a spot where a small amount of abrasive has worn away, you can mark it on the table and use undamaged parts of the disk. If a large section of abrasive has worn away, notify a shop tech.
+If you find a spot where a small amount of abrasive has worn away, you can mark it on the table with tape and use undamaged parts of the disk. If a large section of abrasive has worn away, notify a shop tech.
 
 === Grinding
+
+When grinding, DO NOT tilt the workpiece up to bevel the edge: the workpiece will dig into the abrasive paper and tear it, resulting in a region that is unsafe to use. Instead, set the table angle.
 
 + Turn on the metal grinder dust collector.
 + Turn on the disk grinder.
