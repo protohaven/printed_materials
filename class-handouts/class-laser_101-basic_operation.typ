@@ -1,8 +1,6 @@
 
 #import "/meta-environments/env-templates.typ": *
 
-#import "./glossary/glossary_terms.typ": *
-
 #show: doc => class_handout(
   title: "Basic Operation",
   category: "Laser",
@@ -36,23 +34,31 @@ Welcome to the Laser Basic Operation class at Protohaven!
 
 // Important safety notes for this particular class
 
+Large format laser cutters use a very power laser to precisely cut and etch material on the laser bed. The lasers generate enough heat to create a fire risk with some materials, and some materials by release fumes when cut or etched.
+
+Never leave a job running unattended: always be ready to stop the laser if something goes wrong.
+
 If you feel unsure of something, feel free to ask!
 
 = Introduction
 
 == Learning Objectives
 
+After this class, you will be able to:
 
+  - Set up and safely operate the large format lasers
+  - Use LightBurn software to load and control a job
+  - Handle emergency situations
+  - Choose appropriate materials for your projects
 
 == Terminology
 
-
+// Use new glossary system for this
 
 = Tools
 
 #set heading(offset:1)
 
-// #include "tool_subsections/TOOLNAME.typ"
  #include "/common-tools/laser-large_format.typ"
 
 
@@ -76,6 +82,9 @@ If you feel unsure of something, feel free to ask!
 
 = Resources
 
+== Internet Forums
 
+  - https://forum.laseruser.com/
+  - https://sawmillcreek.org/forumdisplay.php?8-Laser-Engraving-General-Topics
 
 // == Acknowledgments
