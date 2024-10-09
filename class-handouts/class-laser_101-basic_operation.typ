@@ -30,17 +30,17 @@ Welcome to the Laser Basic Operation class at Protohaven!
 #pagebreak()
 
 
-= Safety
 
-// Important safety notes for this particular class
-
-Large format laser cutters use a very power laser to precisely cut and etch material on the laser bed. The lasers generate enough heat to create a fire risk with some materials, and some materials by release fumes when cut or etched.
-
-Never leave a job running unattended: always be ready to stop the laser if something goes wrong.
-
-If you feel unsure of something, feel free to ask!
 
 = Introduction
+
+This class is an introduction to the large format lasers. The large format lasers can make precise parts out of flat stock, and etch graphics and text onto flat surfaces. The large format lasers are handy when you need a complicated shape cut with precision.
+
+Some example large format laser projects:
+
+  - Make a custom wooden box
+  - Design a jigsaw puzzle
+  - Put a logo on a surface
 
 == Learning Objectives
 
@@ -50,6 +50,16 @@ After this class, you will be able to:
   - Use LightBurn software to load and control a job
   - Handle emergency situations
   - Choose appropriate materials for your projects
+
+== Safety
+  
+  // Important safety notes for this particular class
+  
+  Large format laser cutters use a very power laser to precisely cut and etch material on the laser bed. The lasers generate enough heat to create a fire risk with some materials, and some materials by release fumes when cut or etched.
+  
+  Never leave a job running unattended: always be ready to stop the laser if something goes wrong.
+  
+  If you feel unsure of something, feel free to ask!
 
 == Terminology
 
