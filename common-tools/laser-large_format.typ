@@ -81,7 +81,7 @@ The following materials are prohibited for use in the laser cutter:
 #let table_header = app_materials.remove(0)
 
 #table(
-  columns: (15em, auto,auto,auto),
+  columns: (16em, auto,auto,auto),
   align: (col, row) => (left+top,center+top,center+top,left+top).at(col),
   stroke: none,
   inset: 5pt,
@@ -152,6 +152,7 @@ A spray bottle filled with water is kep on the right side of the cabinet. Use th
 A collection of magnets are kept on the left side of the  cabinet. Use these magnets to anchor the workpiece to the bed.
 
 == Basic Operation
+<large-format-laser-basic-operation>
 
 + @set-up-the-laser
 + @laser-workholding
