@@ -82,6 +82,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
   ],
 )
 
+#block(breakable: false,[
 === Lathe Controls
 
 #figure(
@@ -90,6 +91,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
     Annotated view of the lathe control panel.
   ],
 )
+])
 
 === Accessory Kit
 
@@ -111,10 +113,12 @@ The red power button on the head stock doubles as an emergency stop.
 The lathe also has a remote emergency stop attached to the power supply. 
 The remote emergency stop has a magnetic base, and can be attached to the lathe body where convenient.
 
+#block(breakable: false,[
 === Banjo
 
 The banjo is an adjustable metal bracket that is mounted on the lathe bed. 
 The banjo has a movable arm that can be adjusted to hold tools and accessories at different angles and distances from the workpiece. The banjo is commonly set up to hold a tool rest, used to support a tool while turning.
+])
 
 === Bed
 
@@ -152,10 +156,12 @@ Provides the drive for the workpiece, usually through pulleys connected by a bel
 
 Use the headstock hand wheel to rotate the workpiece manually int he lathe. Use the hand wheel to check workpiece clearances, or to slowly rotate the workpiece for visual inspection.
 
+#block(breakable: false,[
 === Lights
 
 The lathe has several work lights attached to help illuminate the workpiece. 
 More light can be very useful when turning fine details.
+])
 
 === Live Center
 
@@ -202,9 +208,11 @@ Tools with steel cutting tips can be resharpened an reshaped as needed.#footnote
 
 Carbide tools use a small, replaceable tip of carbide for their cutting edge. Carbide is a very hard material that keeps a good edge for a long time, but can easily chip. 
 
+#block(breakable: false,[
 === Turning Tool Types
 
 For *spindle* turning:
+])
 
 _Roughing gouges_ are wide, u-shaped fluted turning chisels used to hog off large amounts of material from the workpiece. They are available in many shapes and sizes.
  
