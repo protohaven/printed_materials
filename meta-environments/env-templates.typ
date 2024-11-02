@@ -461,10 +461,11 @@
   
 }
 
-#let tools_all(
+#let binder(
     title: "Tool Reference",
     authors: ("Someone","Someone Else"),
     date: datetime.today(),
+    area: "All",
     draft: false,
     wrapper: apply-text-styles,
     doc,
@@ -483,12 +484,12 @@
       date: date,
     )
 
-    show outline.entry.where(
-      level: 1
-      ): it => {
-      v(12pt, weak: true)
-      strong(it)
-    }
+    // show outline.entry.where(
+    //   level: 1
+    //   ): it => {
+    //   v(12pt, weak: true)
+    //   strong(it)
+    // }
 
     // Title page
 
@@ -496,7 +497,7 @@
         font: font.sans,
     )
 
-    align(center, image("/common-graphics/branding/Protohaven-Logo-Horizontal-Color.png"))
+    align(center, image("/common-graphics/branding/logo-protohaven-color.svg"))
     
     
     v(1in)
@@ -508,7 +509,7 @@
     v(3em),  
     text(weight: "bold", size: 14pt, [Adoption Date: #date.display("[month repr:long] [day padding:none], [year]")]),
     v(15em),     
-    outline(depth: 2)
+
   )
     
   
@@ -520,6 +521,23 @@
   
     pagebreak()
 
+    set page(
+        margin: (top: 1in, left: 1in, bottom: 1in, right: 1in),
+        numbering: "i",
+        footer: [
+          #set text(9pt, style: "italic")
+          #h(1fr)
+          #align(center, [#context {counter(page).display("i")}])
+          
+        ],     
+    )
+
+    counter(page).update(1)
+
+    outline(depth: 1)
+    
+    pagebreak()
+
     // The rest of the content
 
     set page(
@@ -527,13 +545,36 @@
         numbering: "1",
         footer: [
           #set text(9pt, style: "italic")
-          #h(1fr)
-          Protohaven Policy Document — #title —
-          #counter(page).display(
-                "1 of 1",
-                both: true,
-                )
-        ],     
+          #context {
+          if calc.odd(here().page()) {
+            align(right, [
+              #title —
+              #counter(page).display(
+                    "1 of 1",
+                    both: true,
+                    )
+            ])
+          } else {
+            align(left, [
+              #counter(page).display(
+                    "1 of 1",
+                    both: true,
+                    )
+              — #title
+            ])
+          }
+          // line(length: 100%)
+        }],
+        
+        // footer: [
+        //   #set text(9pt, style: "italic")
+        //   #h(1fr)
+        //   #title —
+        //   #counter(page).display(
+        //         "1 of 1",
+        //         both: true,
+        //         )
+        // ],     
     )
     
     counter(page).update(1)
