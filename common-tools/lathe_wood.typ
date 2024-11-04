@@ -76,7 +76,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
 === Full View
 
 #figure(
-  image("images/lathe-front_view-annotated.png", width: 100%),
+  image("images/lathe_wood-front_view-annotated.png", width: 100%),
   caption: [
     Annotated front view of the lathe.
   ],
@@ -86,7 +86,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
 === Lathe Controls
 
 #figure(
-  image("images/lathe-controls-annotated.png", width: 100%),
+  image("images/lathe_wood-controls-annotated.png", width: 100%),
   caption: [
     Annotated view of the lathe control panel.
   ],
@@ -96,7 +96,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
 === Accessory Kit
 
 #figure(
-  image("images/lathe-accessories-annotated.png", width: 100%),
+  image("images/lathe_wood-accessories-annotated.png", width: 100%),
   caption: [
     Annotated view of the contents of the lathe accessory kit.
   ],
@@ -256,12 +256,68 @@ This is not an exact science, so always begin turning a piece at close to the re
   )
 )<lathe-turning-speeds>
 
+== Drive Belt Positions
+
+The wood lathe has an adjustable drive belt for supporting different speed ranges.
+
+The drive belt can be set in three positions:
+
+#figure(
+  caption: [Drive belt speed ranges.],
+  table(
+    columns: (auto, auto),
+    inset: 10pt,
+    align: (horizon + left, horizon + right),
+    stroke: none,
+    table.header(
+      [*Speed*], [*Range (RPM)*],
+    ),
+    table.hline(),
+    [High],   [135–3500],
+    [Medium], [80–2000], 
+    [Low],    [40–970], 
+  )
+)<drive-belt-speeds>
+
+For the vast majority of turning projects, the belt should be left in the high setting:
+
+#figure(
+  image("images/lathe_wood-drive_belt_high.jpeg", height: 3in),
+  caption: [
+    The wood lathe drive belt in the high setting position.
+  ],
+)
+
+If your project requires the torque of a lower position, please as a shop tech for assistance in moving the belt.
+
+
+
+// 9.12 Speed Change
+// 1. Disconnect lathe from power source.
+// 2. Open belt access door.
+// 3. Loosen lock handle (A, Figure 31) and lift up
+// handle (B) to raise motor. Tighten lock handle
+// (A) to hold motor in raised position.
+// 4. There should be sufficient slack in the belt to
+// reposition it to the other steps on the sheaves.
+// The label on the access door shows the
+// required belt position.
+// 5. Loosen lock handle (A) and lower motor to
+// tension belt. Be sure that the Poly-V grooves of
+// the belt seat properly in corresponding groove
+// of sheave. Do not overtension; a very light
+// pressure on the tension handle (B) is adequate
+// to prevent belt slippage.
+// 6. Tighten lock handle (A).
+
+
 == Basic Operation: Spindle Turning
 
 === Setting up
 
 + Engage both emergency stops.
 + Set the speed control to zero.
++ If needed, set the belt position for the appropriate range of turning speeds.
 + Slide the tailstock and banjo away from the headstock.
 + Install a drive center, faceplate, or chuck to accept the workpiece.
 + Secure the workpiece in the lathe with a center in the tailstock.
