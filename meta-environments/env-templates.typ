@@ -190,6 +190,7 @@
         footer: [
           #set text(9pt, style: "italic")
           #h(1fr) Page 
+
           #context {counter(page).display("1 of 1", both: true,)}
         ]    
     )
