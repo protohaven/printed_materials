@@ -18,11 +18,10 @@
     set par(
       leading: 0.8em,
     )
-    show heading.where(level: 1): it => [
-        #pagebreak(weak: true)
-        #set text(size: 24pt, font: font.sans, number-type: "lining", weight: "bold",)
-        #block(it.body)        
-    ]
+    show heading.where(level: 1): it => {
+        pagebreak(weak: true)
+        text(size: 24pt, font: font.sans, number-type: "lining", weight: "bold",it.body)     
+    }
     show heading.where(level: 2): it => text(
         size: 18pt,
         font: font.sans,
@@ -191,11 +190,8 @@
         footer: [
           #set text(9pt, style: "italic")
           #h(1fr) Page 
-          // [#context {counter(page).display("i")}]
-          #counter(page).display(
-                "1 of 1",
-                both: true,
-                )
+
+          #context {counter(page).display("1 of 1", both: true,)}
         ]    
     )
   
