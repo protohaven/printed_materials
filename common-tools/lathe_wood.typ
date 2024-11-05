@@ -82,7 +82,6 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
   ],
 )
 
-#block(breakable: false,[
 === Lathe Controls
 
 #figure(
@@ -91,7 +90,7 @@ Beware of impacts on the tool rest. The tool rest should be smooth, and free of 
     Annotated view of the lathe control panel.
   ],
 )
-])
+
 
 === Accessory Kit
 
@@ -113,12 +112,10 @@ The red power button on the head stock doubles as an emergency stop.
 The lathe also has a remote emergency stop attached to the power supply. 
 The remote emergency stop has a magnetic base, and can be attached to the lathe body where convenient.
 
-#block(breakable: false,[
 === Banjo
 
 The banjo is an adjustable metal bracket that is mounted on the lathe bed. 
 The banjo has a movable arm that can be adjusted to hold tools and accessories at different angles and distances from the workpiece. The banjo is commonly set up to hold a tool rest, used to support a tool while turning.
-])
 
 === Bed
 
@@ -156,12 +153,12 @@ Provides the drive for the workpiece, usually through pulleys connected by a bel
 
 Use the headstock hand wheel to rotate the workpiece manually int he lathe. Use the hand wheel to check workpiece clearances, or to slowly rotate the workpiece for visual inspection.
 
-#block(breakable: false,[
+
 === Lights
 
 The lathe has several work lights attached to help illuminate the workpiece. 
 More light can be very useful when turning fine details.
-])
+
 
 === Live Center
 
@@ -208,11 +205,10 @@ Tools with steel cutting tips can be resharpened an reshaped as needed.#footnote
 
 Carbide tools use a small, replaceable tip of carbide for their cutting edge. Carbide is a very hard material that keeps a good edge for a long time, but can easily chip. 
 
-#block(breakable: false,[
 === Turning Tool Types
 
 For *spindle* turning:
-])
+
 
 _Roughing gouges_ are wide, u-shaped fluted turning chisels used to hog off large amounts of material from the workpiece. They are available in many shapes and sizes.
  
@@ -233,28 +229,50 @@ _Scrapers_ use a burr to scrape the surface smooth. They are useful for scraping
 Turning pieces at the proper speed will help ensure better results with greater safety. 
 In general, use lower speeds for roughing and for long or large diameter work. 
 Turn smaller pieces at higher RPMs and larger pieces at lower RPMs.
-This is not an exact science, so always begin turning a piece at close to the recommended RPMs (see @lathe-turning-speeds), increasing speed only if necessary.
+This is not an exact science, so always begin turning a piece at close to the recommended RPMs (see @lathe-turning-speeds-carbide), increasing speed only if necessary.
+
+The following speeds are recommended for carbide-tipped turning tools:
 
 #figure(
-  caption: [Recommended turning speeds.],
+  caption: [Recommended turning speeds for carbide tools.],
   table(
-    columns: (auto, auto, auto, auto),
+    columns: (auto, auto, auto),
     inset: 10pt,
-    align: (horizon + left, horizon + right, horizon + right, horizon + right,),
+    align: (horizon + left, horizon + right, horizon + right,),
     stroke: none,
     table.header(
-      [*Workpiece Diameter*], [*Roughing RPM*], [*Cutting RPM*], [*Finishing RPM*]
+      [*Workpiece Diameter*], [*Turning Speed (RPM)*], [*Notes*]
     ),
     table.hline(),
-    [Under 2"],[1500],[3000],[3000],
-    [2"–4"],   [600], [1500],[2300],
-    [4"–6"],   [450], [1100],[1500],
-    [6"–8"],   [450], [600], [1100],
-    [8"–10"],  [450], [600], [850],
-    [10"–12"], [450], [600], [850],
-    [12"–14"], [450], [450], [600],
+    [Under 2"],[1500],[],
+    [2"–4"],   [1200], [],
+    [4"–6"],   [1000], [],
+    [6"–8"],   [900], [], 
+    [8"–12"],  [800], [], 
+    [12+"],    [Max 700], [Start slow! Gradually increase speed.],
   )
-)<lathe-turning-speeds>
+)<lathe-turning-speeds-carbide>
+
+// #figure(
+//   caption: [Recommended turning speeds.],
+//   table(
+//     columns: (auto, auto, auto, auto),
+//     inset: 10pt,
+//     align: (horizon + left, horizon + right, horizon + right, horizon + right,),
+//     stroke: none,
+//     table.header(
+//       [*Workpiece Diameter*], [*Roughing RPM*], [*Cutting RPM*], [*Finishing RPM*]
+//     ),
+//     table.hline(),
+//     [Under 2"],[1500],[3000],[3000],
+//     [2"–4"],   [600], [1500],[2300],
+//     [4"–6"],   [450], [1100],[1500],
+//     [6"–8"],   [450], [600], [1100],
+//     [8"–10"],  [450], [600], [850],
+//     [10"–12"], [450], [600], [850],
+//     [12"–14"], [450], [450], [600],
+//   )
+// )<lathe-turning-speeds-steel>
 
 == Drive Belt Positions
 
@@ -288,7 +306,7 @@ For the vast majority of turning projects, the belt should be left in the high s
   ],
 )
 
-If your project requires the torque of a lower position, please as a shop tech for assistance in moving the belt.
+If your project requires turning speeds lower than 135 RPM, please ask a shop tech for assistance in moving the belt.
 
 
 
