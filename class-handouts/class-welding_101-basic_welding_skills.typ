@@ -1,5 +1,5 @@
 
-#import "/meta-environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 

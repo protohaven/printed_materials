@@ -1,5 +1,5 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #show: doc => class_handout(
   title: "Custom Wood Boxes",
