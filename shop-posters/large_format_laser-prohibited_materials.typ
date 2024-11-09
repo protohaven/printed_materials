@@ -1,4 +1,4 @@
-#import "/meta-environments/env-posters.typ": *
+#import "/meta-environments/posters.typ": *
 
 #show: doc => large_poster(
   title: "Prohibited Materials",

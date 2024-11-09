@@ -1,4 +1,4 @@
-#import "/meta-environments/env-posters.typ": *
+#import "/meta-environments/posters.typ": *
 
 #set page(
   footer: align(right,[_(over...)_]),
