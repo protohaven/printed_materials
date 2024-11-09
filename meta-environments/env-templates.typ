@@ -130,25 +130,18 @@
     
     v(1in)
     
-    stack(dir: ttb,
-    text(weight: "bold", size: 20pt, color.midgrey, smallcaps("Class Notes")),
-    v(1.2em),
-    text(weight: "bold", size: 24pt, [#category #number: #title]),
-    // v(3em),
-    // if instructors.len() == 1 {
-    //     text(weight: "bold", size: 18pt, mid_grey, smallcaps("Instructor"))
-    //   } else {
-    //     text(weight: "bold", size: 18pt, mid_grey, smallcaps("Instructors"))
-    //   },
-    // v(1.1em),
-    // text(weight: "bold", size: 20pt, instructors.join(", ")),
-    v(15em),
-
-    // Clearances
-    text(weight: "bold", size: 18pt, color.midgrey, smallcaps("Clearances")),
-    v(1em),
-    text(size: 14pt, clearances.sorted().join(linebreak())),
-  )
+    stack(
+      dir: ttb,
+      text(weight: "bold", size: 20pt, color.midgrey, smallcaps("Class Notes")),
+      v(1.2em),
+      text(weight: "bold", size: 24pt, [#category #number: #title]),
+      v(15em),
+      // Clearances
+      text(weight: "bold", size: 18pt, color.midgrey, smallcaps("Clearances")),
+      v(1em),
+      text(size: 14pt, clearances.sorted().join(linebreak())),
+    )
+    
     v(1fr)
   
     license_block()
@@ -189,9 +182,7 @@
         ] }, 
         footer: [
           #set text(9pt, style: "italic")
-          #h(1fr) Page 
-
-          #context {counter(page).display("1 of 1", both: true,)}
+          #h(1fr) Page #context{counter(page).display("1 of 1", both: true,)}
         ]    
     )
   

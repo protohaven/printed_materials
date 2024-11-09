@@ -4,7 +4,7 @@
 #import "./glossary/glossary_terms.typ": *
 
 #show: doc => class_handout(
-  title: "Wood Lathe Intro",
+  title: "Intro to Wood Lathe",
   category: "Wood",
   number: "104",
   clearances: ("Wood Lathe", "Woodshop Dust Collection"),
