@@ -7,7 +7,7 @@
 
 #import "/meta-environments/env-features.typ": *
 
-#import "@preview/gloss-awe:0.1.5": *
+#import "@preview/gloss-awe:0.0.5": *
 
 #let class_handout(
     title: "Handout",
