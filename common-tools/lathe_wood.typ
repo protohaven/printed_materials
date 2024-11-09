@@ -235,14 +235,14 @@ In general, use lower speeds for roughing and for long or large diameter work.
 Turn smaller pieces at higher RPMs and larger pieces at lower RPMs.
 This is not an exact science, so always begin turning a piece at close to the recommended RPMs (see @lathe-turning-speeds-carbide), increasing speed only if necessary.
 
-The following speeds are recommended for carbide-tipped turning tools:
+The shop Lathe Kit includes various carbide-tipped turning tools. The following speeds are recommended for carbide-tipped turning tools:
 
 #figure(
   caption: [Recommended turning speeds for carbide tools.],
   table(
     columns: (auto, auto, auto),
     inset: 10pt,
-    align: (horizon + left, horizon + right, horizon + right,),
+    align: (horizon + left, horizon + right, horizon + left,),
     stroke: none,
     table.header(
       [*Workpiece Diameter*], [*Turning Speed (RPM)*], [*Notes*]
@@ -256,27 +256,6 @@ The following speeds are recommended for carbide-tipped turning tools:
     [12+"],    [Max 700], [Start slow! Gradually increase speed.],
   )
 )<lathe-turning-speeds-carbide>
-
-// #figure(
-//   caption: [Recommended turning speeds.],
-//   table(
-//     columns: (auto, auto, auto, auto),
-//     inset: 10pt,
-//     align: (horizon + left, horizon + right, horizon + right, horizon + right,),
-//     stroke: none,
-//     table.header(
-//       [*Workpiece Diameter*], [*Roughing RPM*], [*Cutting RPM*], [*Finishing RPM*]
-//     ),
-//     table.hline(),
-//     [Under 2"],[1500],[3000],[3000],
-//     [2"–4"],   [600], [1500],[2300],
-//     [4"–6"],   [450], [1100],[1500],
-//     [6"–8"],   [450], [600], [1100],
-//     [8"–10"],  [450], [600], [850],
-//     [10"–12"], [450], [600], [850],
-//     [12"–14"], [450], [450], [600],
-//   )
-// )<lathe-turning-speeds-steel>
 
 == Drive Belt Positions
 
@@ -457,7 +436,60 @@ Give yourself extra time, especially before the shop closes, to ensure you have 
 
 If there are any waste pieces large enough to be recycled, place them in the back recycling bin. 
 
+#pagebreak()
 
+== Reference
+
+=== Recommended Turning Speeds for Carbide Tools
+<lathe-turning-speeds-carbide-appendix>
+
+#block[
+
+  #set text(size: 10pt)
+  
+  #table(
+    columns: (auto, auto, auto),
+    inset: 10pt,
+    align: (horizon + left, horizon + right, horizon + left,),
+    stroke: none,
+    table.header(
+      [*Workpiece Diameter*], [*Turning Speed (RPM)*], [*Notes*]
+    ),
+    table.hline(),
+    [Under 2"],[1500],[],
+    [2"–4"],   [1200], [],
+    [4"–6"],   [1000], [],
+    [6"–8"],   [900], [], 
+    [8"–12"],  [800], [], 
+    [12+"],    [Max 700], [Start slow! Gradually increase speed.],
+  )
+]
+
+=== Recommended Turning Speeds for Steel Tools
+<lathe-turning-speeds-steel-appendix>
+
+#block[
+
+#set text(size: 10pt)
+
+  #table(
+    columns: (auto, auto, auto, auto),
+    inset: 10pt,
+    align: (horizon + left, horizon + right, horizon + right, horizon + right,),
+    stroke: none,
+    table.header(
+      [*Workpiece Diameter*], [*Roughing RPM*], [*Cutting RPM*], [*Finishing RPM*]
+    ),
+    table.hline(),
+    [Under 2"],[1500],[3000],[3000],
+    [2"–4"],   [600], [1500],[2300],
+    [4"–6"],   [450], [1100],[1500],
+    [6"–8"],   [450], [600], [1100],
+    [8"–10"],  [450], [600], [850],
+    [10"–12"], [450], [600], [850],
+    [12"–14"], [450], [450], [600],
+  )
+]
 
 
 
