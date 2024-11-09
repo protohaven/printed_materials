@@ -7,6 +7,8 @@
 
 #import "/meta-environments/env-features.typ": *
 
+#import "@preview/gloss-awe:0.1.5": *
+
 #let class_handout(
     title: "Handout",
     category: "CAT",
