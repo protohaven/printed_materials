@@ -1,10 +1,10 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
 #show: doc => class_handout(
-  title: "Introduction to Metalworking",
+  title: "Intro to Metalworking",
   category: "Metal",
   number: "101",
   clearances: ("Chop Saw (Metal)",
