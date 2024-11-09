@@ -1,5 +1,5 @@
 
-#import "./environment/env-templates.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #show: doc => class_handout(
   title: "Freeform Cutting Boards",

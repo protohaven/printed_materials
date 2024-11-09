@@ -1,4 +1,4 @@
-#import "/meta-environments/env-posters.typ": *
+#import "/meta-environments/posters.typ": *
 
 #show: doc => small_poster(
   title: "Approved Materials",

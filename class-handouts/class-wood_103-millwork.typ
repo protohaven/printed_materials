@@ -1,4 +1,4 @@
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 

@@ -1,6 +1,6 @@
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/policy_guide.typ": *
 
-#show: doc => policy_document(
+#show: doc => policy_guide(
   title: "Code of Conduct",
   authors: ("Protohaven Board",),
   draft: false,

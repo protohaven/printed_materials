@@ -1,4 +1,4 @@
-#import "./environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #show: doc => class_handout(
   title: "Woodturning a Mallet",

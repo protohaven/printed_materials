@@ -1,5 +1,5 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/member_guide.typ": *
 
 #set enum(full: true, numbering: (..n) => {
   let format = if n.pos().len() > 1 {"a."} else {"1."}
@@ -587,7 +587,7 @@ Open calls will be posted as needed here:
 
 === Shop Location 
 
-#image("/common-graphics/maps/map-protohaven_location.svg")
+#image("/common-graphics/maps/map-protohaven_location.png")
 
 === Street Address
 <protohaven-address>

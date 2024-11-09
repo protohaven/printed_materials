@@ -6,11 +6,11 @@ This monorepo holds all of the sources and supporting material to produce printe
 
 ## Repositories
 
-### admin-code_of_conduct/
+### public-code_of_conduct/
 
 This repo is mainly used as an inclusion for the member guide; we may want this content to live elsewhere.
 
-### admin-member_guide/
+### public-member_guide/
 
 Member guide edit (WIP)
 
@@ -30,7 +30,7 @@ Common graphics used across all document sets: branding imagery, etc.
 
 Inclusions used across the entire document set.
 
-### environments/
+### meta-environments/
 
 Configuration files for the document set, 
 
