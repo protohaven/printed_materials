@@ -67,6 +67,13 @@ Materials prohibited for use in the forge:
 
 The *tank isolation valve* controls the flow of propane from the tank into the hose line. 
 
+#figure(
+  image("images/smithy-propane_tank-annotated.png", width: 100%),
+  caption: [
+    An annotated view of the large propane tank.
+  ],
+)
+
 Do not adjust the propane regulator. If you think the flow rate is low, tell a tech on duty. 
 
 === Forge
@@ -75,13 +82,25 @@ The *forge isolation valve* controls the flow of propane from the hose line into
 
 Press the *ignition switch* to ignite the forge.
 
+#figure(
+  image("images/smithy-forge-annotated.png", width: 100%),
+  caption: [
+    An annotated view of the parts of the forge.
+  ],
+)
+
 The firebrick inside the forge protects the refractory material from damage.
 
 === Anvil
 
 The anvil is a work surface for many forging tasks.
 
-(IMAGE)
+#figure(
+  image("images/smithy-anvil-annotated.png", width: 100%),
+  caption: [
+    An annotated view of the parts of the anvil.
+  ],
+)
 
 *Face.* The face is the flat area at the top of the anvil. The top of the face is used to flatten and shape material. The edge of the face can be used to bend material. Face edges can be sharp or rounded to achieve different kinds of bends.
 
@@ -97,7 +116,12 @@ The anvil is a work surface for many forging tasks.
 
 The quench tub filled with water is on the floor of the forge.
 
-(IMAGE)
+#figure(
+  image("images/smithy-quench_tub.jpeg", width: 50%),
+  caption: [
+    An image of the quench tub on the floor of the forge.
+  ],
+)
 
 The quench tub is used to quickly cool tools and forged workpieces. 
 
@@ -105,7 +129,12 @@ The quench tub is used to quickly cool tools and forged workpieces.
 
 the large forge table is by the the gas bottles, and holds the primary working forge in the smithy.
 
-(IMAGE)
+#figure(
+  image("images/smithy-large_forge_table-annotated.png", width: 100%),
+  caption: [
+    An annotated view of the large forge table.
+  ],
+)
 
 The large forge table can be used to rest heated workpieces and tools.
 
@@ -114,7 +143,6 @@ The large forge table as an attached leg vise, and a drawer for hand tools.
 === Leg Vise
 
 The leg vise is attached to the forge table.
-
 
 The leg vise can be used to hold workpieces for hand bending and twisting. Workpieces should not be forged in the vise.
 
@@ -126,7 +154,12 @@ The garage door must be opened for ventilation while a forge is lit.
 
 The smithy tool crib holds various hand tools.
 
-(IMAGE)
+#figure(
+  image("images/smithy-tool_crib.jpeg", width: 60%),
+  caption: [
+    The tool crib holds hand tools: hammers, tongs, brushes, punches, etc.
+  ],
+)
 
 == Hand Tools
 
@@ -134,13 +167,23 @@ The smithy tool crib holds various hand tools.
 
 The smithy tool crib holds forging hammers of various sizes.
 
-(IMAGE)
+#figure(
+  image("images/smithy-hammers.jpg", width: 60%),
+  caption: [
+    ...
+  ],
+)
 
 === Tongs
 
 The smithy tool crib holds tongs of various shapes and sizes.
 
-(IMAGE)
+#figure(
+  image("images/smithy-tongs-detail.jpeg", width: 60%),
+  caption: [
+    ...
+  ],
+)
 
 Always choose tongs that will have strong, positive contact with the workpiece. 
 
@@ -148,7 +191,12 @@ Always choose tongs that will have strong, positive contact with the workpiece.
 
 The smithy tool crib holds various wire brushes.
 
-(IMAGE)
+#figure(
+  image("images/smithy-brushes.jpeg", width: 100%),
+  caption: [
+    ...
+  ],
+)
 
 Brushes are used to clean the scale off of forged material.
 
@@ -156,7 +204,12 @@ Brushes are used to clean the scale off of forged material.
 
 The smithy tool crib holds various punches for cutting material, making holes, and manipulating surfaces.
 
-(IMAGE)
+#figure(
+  image("images/smithy-punches.jpeg", width: 60%),
+  caption: [
+    ...
+  ],
+)
 
 *Cutting.* Various chisels can be used to cut material.
 
@@ -168,6 +221,13 @@ The smithy tool crib holds various punches for cutting material, making holes, a
 
 The drawer in the metal forge table holds hardie tools.
 
+#figure(
+  image("images/smithy-square_tools.jpeg", width: 60%),
+  caption: [
+    ...
+  ],
+)
+
 Only use a hardie tool if it fits *loosely* in the hardie hole of an anvil. You may need to use a different anvil for a particular tool.
 
 Do not leave hardie tools in the anvil when the hardie tools are no longer in use.
@@ -176,11 +236,18 @@ Do not leave hardie tools in the anvil when the hardie tools are no longer in us
 
 // V-block hardie?
 
-=== Holdfasts
+=== Pritchel Tools
 
-Holdfasts are hung from the large forge table.
 
-Holdfasts and be used in pritchel holes to hold a workpiece to the anvil.
+
+#figure(
+  image("images/smithy-round_tools.jpeg", width: 100%),
+  caption: [
+    ...
+  ],
+)
+
+Holdfasts are hung from the large forge table. Holdfasts can be used in pritchel holes to hold a workpiece to the anvil.
 
 == Basic Operation
 
