@@ -1,9 +1,7 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/tool-inclusion.typ": *
 
 = Smithy
-
-(Overview paragraph(s))
 
 The smithy is a collection of very simple tools. The work is learning forging is practice:
 
@@ -41,9 +39,9 @@ Do not use tongs that fit loosely to your workpiece; this may cause a heated wor
 // 
 // === Consumables
 // 
-// === Tooling
+=== Tooling
 
-
+Protohaven has a good range of common smithing tools available for use in the tool crib. You are welcome to bring (or make!) your own tools for use in the smithy.
 
 === Materials
 
@@ -60,6 +58,8 @@ Materials prohibited for use in the forge:
  - bronze
  - chromium steel
  - stainless steel
+
+A small selection of steel rod suitable for smithing is available at the Protohaven shop.
 
 == Parts of the Forge
 
@@ -119,7 +119,7 @@ The quench tub filled with water is on the floor of the forge.
 #figure(
   image("images/smithy-quench_tub.jpeg", width: 50%),
   caption: [
-    An image of the quench tub on the floor of the forge.
+    The quench tub on the floor of the smithy.
   ],
 )
 
@@ -168,9 +168,9 @@ The smithy tool crib holds various hand tools.
 The smithy tool crib holds forging hammers of various sizes.
 
 #figure(
-  image("images/smithy-hammers.jpg", width: 60%),
+  image("images/smithy-hammers.jpeg", width: 60%),
   caption: [
-    ...
+    A sledge hammer (left) and a cross peen hammer (right).
   ],
 )
 
@@ -181,7 +181,7 @@ The smithy tool crib holds tongs of various shapes and sizes.
 #figure(
   image("images/smithy-tongs-detail.jpeg", width: 60%),
   caption: [
-    ...
+    Flat-jaw tongs (left), v-bit tongs (center), and scrolling tongs (right).
   ],
 )
 
@@ -192,9 +192,9 @@ Always choose tongs that will have strong, positive contact with the workpiece.
 The smithy tool crib holds various wire brushes.
 
 #figure(
-  image("images/smithy-brushes.jpeg", width: 100%),
+  image("images/smithy-brushes.jpeg", width: 60%),
   caption: [
-    ...
+    Various brushes for removing scale and cleaning surfaces.
   ],
 )
 
@@ -207,7 +207,7 @@ The smithy tool crib holds various punches for cutting material, making holes, a
 #figure(
   image("images/smithy-punches.jpeg", width: 60%),
   caption: [
-    ...
+    A square punch (left), a round punch (center), a flat punch (right).
   ],
 )
 
@@ -219,12 +219,12 @@ The smithy tool crib holds various punches for cutting material, making holes, a
 
 === Hardie Tools
 
-The drawer in the metal forge table holds hardie tools.
+The drawer in the metal forge table holds hardie tools. These tools are meant to be used with the hardie hole on an anvil.
 
 #figure(
   image("images/smithy-square_tools.jpeg", width: 60%),
   caption: [
-    ...
+    Two cutting tools. Note the square profile of the stems.
   ],
 )
 
@@ -238,12 +238,12 @@ Do not leave hardie tools in the anvil when the hardie tools are no longer in us
 
 === Pritchel Tools
 
-
+The metal forge table also holds tools for use with the pritchel hole on an anvil.
 
 #figure(
-  image("images/smithy-round_tools.jpeg", width: 100%),
+  image("images/smithy-round_tools.jpeg", width: 60%),
   caption: [
-    ...
+    A pritchel cut-off tool (left), and a holdfast (right).
   ],
 )
 
