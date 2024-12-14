@@ -32,7 +32,7 @@ Welcome to the Millwork and Joinery class at Protohaven!
 
 #pagebreak()
 
-= Millwork and Joinery Safety
+= Class Safety
 
 - Always use eye protection.\
   _The machines covered in this class can cause pieces of wood to move unpredictably, and at high speed._
