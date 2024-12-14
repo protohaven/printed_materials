@@ -1,5 +1,5 @@
 
-#import "/meta-environments/env-features.typ": *
+#import "/meta-environments/tool-inclusion.typ": *
 
 = Bench Grinders
 
@@ -10,7 +10,7 @@ The first bench grinder (on the left) holds:
 - Wire brush wheel, suitable for any material (left)
 - Aluminum grinding wheel, suitable for aluminum (right)
 
-The second bench grinder holds (on the right):
+The second bench grinder (on the right) holds:
 
 - Coarse grinding wheel, suitable for steel (left)
 - Fine grinding wheel, suitable for steel (right)
@@ -19,7 +19,13 @@ The second bench grinder holds (on the right):
 
 === Safety
 
-Do not let the workpiece get drawn into the gap between the tool rest and grinding wheel.
+Do not let the workpiece get drawn into the gap between the tool rest and grinding wheel. Keep the work perpendicular to the wheel face, and flat on the tool rest.
+
+Use the entire wheel surface when grinding. Using only one part of the wheel surface will lead to uneven wear, and may lead to pieces of the wheel flying off.
+
+It may be unsafe to grind small workpieces on the pedistal grinders. Consider using vice grips or other custom clamping jigs to keep control of your part and keep your fingers away from danger.
+
+The wire wheel creates a lot of drag on the workpiece, and can catch the edge of a part and fling it violently.
 
 === Care
 
@@ -43,7 +49,7 @@ Put the switch in the *off* position to turn off the motor in the grinder. Wait 
 
 === Aluminum Grinding Wheel
 
-The aluminum grinding wheel should be used for aluminum grinding only. Useing other materials on this wheel may damage it.
+The aluminum grinding wheel should be used for aluminum grinding only. Using other materials on this wheel may damage it.
 
 === Blast Gates
 
@@ -53,13 +59,13 @@ Make sure to open the appropriate blast gate and turn on the dust colleciton sys
 
 === Coarse Steel Grinding Wheel
 
-The course grinding wheel cna be used to rapidly hog off material from steels.
+The course grinding wheel can be used to rapidly remove material from steels.
 
 This grinding wheel should only be used with steels. Grinding other materials with this wheel may damage the wheel.
 
 === Fine Steel Grinding Wheel
 
-The course grinding wheel can be used to remove fine layers from steels.
+The fine grinding wheel can be used when a smoother finish is desired, but removes material more slowly than the coarse wheel.
 
 This grinding wheel should only be used with steels. Grinding other materials with this wheel may damage the wheel.
 
@@ -88,9 +94,9 @@ The wire wheel is useful for softening the edges of cut materials and  cleaning 
 === Setting Up
 
 + If needed, check to make sure there is sufficient water in the quench cup to quench the workpiece.
-+ If needed, adjust the tool rest to bring it close to the wheel surface.
++ If needed, adjust the tool rest to bring it to within 0.05" of the wheel surface.
 + Adjust the shield so that it will not impede the workpiece.
-+ Inspect the grinding wheel you will be using for any chips or cracks.
++ Inspect the grinding wheel you will be using for any chips, cracks, or severe indentations.
 + Open the appropriate blast gate.
 + Turn on the metal grinder dust collection.
 

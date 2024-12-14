@@ -1,9 +1,11 @@
 
-#import "../environment/env-protohaven-class_handouts.typ": *
+#import "/meta-environments/tool-inclusion.typ": *
 
-= TOOL
+= Scroll Saw
 
 (Overview paragraph(s))
+
+Note: if you are cleared on the large format lasers and you are working with a material that is approved for use with them, the large format lasers may be an option for your project.
 
 == Notes
 
@@ -17,7 +19,7 @@
 
 === Consumables
 
-== Parts of the TOOL
+== Parts of the Scroll Saw
 
 === 
 

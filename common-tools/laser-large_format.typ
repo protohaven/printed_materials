@@ -1,5 +1,5 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/tool-inclusion.typ": *
 
 = Large Format Laser
 
@@ -9,15 +9,18 @@ The Large Format Laser can etch or cut various materials with precision.
 
 === Safety
 
-- Do not leave the laser running unattended.
-- Keep the laser door closed during normal operation.
-- Make sure the fan is running before cutting or etching.
+*Do not leave the laser running unattended.* Lasers can cause fires. If your workpiece catches fire and the fire is not handled promptly, the fire can get out of control, and create an extreme hazard. Always keep watch over your running job, and be ready to extinguish any small fires with the nearby spray bottle, and/or hit the emergency stop if the laser goes out of control.
 
-_TODO: anything about laser safety?_
+*Keep the laser door closed during normal operation.* The door protects those nearby from any possible  eye damage or skin burns should the laser hit any reflective material. 
+
+*Make sure the fan is running before cutting or etching.* Running the laser on certain materials can produce gasses and make the studio environment unpleasant: the fans will pull the gasses outside. 
+
+// https://ehs.mit.edu/wp-content/uploads/MITEHS_Laser_Cutter_Guidance.pdf
+// https://www.cncsourced.com/guides/laser-cutter-safety-hazards/
 
 === Common Hazards
 
-Some materials may heat up enough from the laser to combust. In case of a small fire, use the water spray bottles to quickly douse any small flames. 
+Some materials may heat up enough from the laser to catch fire. In case of a small fire, use the water spray bottles to quickly douse any small flames. 
 // In the case of a larger fire, use the fire extinguisher in the kitchen area.
 
 Some materials may produce toxic gas when cut or etched. Make sure the material you are cutting or etching is not listed in the @laser-prohibited-materials subsection.
@@ -78,7 +81,7 @@ The following materials are prohibited for use in the laser cutter:
 #let table_header = app_materials.remove(0)
 
 #table(
-  columns: (15em, auto,auto,auto),
+  columns: (16em, auto,auto,auto),
   align: (col, row) => (left+top,center+top,center+top,left+top).at(col),
   stroke: none,
   inset: 5pt,
@@ -94,14 +97,14 @@ The following materials are prohibited for use in the laser cutter:
 === Front Quarter View
 
 #figure(
-  image("./images/large_format_laser-front_quarter-annotated.png"),
+  image("./images/large_format_laser-front_quarter-annotated.png", width: 100%),
   caption: [Annotated front-quarter view of the large format laser.],
 )
 
 === Control Panel
 
 #figure(
-  image("./images/large_format_laser-control_panel-default.jpeg", width: 70%),
+  image("./images/large_format_laser-control_panel-default.jpeg", width: 60%),
   caption: [The control panel for the large format laser in the default view.],
 )
 <large_format_laser-control_panel>
@@ -149,6 +152,7 @@ A spray bottle filled with water is kep on the right side of the cabinet. Use th
 A collection of magnets are kept on the left side of the  cabinet. Use these magnets to anchor the workpiece to the bed.
 
 == Basic Operation
+<large-format-laser-basic-operation>
 
 + @set-up-the-laser
 + @laser-workholding

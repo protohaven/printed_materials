@@ -1,16 +1,16 @@
 
-#import "/meta-environments/env-templates.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #import "./glossary/glossary_terms.typ": *
 
 #show: doc => class_handout(
-  title: "Wood Lathe Intro",
+  title: "Intro to Wood Lathe",
   category: "Wood",
   number: "104",
   clearances: ("Wood Lathe", "Woodshop Dust Collection"),
   instructors: ("Someone",),
   authors: ("Paul Mazaitis <paul@mazaitis.org>",),
-  draft: true,
+  draft: false,
   doc
 )
 
@@ -25,7 +25,7 @@ Welcome to the Introduction to Lathe class at Protohaven!
 
 #include "/common-policy/shop_rules.typ"
 #include "/common-policy/tool_status_tags.typ"
-#include "/common-policy/filing_a_tool_report.typ"
+// #include "/common-policy/filing_a_tool_report.typ"
 
 #set heading(offset:0)
 
@@ -51,11 +51,17 @@ If you feel unsure of something, feel free to ask!
 
 == Learning Objectives
 
-TODO
+In this class, students will learn:
+
+- Safety procedures for operating the lathe
+- Setting up and securing a workpiece in the lathe
+- Turning the workpiece:
+  - Roughing in a shape
+  - Smoothing cuts
+  - Finishing on the lathe
+  - Parting off
 
 == Terminology
-
-TODO: what other glossary terms are needed here (that are not covered in the tool anatomy section)?
 
 #blank_term
 #burl_term
@@ -74,6 +80,6 @@ TODO: what other glossary terms are needed here (that are not covered in the too
 
 #set heading(offset:0)
 
-= Resources
+// = Resources
 
-Websites? Videos? Printed materials?
+// None yet

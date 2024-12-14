@@ -1,9 +1,7 @@
 
-#import "/meta-environments/env-features.typ": *
+#import "/meta-environments/tool-inclusion.typ": *
 
 = Metal Drill Press
-
-
 
 == Notes
 
@@ -21,7 +19,7 @@ Go slowly, take frequent breaks, and use a good cutting oil to help cool the wor
 === Consumables
 
 The are shop-use drill bits available in the shop cart by the metal band saw, and there is a drill bit set available for checkout at the front desk. 
-If you need a particular bit size, or want to make fine cuts in a work piece, you may wish to invest in your own drill bit set.
+If you need a particular bit size, or want to be sure you have sharp drills, you should invest in your own drill bit set.
 
 == Parts of the Metal Drill Press
 
@@ -56,7 +54,7 @@ The chuck uses a set of jaws, which tighten around the shaft of the bit. Always 
 
 The depth stop limits the amount of downward travel for the spindle. 
 
-Set the depth stop to drill hols of a specific depth in a work piece.
+Set the depth stop to drill holes of a specific depth in a work piece.
 
 === Feed Handle
 
@@ -78,7 +76,7 @@ Always make sure the table adjust clamp is fully tight before drilling a workpie
 
 === Belt Cover
 
-At the top of the drill press, the belt cover protects the belt drive system. Make sure the belt cover is closed before turning on the drill press.
+At the top of the drill press, the belt cover contains the belt drive system. Make sure the belt cover is closed before turning on the drill press.
 
 === Motor Tension Lock Screw
 
@@ -99,8 +97,6 @@ At the base of the drill press is a clamp set for use with the drill press table
 === Drill Press Vise
 
 At the base of the drill press is a drill press vise, which can hold a workpiece for drilling. The drill press vise must be clamped to the table using the clamp set to securely hold the workpiece.
-
-The drill press vise is particularly useful for holding thin, flat stock. Always make sure that the workpiece is securely in the vise, and will not lift out and begin to spin on the drill bit.
 
 == Basic Operation
 
@@ -128,7 +124,7 @@ Secure a bit in the chuck:
   _This will help keep the bit centered in the chuck._
 + Slide the bit up into the jaws of the chuck. 
 + Tighten the chuck.\
-  _The metal drill press has a keyless chuck._
+  _The metal drill press has a keyless chuck; you do not need a chuck key. Tighten the chuck by hand._
   
 Briefly run the drill to make sure the bit is on axis.\
 _The bit should not wobble when the drill is running._
@@ -141,27 +137,30 @@ If needed, set the depth stop to make sure the drill press stops cutting at a sp
   
 If the workpiece comes loose while the drill is running, the workpiece will rise up and begin to spin, becoming a very dangerous hazard for anyone nearby.
 
-Always make sure that your workpiece is securely clamped to the table of the metal drill press.  
+Always make sure that your workpiece is securely clamped to the table of the metal drill press.
+
+#warning([DO NOT drill into the table or vise.]) Use sacrificial wood under the workpiece for through holes.)   
 ])
 
 There is a clamp set stored at the base of the metal drill press which can be used to secure the workpiece to the table.
 
-The clamp set can also be used to secure the table vise, which is useful for securing thin stock. 
+The clamp set can also be used to secure the table vise.
 
 === Drilling
 
 + Turn on the drill.
 + Pull the feed handle with a slow firm pressure to advance the bit through the workpiece.\
-  _Using cutting oil is recommended to control the temperature of the cut, and help carry away swarf._
+  _Using cutting oil is recommended to control the temperature of the cut, and help the drill bite into the material._
 + Reduce feed pressure near the end of the cut.\
-  _Do not drill into the table._
 + Turn off the drill.
 
 If you are making a deep hole in the workpiece, you may wish to complete the cut in several passes.
+
+// Called "pecking" to clear swarf and add more cutting fluid.
 
 === Cleaning Up
 
 + Unclamp the workpiece from the table.
 + Clear off the table of tools and clamps.
-+ Clean the table of swarf.
++ Clean the table of swarf and wipe up any cutting fluid.
 + Turn off the light.
