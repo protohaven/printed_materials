@@ -30,7 +30,7 @@ Welcome to the Woodshop Basic Equipment Clearance class at Protohaven!
 #pagebreak()
 
 
-= Safety
+= Class Safety
 
 // Important safety notes for this particular class
 

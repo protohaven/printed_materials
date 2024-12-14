@@ -1,7 +1,5 @@
 
-#import "/meta-environments/env-templates.typ": *
-
-#import "./glossary/glossary_terms.typ": *
+#import "/meta-environments/class_handouts.typ": *
 
 #show: doc => class_handout(
   title: "Class MUMBLE",
@@ -31,8 +29,7 @@ Welcome to the Introduction to Lathe class at Protohaven!
 
 #pagebreak()
 
-
-= Safety
+= Class Safety
 
 // Important safety notes for this particular class
 

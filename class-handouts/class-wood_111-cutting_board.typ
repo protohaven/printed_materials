@@ -23,7 +23,7 @@ Welcome to the MUMBLE class at Protohaven!
 
 #pagebreak()
 
-= Safety
+= Class Safety
 
 - Important
 - Safety
