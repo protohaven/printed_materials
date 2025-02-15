@@ -8,7 +8,7 @@
   clearances: ("Forge",),
   instructors: ("Someone", "Someone Else"),
   authors: ("paul@mazitis.org",),
-  draft: true,
+  draft: false,
   doc
 )
 
