@@ -108,7 +108,7 @@ The anvil is a work surface for many forging tasks.
 
 *Horn.* The horn is the rounded, tapered end of the anvil. The horn is used to bend material into curves. Different parts of the horn can be used to shape the material into various curves.
 
-*Hardie hole.* The pritchel hole is a square hole at the rear if the face, extending clear through the body of the anvil. The hardie hole accepts hardie tools, which rest in the hole without rotating. 
+*Hardie hole.* The hardie hole is a square hole at the rear if the face, extending clear through the body of the anvil. The hardie hole accepts hardie tools, which rest in the hole without rotating. 
 
 *Pritchel hole.* The pritchel hole is a round hole at the rear if the face, extending clear through the body of the anvil. The pritchel hole provides clearance for punching tools. It can also be used to hold tools that have round shanks, such as the hold fasts.
 

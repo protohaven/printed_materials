@@ -39,7 +39,7 @@ Welcome to the Introduction to Metalworking class at Protohaven!
 
 #pagebreak()
 
-= Metalworking Safety
+= Class Safety
 
 Do not work in the metal shop wearing anything that could end up pulling you into a machine. Do not wear:
 

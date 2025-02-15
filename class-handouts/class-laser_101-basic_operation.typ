@@ -51,7 +51,7 @@ After this class, you will be able to:
   - Handle emergency situations
   - Choose appropriate materials for your projects
 
-== Safety
+== Class Safety
   
   // Important safety notes for this particular class
   

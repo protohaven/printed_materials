@@ -31,7 +31,7 @@ Welcome to the Introduction to Lathe class at Protohaven!
 
 #pagebreak()
 
-= Safety
+= Class Safety
 
 - Use a full face shield (Safety glasses at a minimum) whenever the lathe is turned on.
 - Tie back long hair, do not wear gloves, and avoid loose clothing or objects that may catch on rotating parts or accessories.

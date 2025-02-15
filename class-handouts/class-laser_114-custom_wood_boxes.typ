@@ -45,7 +45,7 @@ After this class, you will be able to:
   - Choose appropriate materials for your projects
   - Make and assemble a box
 
-== Safety
+== Class Safety
   
   // Important safety notes for this particular class
   
