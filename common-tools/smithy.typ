@@ -257,6 +257,7 @@ Holdfasts are hung from the large forge table. Holdfasts can be used in pritchel
   _If you need to get something from outside the smithy and the forge is lit, turn off the forge. Never leave a lit forge unattended._
 + Check both the tank isolation valve and the forge isolation valve to make sure they are closed. 
   _When checking valve positions, always turn the valve towards the closed position (clockwise)._
++ Open the vent.
 + Turn on the vent fan.
 + Open the garage door.
 
@@ -268,14 +269,35 @@ Use the leg vise to hold pieces for bending or twisting.
 
 Use holdfasts to clamp a workpiece to the anvil.
 
-=== Lighting the Forge
+=== Lighting the Forge with the Ignitor
 
-+ Open the tank isolation valve to allow gas to flow from the tank.
++ Open both ends of the forge for good airflow.\
+  _If one end of the forge is sealed with bricks, flame may sputter during ignition. Once the forge is at temperature, one side may be closed._
++ Open the tank isolation valve to allow gas to flow from the tank.\
+  _Do not wear hearing protection for this step: immediately close the tank isolation valve if you hear gas escaping._
 + Open the forge isolation valve and immediately press the ignition switch. Press the button repeatedly until the gas ignites, as needed.
 
 *If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the smithy ventilate for a minute before next attempting to start the forge.
 
 *Do not adjust the regulator.* If you believe the regulator is faulty, alert the tech on duty.
+
+=== Lighting the Forge with the Blowtorch
+
++ Open both ends of the forge for good airflow.\
+  _If one end of the forge is sealed with bricks, flame may sputter during ignition. Once the forge is at temperature, one side may be closed._
++ Open the tank isolation valve to allow gas to flow from the tank.\
+  _Do not wear hearing protection for this step: immediately close the tank isolation valve if you hear gas escaping._
++ Stand between the tank and the forge.\
+  _Do not stand in front of the open ends of the forge._
++ Light the blowtorch, and send the flame across one open end of the forge.\
+  #image("images/smithy-blowtorch_lighting.jpeg", width: 60%)
++ Open the forge isolation valve, and angle the flame slightly into the forge.\
+  _The forge should ignite._
+
+*If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the smithy ventilate for a minute before next attempting to start the forge.
+
+*Do not adjust the regulator.* If you believe the regulator is faulty, alert the tech on duty.
+
 
 === Forging
 
