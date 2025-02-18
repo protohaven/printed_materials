@@ -2,8 +2,8 @@
 #import "/meta-environments/class_handouts.typ": *
 
 #show: doc => class_handout(
-  title: "Basic Smithy",
-  category: "Forge",
+  title: "Basics",
+  category: "Blacksmithing",
   number: "101",
   clearances: ("Forge",),
   instructors: ("Someone", "Someone Else"),
@@ -60,7 +60,7 @@ We use the forge to heat the material, the anvil or the vise as shaping platform
 
 #set heading(offset:1)
 
-#include "/common-tools/smithy.typ"
+#include "/common-tools/blacksmithing_area.typ"
 
 #set heading(offset:0)
 
