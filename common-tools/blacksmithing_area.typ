@@ -1,9 +1,9 @@
 
 #import "/meta-environments/tool-inclusion.typ": *
 
-= Smithy
+= Blacksmithing
 
-The smithy is a collection of very simple tools. The work is learning forging is practice:
+The blacksmithing area is a collection of very simple tools. The work is learning forging is practice:
 
  - trying things
  - figuring things out
@@ -21,13 +21,13 @@ When forging, always wear appropriate safety gear:
 - Eye protection
 - Hearing protection
 
-Always wear well-fitted clothing made of natural fibers (cotton, denim, wool) in the forge. Do not wear clothing made of plastic: if the clothing gets too hot, it will melt into your skin, causing severe burns.
+Always wear well-fitted clothing made of natural fibers (cotton, denim, wool) in the blacksmithing area. Do not wear clothing made of plastic: if the clothing gets too hot, it will melt into your skin, causing severe burns.
 
-Always wear closed-toed shoes in the forge. Boots are recommended. Wear shoes or boots made of natural materials (leather or canvas).
+Always wear closed-toed shoes in the blacksmithing area. Boots are recommended. Wear shoes or boots made of natural materials (leather or canvas).
 
 #warning([Assume all objects on the large forge table are hot.]) Always use tongs to pick up or manipulate objects on the large forge table.
 
-Never leave the forge unattended while lit.
+Never leave a forge unattended while lit.
 
 === Common Hazards
 
@@ -41,7 +41,7 @@ Do not use tongs that fit loosely to your workpiece; this may cause a heated wor
 // 
 === Tooling
 
-Protohaven has a good range of common smithing tools available for use in the tool crib. You are welcome to bring (or make!) your own tools for use in the smithy.
+Protohaven has a good range of common smithing tools available for use in the tool crib. You are welcome to bring (or make!) your own tools for use in the blacksmithing area.
 
 === Materials
 
@@ -61,7 +61,7 @@ Materials prohibited for use in the forge:
 
 A small selection of steel rod suitable for smithing is available at the Protohaven shop.
 
-== Parts of the Forge
+== Parts of the Blacksmithing Area
 
 === Propane Tank
 
@@ -119,7 +119,7 @@ The quench tub filled with water is on the floor of the forge.
 #figure(
   image("images/smithy-quench_tub.jpeg", width: 50%),
   caption: [
-    The quench tub on the floor of the smithy.
+    The quench tub on the floor of the blacksmithing area.
   ],
 )
 
@@ -127,7 +127,7 @@ The quench tub is used to quickly cool tools and forged workpieces.
 
 === Large Forge Table
 
-the large forge table is by the the gas bottles, and holds the primary working forge in the smithy.
+the large forge table is by the the gas bottles, and holds the primary working forge in the blacksmithing area.
 
 #figure(
   image("images/smithy-large_forge_table-annotated.png", width: 100%),
@@ -152,7 +152,7 @@ The garage door must be opened for ventilation while a forge is lit.
 
 === Tool Crib
 
-The smithy tool crib holds various hand tools.
+The blacksmithing area tool crib holds various hand tools.
 
 #figure(
   image("images/smithy-tool_crib.jpeg", width: 60%),
@@ -165,7 +165,7 @@ The smithy tool crib holds various hand tools.
 
 === Hammers
 
-The smithy tool crib holds forging hammers of various sizes.
+The blacksmithing area tool crib holds forging hammers of various sizes.
 
 #figure(
   image("images/smithy-hammers.jpeg", width: 60%),
@@ -176,7 +176,7 @@ The smithy tool crib holds forging hammers of various sizes.
 
 === Tongs
 
-The smithy tool crib holds tongs of various shapes and sizes.
+The blacksmithing area tool crib holds tongs of various shapes and sizes.
 
 #figure(
   image("images/smithy-tongs-detail.jpeg", width: 60%),
@@ -189,7 +189,7 @@ Always choose tongs that will have strong, positive contact with the workpiece.
 
 === Brushes
 
-The smithy tool crib holds various wire brushes.
+The blacksmithing area tool crib holds various wire brushes.
 
 #figure(
   image("images/smithy-brushes.jpeg", width: 60%),
@@ -202,7 +202,7 @@ Brushes are used to clean the scale off of forged material.
 
 === Punches
 
-The smithy tool crib holds various punches for cutting material, making holes, and manipulating surfaces.
+The blacksmithing area tool crib holds various punches for cutting material, making holes, and manipulating surfaces.
 
 #figure(
   image("images/smithy-punches.jpeg", width: 60%),
@@ -254,7 +254,7 @@ Holdfasts are hung from the large forge table. Holdfasts can be used in pritchel
 === Setting Up
 
 + Make sure that all of the materials and tools you will need for forging your workpieces are available and within easy reach. \
-  _If you need to get something from outside the smithy and the forge is lit, turn off the forge. Never leave a lit forge unattended._
+  _If you need to get something from outside the blacksmithing area and the forge is lit, turn off the forge. Never leave a lit forge unattended._
 + Check both the tank isolation valve and the forge isolation valve to make sure they are closed. 
   _When checking valve positions, always turn the valve towards the closed position (clockwise)._
 + Open the vent.
@@ -277,7 +277,7 @@ Use holdfasts to clamp a workpiece to the anvil.
   _Do not wear hearing protection for this step: immediately close the tank isolation valve if you hear gas escaping._
 + Open the forge isolation valve and immediately press the ignition switch. Press the button repeatedly until the gas ignites, as needed.
 
-*If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the smithy ventilate for a minute before next attempting to start the forge.
+*If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the blacksmithing area ventilate for a minute before next attempting to start the forge.
 
 *Do not adjust the regulator.* If you believe the regulator is faulty, alert the tech on duty.
 
@@ -294,7 +294,7 @@ Use holdfasts to clamp a workpiece to the anvil.
 + Open the forge isolation valve, and angle the flame slightly into the forge.\
   _The forge should ignite._
 
-*If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the smithy ventilate for a minute before next attempting to start the forge.
+*If the gas does not ignite within three seconds, shut off the forge isolation valve immediately.* Let the blacksmithing area ventilate for a minute before next attempting to start the forge.
 
 *Do not adjust the regulator.* If you believe the regulator is faulty, alert the tech on duty.
 
@@ -312,7 +312,7 @@ Clean the anvil off between heats. If scale is left on the anvil, forging a work
 
 === Quenching
 
-The quench tub has multiple uses in the smithy.
+The quench tub has multiple uses in the blacksmithing area.
 
 Use the quench tub to cool areas of your workpiece that you do not want to bend while you are working the heated areas.
 
@@ -327,6 +327,6 @@ When you pull material out of the water, note how quickly it dries. If the mater
 + Turn off the vent fan.
 + Close the garage door.
 + Return all tools to their places in the tool drib or the large forge table.
-+ Sweep the smithy floor for any slag and debris and discard.
++ Sweep the blacksmithing area floor for any slag and debris and discard.
 + Recycle any waste by placing it in the scrap metal bins // ALL waste?
  

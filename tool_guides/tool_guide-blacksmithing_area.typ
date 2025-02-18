@@ -1,12 +1,12 @@
 #import "/meta-environments/tool_guides.typ": *
 
 #show: doc => tool_guide(
-  title: "Smithy",
-  category: "Forge",
+  title: "Blacksmithing Area",
+  category: "Blacksmithing",
   authors: ("paul@mazitis.org",),
   draft: false,
   doc
 )
 
-#include "/common-tools/smithy.typ"
+#include "/common-tools/blacksmithing_area.typ"
 
