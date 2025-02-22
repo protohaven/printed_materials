@@ -11,13 +11,67 @@ The drum sander can be used to:
 
 == Notes
 
-Always feed stock against the rotation of the drum.
+The maximum depth of cut is a 1/4 turn of the hight adjustment crank. A 1/4 turn of the height adjustment crank is equal to 1/64" (0.4mm).
+
+The minimum safe size for workpieces is 9" x 2" x 1/8". 
+
+The drum sander and the planer cannot be operated at the same time: there is a switch on the wall to select which machine will use the circuit. 
+
+Reduce snipe when sanding more than one board of the same thickness by feeding them into the sander with the front end of the second board touching the back end of the first board.
+
+Run workpieces through at different positions left-to-right for even wear on the sandpaper.
 
 A planer may be a better choice if a lot of material needs to be removed from a thick workpiece.
 
+== Safety
+
+*Do not edge sand workpieces.* 
+
+*Do not stand directly in front of the sander's infeed area.* Workpieces may be kicked out of the drum sander at high speed.
+
+*Do not sand boards smaller than 9" x 2" x 1/8".* Small workpieces cannot be safely sanded. //See the reference sign...
+
+*Do not sand more than one board at a time.* Any slight height variation in any of the boards may cause one or some of the boards to be kicked out of the front of the drum sander.
+
+*Do not let the motor draw excessive power.* If the sanding laod meter goes to 25 amsp or above, immediately hit the emergency stop button to shut down the machine, and alert a shop tech.
+
+*Use a dust mask, hearing protection, and safety glasses.*
+
+== Common Hazards
+
+_Kickback_ is when a workpiece is propelled out of the machine by a spinning drum. Make sure that you and other shop members are clear of the front of the machine to be out of the way should kickback occur. Kickback can be caused by:
+
+- Sanding more than one board at a time
+- Taking too deep a cut
+- Sanding a workpiece less than 9" x 2" x 1/8"
+
+Fine dust left on the floor is a slip hazard. Always sweep the area after using the drum sander.
+
+Excessively cupped, bowed, or twisted workpieces are unstable and unpredictable, and may be propelled from the machine.
+
+== Materials
+
+*Only wood should be used.* Do not put any other materials through the drum sander.
+
+*Workpieces must be free of all metal.* Any nails, screws, staples, or other metal parts embedded in the wood can damage the machine. A portable metal detector is available at the front desk.
+
+*Do not cut wet wood.* Workpieces over 20% moisture will clog the paper.
+
+*Do not sand boards with finish or uncured glue applied.* Use a sacrificial piece of sandpaper to remove any uncured glue from the workpiece. Remove any layers of finish from the workpiece with the resaw bandsaw. Sanding boards with high resin content or applied finishes will quickly contaminate and clog sandpaper.
+
+// == Consumables
+// 
+// TODO: are members changing paper?
+// 
+// 181.5" x 3" sandpaper for each drum. The general rule of thumb is to sand a workpiece with progressively higher grit numbers, with no one grit increase of more than 50. Avoid skipping grits; the larger the grit increase, the harder it will be to remove the scratches from the previous grit. Recommended grit combination: 36 + 80; 60 + 100; 80 + 120; 100 + 150
+//     36, extra coarse: rough sawn boards, thickness sanding, glue removal
+//     60, coarse: thickness sanding, glue removal
+//     80–100, medium: removing planer marks and initial finish sanding
+//     120–180, fine: finish sanding
+// 3/4" strapping tape for securing the sandpaper to each drum
+
 == Parts of the Drum Sander
 
-// TODO image with parts
 === Full View
 
 #figure(
@@ -27,191 +81,112 @@ A planer may be a better choice if a lot of material needs to be removed from a 
   ],
 )
 
-=== Sanding Drum Power Switch 
+=== Control Panel
 
-The sanding drum power switch turns the sanding drum motor on and off. 
+#figure(
+  image("images/drum_sander-control_panel-annotated.png", width: 100%),
+  caption: [
+    An annotated full view of the drum sander.
+  ],
+)
 
-=== Sanding Drum
+=== Emergency Stop
 
-Rotates as the workpiece advanced through the machine. Wrapped with a strip of abrasive (usually 80 grit sand paper) which is held in place on both sides with clips embedded in the drum. The abrasive should be inspected before each use to ensure that it is not scorched, overloaded, or loose on the drum.
+Push in the emergency stop button to immediately stop all motors on the machine.
 
-=== Feed Table Speed Knob 
+To release the emergency stop, twist the button clockwise until it releases.
 
-The feed table speed knob acts as the power switch and speed control for the feed table. Rotate the speed knob clockwise past the click to turn on the feed table. Once the feed table is moving, rotate the speed knob to adjust the speed of the feed table. Turn off the feed table by rotating the knob counter clockwise past the click. 
+=== Sanding Drum Motor Control 
+
+Press the green button to engage the sanding drum motor.
+
+Press the red button to stop the sanding drum motor.
 
 #warning("Make sure the drum motor is turned on before feeding a workpiece into the machine.")
 
+=== Conveyor Motor Control
+
+Press the green button to engage the conveyor motor.
+
+Press the red button to stop the conveyor motor.
+
+=== Conveyor Speed Control 
+
+Adjust the conveyor speed control to change how quickly a workpiece is fed beneath the sanding drums. Start cuts with the speed control set to low (in the green range, below 4). 
+
+Adjust the speed upward as needed. When increasing speed, monitor the sanding load meter the make sure that the power draw does not exceed safe operation.
+
+=== Sanding Load Meter
+
+The sanding load meter reported the draw on the motors in amps. Keep the load below 15 amps for normal operation. 
+
+=== Conveyor
+
+The conveyor pulls the workpiece past the bottom of the sanding drums.
+
 === Height Adjustment Crank
 
-The height adjustment crank raises and lowers the sanding drum, adjusting the clearance between the sanding drum and the feed table.
+The height adjustment crank raises and lowers the conveyor table, adjusting the clearance between the sanding drum and the conveyor.
 
-=== Feed Table
+=== Lid
 
-The feed table moves the workpiece past the bottom of the sanding drum. If the feed table is pulling your workpiece to the left or right, tell the tech on duty.
+The lid protects the top of the sanding drums, and helps with dust collection.
 
-// For techs only: The edge should be visually inspected before each use to make sure it is centered in the guide tracks.
+Only run the drum sander with the lid lowered and locked in place with the left and right clasps.
 
-== Replacing the Abrasive Strip on the Drum
+=== Lid Clasps
 
-You may wish to replace the abrasive strip on the drum:
+There are two lid clasps, one each on the left and right sides of the lid.
 
-- The abrasive strip on the drum is worn.
-- You want to use an abrasive strip with a specific grit.
+Only run the drum sander with the lid lowered and locked in place with the left and right clasps.
 
-=== Sourcing Abrasive Strips
+=== Sanding Drums
 
-Abrasive strips are a consumable; you are welcome to use whatever is installed on the drum or left on the shelf beneath the drum sander. 
+There are two sanding drums on the drum sander, using progressive grits (80 grit and 120 grit).  The abrasives should be inspected before each use to ensure they are not clogged, torn, or loose on the drum.
 
-Protohaven sells pre-cut abrasive strips for the drum sander in the Protohaven Shop by the front desk. Check with the tech on duty for pricing and availability.
-
-You are welcome to bring your own abrasive strips, but you will need to cut the appropriate bevel in the strip for the strip to fit the drum.
-
-=== Removing an Abrasive Strip From the Drum
-
-#let grid_setup = (columns: (1fr, 2in), gutter: 1em)
-
-+ #grid(..grid_setup, 
-    [Start with the drum lid closed.], 
-    [#image("./images/drum_sander/removing/01-closed_lid.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Open the drum lid.], 
-    [#image("./images/drum_sander/removing/02-open_lid.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Reach into the drum and find the lever for the right clamp.], 
-    [#image("./images/drum_sander/removing/03-pull_right_clamp.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Pull up on the lever for the right clamp.], 
-    [#image("./images/drum_sander/removing/04-right_clamp_pulled.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Loosen the tapered end of the paper.], 
-    [#image("./images/drum_sander/removing/05-release_strip.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Pull the tapered end out of the drum.], 
-    [#image("./images/drum_sander/removing/06-remove_strip.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Unwind the abrasive strip from the drum.], 
-    [#image("./images/drum_sander/removing/07-unwind_strip.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [The left clamp.], 
-    [#image("./images/drum_sander/removing/08-left_clamp.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Lift the left clamp to release the abrasive strip.], 
-    [#image("./images/drum_sander/removing/09-pull_left_clamp.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [Pull the tapered end of the abrasive strip completely out of the drum.], 
-    [#image("./images/drum_sander/removing/10-remove_strip.jpeg")]
-  )
-+ #grid(..grid_setup, 
-    [The empty drum.], 
-    [#image("./images/drum_sander/removing/11-empty_roller.jpeg")]
-  )
-
-
-=== Attaching an Abrasive Strip to the Drum
-
-+ #grid(..grid_setup, 
-  [Start with an empty drum.], 
-  [#image("./images/drum_sander/adding/01-empty_roller.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Lift the lever for the left clamp and insert a tapered end of the abrasive paper strip.], 
-  [#image("./images/drum_sander/adding/02-pull_left_clamp.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Wind the abrasive paper onto the drum.\
-   _Leave a small gap between the edges of the paper as it winds on to the drum._ 
-  ], 
-  [#image("./images/drum_sander/adding/03-wind_paper.jpeg")]
-)
-// + #grid(..grid_setup, 
-//   [STEP], 
-//   [#image("./images/drum_sander/adding/04-rough_align_is_fine.jpeg")]
-// )
-+ #grid(..grid_setup, 
-  [The last wind of the paper around the roll should have an 1/8 inch gap.], 
-  [#image("./images/drum_sander/adding/05-leave_gap.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Insert the hook tool into the right clamp lever.], 
-  [#image("./images/drum_sander/adding/06-insert_hook_tool.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Pull the hook up, and then turn the hook so that the shoulder rests on the drum.\
-  _The shoulder should hold the paper in place._
-  ], 
-  [#image("./images/drum_sander/adding/07-pull_hook_up_and_over.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Feed the end of the taper into the right clamp.], 
-  [#image("./images/drum_sander/adding/08-strip_clamped_in_place.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Release the clamp and remove the tool.], 
-  [#image("./images/drum_sander/adding/09-remove_hook_tool.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Check the winding of the abrasive paper.\
-  _Retighten the strip as needed, making sure there is a gap between each winding of the abrasive strip._  
-  ], 
-  [#image("./images/drum_sander/adding/10-tighten_paper_leaving_gap.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Pull the left clamp lever.\
-  _Hold the paper to the drum to keep it from unspooling._
-  ], 
-  [#image("./images/drum_sander/adding/11-pull_up_on_left_clamp.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Pull the taper into the drum to take up any slack in the abrasive paper.], 
-  [#image("./images/drum_sander/adding/12-tighten_paper.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [The new abrasive strip is in place.\
-  _Recheck the gaps between the windings to make sure the paper does not overlap._  
-  ], 
-  [#image("./images/drum_sander/adding/13-open_lid.jpeg")]
-)
-+ #grid(..grid_setup, 
-  [Close the lid.], 
-  [#image("./images/drum_sander/adding/14-closed_lid.jpeg")]
-)
 
 == Basic Operation
 
 === Setting Up
 
-+ Open the cover.
-+ Raise the drum using the Height Adjustment Crank. 
-+ Place the workpiece below the drum.
-+ Lower the drum until the drum barely touches the top of the workpiece. Check this by rotating the drum by hand. #warning("DO NOT TURN ON THE DRUM MOTOR.")\
-  _Turn the crank slowly as pushing the drum into the workpiece can bend the machine casting._
-+  Use the table feed to move the workpiece out from under the drum.
-+  Close the cover.
++ Set the wall-mounted power switch to *Drum Sander*. \
+  _Do not change the switch position if the planer is in use._  
++ Turn on dust collection. \
+  _Dust collection must be enabled. If the drum sander is used without dust collection, the sandpaper will be immediately ruined._
+
+=== Inspect the Sandpaper
+
++ Undo the latches on the left and right sides of the cover.
++ Open the cover. \
+  _Hold the cover open: do not let it drop._
++ Inspect the sandpaper on both drums. \
+  _If there are any clogs or tears, file a maintenance report._
++ Close the cover.
++ Latch both sides of the cover.
 
 === Sanding
 
-+ Turn on dust collection.
-+ Open the blast gate.
-+ Turn on the drum motor. 
-+ Turn on the feed table and adjust the table speed.
-+ Feed the workpiece once all the way through.
-+ Adjust the drum height for the next pass and repeat as needed.
++ Use the height adjustment crank to set the height of the conveyor table. \
+  _The workpiece should fit comfortably under the lead roller. This will ensure that the sander will take a cut less than 1/64", as required._
++ Turn on the sanding drum motor. \
+  _Ensure the sanding drum is spinning before loading work into the sander._ 
++ Turn on the conveyor motor, starting with a slow speed. \
+  _The green areas of the speed control are recommended starting speeds._
++ Make light test passes to find an appropriate conveyor speed.
+   - If the Sanding Load Meter gets too high (into the yellow or red, above 15 on the scale), decrease the speed or reduce the cut depth.
+   - If the wood is burning, increase the speed or reduce the cut depth.
++ Do not adjust the height of the conveyor table by more than 1/4 turn per pass. \
+  _Because of the spongy nature of the sand paper backing, adjusting the handle is not needed on every pass. Several passes can be taken for every adjustment of the handle._
++ Feed the workpiece through until desired thickness is reached.
 
 === Cleaning Up
 
-+ Turn off the feed table.
-+ Turn off the sanding drum.
++ Turn off the conveyor motor.
++ Turn off the sanding drum motor.
++ Inspect the sandpaper for any clogs or tears (see Inspect the sandpaper, above). \
+  _If there are any clogs or tears, file a maintenance report._
 + Dust off and sweep up dust as needed.
-+ Close the blast gate.
++ Return the wall power switch to the center position.
 + Turn off the dust collection.\
   _If other members are still using the dust collector, leave it on._
 

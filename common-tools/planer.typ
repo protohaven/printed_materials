@@ -110,6 +110,8 @@ Take a skim cut and zero the scale. Measure the thickness of your workpiece and 
 + Unlock both lock knobs.
 + Adjust the table height so that the thickest part of the workpiece barely fits under the cut depth limiter.
 + Lock the lock knobs.
++ Set the wall-mounted power switch to *Planer*. \
+  _Do not change the switch position if the drum sander is in use._  
 + Turn on dust collection.
 + Make sure the workpiece is not engaged with the kickback pawls or infeed roller. 
 + Turn on the motor.
@@ -126,6 +128,7 @@ Adjust the planer height as needed and repeat to remove more material. Do not ad
 === Cleaning Up
 
 + Turn off the motor.
++ Return the wall power switch to the center position.
 + Turn off the dust collection.\
   _If other members are still using the dust collector, leave it on._
 + Brush off any dust, and sweep any chips from the surrounding area.

@@ -3,19 +3,15 @@
 #import "./glossary/glossary_terms.typ": *
 
 #show: doc => class_handout(
-  title: "Millwork Clearance",
+  title: "Millwork",
   category: "Wood",
   number: "103",
   clearances: ("Dust Collection", "Jointer", "Resaw Bandsaw", "Planer", "Drum Sander", "Router Table"),
   instructors: ("Sarah Nielsen",),
   authors: ("Sarah Nielsen", "Paul Mazaitis"),
-  draft: true,
+  draft: false,
   doc
 )
-
-// TODO
-//
-// [ ] Test the images to make sure they resolve well with a B&W printer
 
 = Welcome
 
@@ -116,14 +112,14 @@ After taking this class, you should be comfortable with:
 
 #set heading(offset:0)
 
-= Resources
-
-#emph([Additional resources go here:
-  
-  - Websites?
-  - Books/Magazines?
-  - YouTube Channels?
-])
+// = Resources
+// 
+// #emph([Additional resources go here:
+//   
+//   - Websites?
+//   - Books/Magazines?
+//   - YouTube Channels?
+// ])
 
 = Acknowledgments
 
