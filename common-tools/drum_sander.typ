@@ -51,6 +51,21 @@ Excessively cupped, bowed, or twisted workpieces are unstable and unpredictable,
 
 == Materials
 
+// TODO: engineered materials?
+
+=== Prohibited Materials
+
+Any wood that is:
+
+- wet
+- contains resin
+- finished
+- high in sap content
+
+...must not be used in the drum sander.
+
+=== Notes on Materials
+
 *Only wood should be used.* Do not put any other materials through the drum sander.
 
 *Workpieces must be free of all metal.* Any nails, screws, staples, or other metal parts embedded in the wood can damage the machine. A portable metal detector is available at the front desk.
